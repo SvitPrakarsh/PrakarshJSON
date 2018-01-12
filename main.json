@@ -1,1 +1,10 @@
-
+{
+  "eventName": "Prakarsh XIII",
+  "eventDate": {
+    "year":2017,
+    "month":2,
+    "date":21,
+    "hours":10,
+    "minutes":0
+  }
+}
