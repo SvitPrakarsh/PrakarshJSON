@@ -1,12 +1,12 @@
 {
   "category": [
-      { "name": "Ancillary", "iconUrl": "", "dataUrl": "" },
-      { "name": "Cyber Intrusion", "iconUrl": "", "dataUrl": "" },
-      { "name": "Dexter's Lab", "iconUrl": "", "dataUrl": "" },
-      { "name": "Fun-Tastic", "iconUrl": "", "dataUrl": "" },
-      { "name": "Robotics", "iconUrl": "", "dataUrl": "" },
-      { "name": "Structonics", "iconUrl": "", "dataUrl": "" },
-      { "name": "Wheels and Wings", "iconUrl": "", "dataUrl": "" },
-      { "name": "Workshop", "iconUrl": "", "dataUrl": "" }
+      { "name": "Ancillary", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Cyber Intrusion", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Dexter's Lab", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Fun-Tastic", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Robotics", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Structonics", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Wheels and Wings", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Workshop", "description":"", "iconUrl": "", "dataUrl": "" }
   ]
 }
