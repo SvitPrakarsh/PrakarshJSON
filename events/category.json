@@ -1,0 +1,12 @@
+{
+  "category": [
+      { "name": "Ancillary", "iconUrl": "", "dataUrl": "" },
+      { "name": "Cyber Intrusion", "iconUrl": "", "dataUrl": "" },
+      { "name": "Dexter's Lab", "iconUrl": "", "dataUrl": "" },
+      { "name": "Fun-Tastic", "iconUrl": "", "dataUrl": "" },
+      { "name": "Robotics", "iconUrl": "", "dataUrl": "" },
+      { "name": "Structonics", "iconUrl": "", "dataUrl": "" },
+      { "name": "Wheels and Wings", "iconUrl": "", "dataUrl": "" },
+      { "name": "Workshop", "iconUrl": "", "dataUrl": "" }
+  ]
+}
