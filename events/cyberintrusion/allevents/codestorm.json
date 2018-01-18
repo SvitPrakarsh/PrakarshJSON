@@ -9,7 +9,7 @@ experience of solving IIM question, cracking the password and coding." },
     { "sectionHeader":"Round 1 - Mind Mapping", "sectionContent":"This is a pen-paper based round. The participants will compete individually. Question paper will be provided and participants have to write in it only. There will be IIM entrance type questions. All questions will be interlinked. For each right answer they will get one plus point." },
     { "sectionHeader":"Round 2 - Crypt Your Mind", "sectionContent":"This round is pen-paper based round. The participants will be given a question paper in which a password and a code will be given, participants have to decrypt that code. The volunteers will guide the participants about the way of decoding the code. The participants who will solve maximum questions will qualify for next round." },
     { "sectionHeader":"Round 3 - Coding N Swapping", "sectionContent":"This is a computer based round. Participants will be given a coded program and they have to insert errors in it in specific time limit. After the time ends, participants will switch computers and now they have to solve the errors to obtain the output. The participant solving the maximum errors will be declared as the winner." },
-    { "sectionHeader":"Participation", "sectionContent":"Individual" },
+    { "sectionHeader":"Participation", "sectionContent":"Individual" }
   ],
   "contactDetails":[
     { "name":"Het Patel", "number":"8200462674"},
