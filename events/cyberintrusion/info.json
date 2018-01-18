@@ -1,9 +1,9 @@
 {
   "events":[
-    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "iconUrl": "", "dataUrl": "" },
-    { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "iconUrl": "", "dataUrl": "" },
-    { "name": "Impulse", "tagline":"Keep the Momentum Going", "iconUrl": "", "dataUrl": "" },
-    { "name": "MindKraft", "tagline":"Crack it. Smack it.", "iconUrl": "", "dataUrl": "" },
-    { "name": "Tech-Rritory", "tagline":"Cross It If You Can!", "iconUrl": "", "dataUrl": "" }
+    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "", "dataUrl": "" },
+    { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "imagenUrl": "", "dataUrl": "" },
+    { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "", "dataUrl": "" },
+    { "name": "MindKraft", "tagline":"Crack it. Smack it.", "imageUrl": "", "dataUrl": "" },
+    { "name": "Tech-Rritory", "tagline":"Cross It If You Can!", "imageUrl": "", "dataUrl": "" }
   ]
 }
