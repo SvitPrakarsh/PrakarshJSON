@@ -1,6 +1,6 @@
 {
   "events":[
-    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "", "dataUrl": "" },
+    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "", "dataUrl": "https://github.com/SvitPrakarsh/PrakarshJSON/tree/master/events/cyberintrusion/allevents/codestorm.json" },
     { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "imagenUrl": "", "dataUrl": "" },
     { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "", "dataUrl": "" },
     { "name": "MindKraft", "tagline":"Crack it. Smack it.", "imageUrl": "", "dataUrl": "" },
