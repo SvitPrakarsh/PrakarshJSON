@@ -7,6 +7,6 @@
       { "name": "Robotics", "tagline":"", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/robotics.webp", "dataUrl": "" },
       { "name": "Structonics", "tagline":"Building Confidence", "department":"Civil", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/structonics.webp", "dataUrl": "" },
       { "name": "Wheels and Wings", "tagline":"", "department":"Mechanical Aeronautical", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/wheelsandwings.webp", "dataUrl": "" },
-      { "name": "Workshops", "tagline":"", "department":"https://svitprakarsh.github.io/PrakarshGraphics/category/workshop.webp", "iconUrl": "", "dataUrl": "" }
+      { "name": "Workshops", "tagline":"", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/workshop.webp", "dataUrl": "" }
   ]
 }
