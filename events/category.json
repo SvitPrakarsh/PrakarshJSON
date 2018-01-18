@@ -1,7 +1,7 @@
 {
   "category": [
       { "name": "Ancillary", "tagline":"A Support to Success", "department":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Cyber Intrusion", "tagline":"A Call for Innovative Minds", "department":"Computer I.T. M.C.A", "iconUrl": "", "dataUrl": "https://github.com/SvitPrakarsh/PrakarshJSON/tree/master/events/cyberintrusion/info.json" },
+      { "name": "Cyber Intrusion", "tagline":"A Call for Innovative Minds", "department":"Computer I.T. M.C.A", "iconUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/info.json" },
       { "name": "Dexter's Lab", "tagline":"Emerge, Incept, Excel..", "department":"Electrical I.C. E.C.", "iconUrl": "", "dataUrl": "" },
       { "name": "Fun-Tastic", "tagline":"A Funntastic Journey", "department":"Non-Tech", "iconUrl": "", "dataUrl": "" },
       { "name": "Robotics", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
