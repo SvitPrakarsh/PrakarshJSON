@@ -1,12 +1,12 @@
 {
   "category": [
-      { "name": "Ancillary", "description":"A Support to Success", "iconUrl": "", "dataUrl": "" },
-      { "name": "Cyber Intrusion", "description":"A Call for Innovative Minds\nComputer I.T. M.C.A", "iconUrl": "", "dataUrl": "" },
-      { "name": "Dexter's Lab", "description":"Emerge, Incept, Excel..\nElectrical I.C. E.C.", "iconUrl": "", "dataUrl": "" },
-      { "name": "Fun-Tastic", "description":"A Funntastic Journey\nNon-Tech", "iconUrl": "", "dataUrl": "" },
-      { "name": "Robotics", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Structonics", "description":"Building Confidence\nCivil", "iconUrl": "", "dataUrl": "" },
-      { "name": "Wheels and Wings", "description":"\nMechanical Aeronautical", "iconUrl": "", "dataUrl": "" },
-      { "name": "Workshops", "description":"", "iconUrl": "", "dataUrl": "" }
+      { "name": "Ancillary", "tagline":"A Support to Success", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Cyber Intrusion", "tagline":"A Call for Innovative Minds", "department":"Computer I.T. M.C.A", "iconUrl": "", "dataUrl": "" },
+      { "name": "Dexter's Lab", "tagline":"Emerge, Incept, Excel..", "department":"Electrical I.C. E.C.", "iconUrl": "", "dataUrl": "" },
+      { "name": "Fun-Tastic", "tagline":"A Funntastic Journey", "department":"Non-Tech", "iconUrl": "", "dataUrl": "" },
+      { "name": "Robotics", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Structonics", "tagline":"Building Confidence", "department":"Civil", "iconUrl": "", "dataUrl": "" },
+      { "name": "Wheels and Wings", "tagline":"", "department":"Mechanical Aeronautical", "iconUrl": "", "dataUrl": "" },
+      { "name": "Workshops", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" }
   ]
 }
