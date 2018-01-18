@@ -1,12 +1,12 @@
 {
   "category": [
-      { "name": "Ancillary", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Cyber Intrusion", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Dexter's Lab", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Fun-Tastic", "description":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Ancillary", "description":"A Support to Success", "iconUrl": "", "dataUrl": "" },
+      { "name": "Cyber Intrusion", "description":"A Call for Innovative Minds\nComputer I.T. M.C.A", "iconUrl": "", "dataUrl": "" },
+      { "name": "Dexter's Lab", "description":"Emerge, Incept, Excel..\nElectrical I.C. E.C.", "iconUrl": "", "dataUrl": "" },
+      { "name": "Fun-Tastic", "description":"A Funntastic Journey\nNon-Tech", "iconUrl": "", "dataUrl": "" },
       { "name": "Robotics", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Structonics", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Wheels and Wings", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Workshop", "description":"", "iconUrl": "", "dataUrl": "" }
+      { "name": "Structonics", "description":"Building Confidence\nCivil", "iconUrl": "", "dataUrl": "" },
+      { "name": "Wheels and Wings", "description":"\nMechanical Aeronautical", "iconUrl": "", "dataUrl": "" },
+      { "name": "Workshops", "description":"", "iconUrl": "", "dataUrl": "" }
   ]
 }
