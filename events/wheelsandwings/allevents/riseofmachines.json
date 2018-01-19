@@ -1,0 +1,42 @@
+	{
+		"eventName": "Rise of Machines 7.0 ",
+		"imageUrl": "",
+		"details": [{
+				"sectionHeader": "Introduction",
+				"sectionContent": "Making a super car based on steering mechanism. "
+			},
+			{
+				"sectionHeader": "Abstract",
+				"sectionContent": ""
+			},
+			{
+				"sectionHeader": "Description of Rounds",
+				"sectionContent": "Kits will be provided and students will have to make a suitable mechanism on the spot. The team which will complete the track with maximum utilization of resources and in shortest time period will be declared as winner. Suficient guidance will be provided regarding the model construction in advance before the event. "
+			},
+			{
+				"sectionHeader": "Round 1  ",
+				"sectionContent": "A brief seminar regarding the model will be conducted mentioning about  A) Design considerations  b)Maximum utilization of available resources  c)Factors to be considered during model making d)how to analysis your model."
+			},
+			{
+				"sectionHeader": "Round 2 ",
+				"sectionContent": "Model making you are supposed to create a model according to a given task under sufficient guidance.  "
+			},
+			{
+				"sectionHeader": "Round 3",
+				"sectionContent": "Performance Now finally it's time to test your ability and performance with your model and defeat others "
+			},
+			{
+				"sectionHeader": "Participation",
+				"sectionContent": "4 participants per team "
+			}
+		],
+		"contactDetails": [{
+				"name": "Yash Padhiyar (T.Y. Mech)   ",
+				"number": "7043096895"
+			},
+			{
+				"name": "Jiten Suthar (T.Y. Mech)  ",
+				"number": "7043096895"
+			}
+		]
+	}

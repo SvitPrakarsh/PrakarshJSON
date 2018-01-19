@@ -1,0 +1,9 @@
+{
+  "events":[
+    { "name": "Assemble It 3.0 ", "tagline":"Ignite the spark within", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/assembleit.json" },
+    { "name": "Def-sec 5.0 ", "tagline":"Ajeet hai, abheed hai", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/defsec.json" },
+    { "name": "Prachaar 8.0 ", "tagline":"Engineered to move the human spirit", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/prachaar.json" },
+    { "name": "Rise of Machines 7.0", "tagline":"“Don't dream it, drive it", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/riseofmachines.json" },
+    { "name": "War of wings ", "tagline":"In thrust, we trust", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/warofwings.json" }
+  ]
+}

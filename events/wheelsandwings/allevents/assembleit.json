@@ -1,0 +1,46 @@
+{
+	"eventName": "Assemble It 3.0 ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This event is all about your technical skills and your applied knowledge. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Dive into the heart of an Automobile!! The aim is to explore the technical knowledge regarding automobile engineering. Spark your way through the elaborate rounds which would test your problem solving and reasoning skills. At the end, untangle the mysteries of an I.C. Engine "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 - General Quiz ",
+			"sectionContent": " Participants have to give a pen paper test to test the technical knowledge the test will cover areas of Aptitude, general knowledge followed by Basic maths and Science. The time limit for round 1 will be 1 hour "
+		},
+		{
+			"sectionHeader": "Round 2 - Identify me ",
+			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member out of state will be blindfolded and try to guess the components, other members will not come down as many as possible. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done by adding scores of first 2 rounds. "
+		},
+		{
+			"sectionHeader": "Round 3 - Techno Hunt ",
+			"sectionContent": "Participants in this event will be given riddles which will be spread across the campus. They will have to identify the correct answer of the riddle to get the next hint. From solving number of hints they have to identify the given component.   This is an elimination round "
+		},
+		{
+			"sectionHeader": "Round 4 -  Just fix it ",
+			"sectionContent": "Final six teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine under the guidance. o Top three teams will be decided based on timing of round 3 "
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": ":2-3 participants per team "
+		}
+	],
+	"contactDetails": [{
+			"name": "Head",
+			"number": "8238337514 "
+		},
+		{
+			"name": "Joint head",
+			"number": "8489934840 "
+		}
+	]
+}

@@ -1,0 +1,47 @@
+	{
+		"eventName": "Prachaar",
+		"imageUrl": "",
+		"details": [{
+				"sectionHeader": "Introduction",
+				"sectionContent": "A perfect stage for passionate automobile fans to show their technical knowledge. "
+			},
+			{
+				"sectionHeader": "Abstract",
+				"sectionContent": "Observing the hefty and amboyant automobile always cheer you up. Prachaar comes with all such experience.  Chance to acme & imposing all your automobile expertise. And a platform to showcase the prodigious journey of the best brands in the race of this automobile world.  "
+			},
+			{
+				"sectionHeader": "Description of Rounds",
+				"sectionContent": ""
+			},
+			{
+				"sectionHeader": "Round 1 - Mind Mapping",
+				"sectionContent": "In the first round there is a simple quiz based on automobile knowledge and also a bit of general knowledge. No elimination takes place. There will be mcq questions, fill in the blanks and direct questions. Half hour will be given to complete the quiz. "
+			},
+			{
+				"sectionHeader": "Round 2 - Crypt Your Mind",
+				"sectionContent": "This is a debate round in which the participants will have to defend their automobile against other. The automobile they get will depend upon the chit they pick up.  Half of the team will be eliminated here and round 1 scores will be considered. Debate will be conducted for five minutes. "
+			},
+			{
+				"sectionHeader": "Round 3 - Coding N Swapping",
+				"sectionContent": "The teams will be given the name of automobile on which they have to present orally. Here participants will be given 7 minutes for execution.  The best 6 teams will be selected."
+			},
+			{
+				"sectionHeader": "Round 4 - Coding N Swapping",
+				"sectionContent": "Here a surprise automobile will be presented in front of the teams and they would be told about all its special features by technician. Then they have to give a name to that automobile with appropriate reason and a tagline"
+			},
+
+			{
+				"sectionHeader": "Participation",
+				"sectionContent": " Team of 3 "
+			}
+		],
+		"contactDetails": [{
+				"name": "Aatman Patel ",
+				"number": "9726512053 "
+			},
+			{
+				"name": "Akshar Pate",
+				"number": "9726512053 "
+			}
+		]
+	}
