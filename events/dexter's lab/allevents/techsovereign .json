@@ -1,0 +1,18 @@
+{
+  "eventName":"Tech-Sovereign ",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"Experience the logic gates, circuits and sensors in an amazingly fun way and show us your Skills " },
+    { "sectionHeader":"Abstract", "sectionContent":"Learn how to make a sensor work for real. As sensor have become an essential components in almost every electronic devices, it is important to understand the working of same in day to day applications. Also master your soldering skills and circuit solving skills. Take full advantage of learning all of this by participating in this event. " },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1 - Mind Mapping", "sectionContent":"o This round is basically a modification of famous game Dumb-charades.  o One member of the team will be given couple of movies with some technical twist and he/she will have to do gestures so his/her partner can guess it right in minimum time. o This is a time based elimination round. The selected team will move to round two. " },
+    { "sectionHeader":"Round 2 - Crypt Your Mind", "sectionContent":"o In this round, one of the team member will be blindfolded while standing on a maze. o The other partner will guide the way by answer twisted Gate circuits whose output will show you the right way. o Teams to finish this round in minimum time will move to round 3. " },
+    { "sectionHeader":"Round 3 - Coding N Swapping", "sectionContent":"o This round is a technical treasure hunt. o Each team member will be given a clue which will lead to further clues. o Teams to complete the cycle of treasure hunt in list time will lead to final round. " },
+	  { "sectionHeader":"Round 3 - Coding N Swapping", "sectionContent":"sectionHeader":"Round 3 - Coding N Swapping", "sectionContent":"o This round is a technical treasure hunt. o Each team member will be given a clue which will lead to further clues. o Teams to complete the cycle of treasure hunt in list time will lead to final round. "},
+    { "sectionHeader":"Participation", "sectionContent":"Team of 2. " }
+  ],
+  "contactDetails":[
+    { "name":"Harmish Pandya", "number":"7622017009 "},
+    { "name":"Aayush Patel ", "number":"8320064903 "}
+  ]
+}
