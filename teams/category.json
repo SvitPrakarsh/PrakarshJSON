@@ -1,8 +1,8 @@
 {
   "category": [
-      { "name": "App Development", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Design", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Web Development", "description":"", "iconUrl": "", "dataUrl": "" },
-      { "name": "Core Committee", "description":"", "iconUrl": "", "dataUrl": "" }
+      { "name": "App Development", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Design", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Web Development", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "Core Committee", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" }
   ]
 }
