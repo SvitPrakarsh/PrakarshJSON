@@ -1,0 +1,18 @@
+{
+  "eventName":"Impulse",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"This event tests the tactics and also the mental awareness of the contestants. " },
+    { "sectionHeader":"Abstract", "sectionContent":"A very interesting event which checks your reflexes and technical knowledge with a lot of fun. " },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1 -  	REFLEXES” , "sectionContent":"This is a pen-paper based round. This event is based on the game Name, Place, Animal and Thing!  Contestants have to write names of the objects that fit under that particular category (website, application, hardware, operating system). 
+	" },
+    { "sectionHeader":"Round 2 - HEADS UP!” , "sectionContent":"This is a group round. In this round, contestants will be divided in groups of five. o This is a round similar to Charades in which a contestant will be given a technical term written on a placard (e.g. Debug) and she/he is not allowed to see the term. o The group members are to see the term and thereafter the contestant will place the placard on his/her head. o The objective is to make the contestant, with the card, guess the word on the placard. o The group members will help the contestant(with the placard) guess the word written, but there is a twist, which will be revealed on the day of the event only. o Each contestant holding a card will have to guess the word within the allocated time. " },
+    { "sectionHeader":"Round 3 - CRYPTO BUCKS” , "sectionContent":"In this round, each contestant will be asked a technical question individually. o For each correct answer to the questions asked, an amount of virtual money will be raised. o After completion each round of questions the contestants will be asked to eliminate one participant from among themselves. o Thus after a several rounds the virtual money to the correct answers will be summed up and the winner has it. " },
+    { "sectionHeader":"Participation", "sectionContent":"Individual" }
+  ],
+  "contactDetails":[
+    { "name":"Naisargi Kothari(SY IT) ", "number":"9512797987"},
+    { "name":"Ronil Christian  (SY COMP) ", "number":"8866300181"}
+  ]
+}

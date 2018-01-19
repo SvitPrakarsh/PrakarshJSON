@@ -1,0 +1,17 @@
+{
+  "eventName":"Mindcraft",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"This event will test the technical skills and logic application skills of the participants. " },
+    { "sectionHeader":"Abstract", "sectionContent":"An event is a technical application and logic based treasure hunt on a PC." },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1 - KAHOOT", "sectionContent":"This round is an aptitude test round where participants will be answering to the questions on their own device with the help of kahoot. o Questions will be displayed on a projector screen. o Each question will have four options out of which one will be the correct answer. o Judging criteria will be on the basis of total number of correct answers. " },
+    { "sectionHeader":"Round 2 - CRONOS", "sectionContent":"Pen and paper based round. o Here the questions will not have fixed answers. o Answer getting lowest votes will be given more points and answers with majority votes will be given less points. o Judging criteria will be points earned by the participants." },
+    { "sectionHeader":"Round 3 - FUN.EXE", "sectionContent":" This round is a treasure hunt round. o Participants have to solve a riddle. o Correct answer of the riddle will give them hint to reach the next riddle. o After having solved all the riddles, participants will be able to reach the treasure and clear this round. " },
+    { "sectionHeader":"Participation", "sectionContent":"Individual" }
+  ],
+  "contactDetails":[
+    { "name":"Janakaraj Poojary ", "number":"Priyanshi Shah "},
+    { "name":"8488848624 ", "number":"9427935931"}
+  ]
+}
