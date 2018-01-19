@@ -1,17 +1,42 @@
 {
-  "eventName":"funtasticity",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Introduction", "sectionContent":"Your instinct to bet, principles of town planning to plan the perfect town and use your technique to design structure" },
-    { "sectionHeader":"Abstract", "sectionContent":"Build to Last is based on the principles of Town Planning and on the technique of making a structure using IMPERFECT ZENGA BLOCKS. The objective of the contest is to prepare a well planned town, based on the principles of Town Planning. In the first round participants will get a chance to collect the money as possible based on a round bet it! With the money earned From the first round the participants have to buy all the town planning materials with a price tag on them. Then participants can plan their own town with the different elements of the city which they have bought. Then the model of town planning judge by the judges and top four teams will be go for the last round ‘BALANCE IT’. In this, the teams have to build a structure using imperfect zenga blocks so that it is stable up to a certain period of time. " },
-    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
-    { "sectionHeader":"Round 1 -  Betting ", "sectionContent":"o In betting contestants will be given a base amount. o They have to bet the amount they want to from the given base amount on the clips shown to them. o  We will show 4 video clips. o Accordingly from their bet they will gain or lose the amount.  o That gained or loosed amount will be added to their base amount or subtracted their base amount respectively. " },
-    { "sectionHeader":"Round 2 - Plan it! ", "sectionContent":"o The teams can use only the elements bought by the money they had earned earlier in the first and second round. o The teams are not allowed to use any other element for the planning of town except those provided to them. o The teams are themselves responsible for any damage caused to the town before the judging process.  o The judging criteria will be based on: 1) The judgment will be fully based on the principles of town planning. 2) The final decision will be of the judges. " },
-    { "sectionHeader":"Round 3 -  Balance it! ", "sectionContent":"o It this round the teams will be given one plan table each and they have to adjust the pain table with the help of eye level.  o Once the plan table is set the team have to build a tower or structure using imperfect zenga blocks the team which will build the highest tower will be the winner. Time given for setting the plain table: 10 min Time given for marking the structure: 15 min o Time will be secondary criteria for judging if two heights are found same. Specification for making structure using IMPERFECT ZENGA BLOCKS. o Minimum three columns at base. o Maximum four columns at base. o The upper structure can be designed in any convenient way by the teams. o Once the teams have submitted their structure and the time has been noted no changes can be done in the structure. o The height will be measured after 15 min only, so the structure should remain stable until the height is measured. The judging criteria will be based on:: 1) The team which will build the highest tower will be the winner. 2) Time will be the second criteria for judging if the heights of 2 structures are found same. EVENT ROUND " },
-    { "sectionHeader":"Participation", "sectionContent":"4 members per team " }
-  ],
-  "contactDetails":[
-    { "name":"Manan Pathak   ", "number":"8460400585 "},
-    { "name":"Astha Patel", "number":"7490000634"}
-  ]
+	"eventName": "funtasticity",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Your instinct to bet, principles of town planning to plan the perfect town and use your technique to design structure"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Build to Last is based on the principles of Town Planning and on the technique of making a structure using IMPERFECT ZENGA BLOCKS. The objective of the contest is to prepare a well planned town, based on the principles of Town Planning. In the first round participants will get a chance to collect the money as possible based on a round bet it! With the money earned From the first round the participants have to buy all the town planning materials with a price tag on them. Then participants can plan their own town with the different elements of the city which they have bought. Then the model of town planning judge by the judges and top four teams will be go for the last round ‘BALANCE IT’. In this, the teams have to build a structure using imperfect zenga blocks so that it is stable up to a certain period of time. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 -  Betting ",
+			"sectionContent": "In betting contestants will be given a base amount. They have to bet the amount they want to from the given base amount on the clips shown to them.  We will show 4 video clips. o Accordingly from their bet they will gain or lose the amount.  That gained or loosed amount will be added to their base amount or subtracted their base amount respectively. "
+		},
+		{
+			"sectionHeader": "Round 2 - Plan it! ",
+			"sectionContent": "The teams can use only the elements bought by the money they had earned earlier in the first and second round. The teams are not allowed to use any other element for the planning of town except those provided to them. The teams are themselves responsible for any damage caused to the town before the judging process.  The judging criteria will be based on: 1) The judgment will be fully based on the principles of town planning. 2) The final decision will be of the judges. "
+		},
+		{
+			"sectionHeader": "Round 3 -  Balance it! ",
+			"sectionContent": "It this round the teams will be given one plan table each and they have to adjust the pain table with the help of eye level.  Once the plan table is set the team have to build a tower or structure using imperfect zenga blocks the team which will build the highest tower will be the winner. Time given for setting the plain table: 10 min Time given for marking the structure: 15 min  Time will be secondary criteria for judging if two heights are found same. Specification for making structure using IMPERFECT ZENGA BLOCKS.  Minimum three columns at base. oMaximum four columns at base. o The upper structure can be designed in any convenient way by the teams.  Once the teams have submitted their structure and the time has been noted no changes can be done in the structure. The height will be measured after 15 min only, so the structure should remain stable until the height is measured. The judging criteria will be based on:: 1) The team which will build the highest tower will be the winner. 2) Time will be the second criteria for judging if the heights of 2 structures are found same. EVENT ROUND "
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "4 members per team "
+		}
+	],
+	"contactDetails": [{
+			"name": "Manan Pathak   ",
+			"number": "8460400585 "
+		},
+		{
+			"name": "Astha Patel",
+			"number": "7490000634"
+		}
+	]
 }

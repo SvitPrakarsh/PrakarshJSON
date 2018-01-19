@@ -1,18 +1,42 @@
-
 {
-  "eventName":"virtualestate",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Introduction", "sectionContent":"Take your decision wisely and make best use of your assests. Risk it to win it! " },
-    { "sectionHeader":"Abstract", "sectionContent":"Buying and selling of plots is an important part of a civil engineer's business. This event deals with improving the management aspects and also the risk taking factors that a civil engineer has to deal with, it gives them an experience of taking decisions on basis of their knowledge and guts and thus increase their assets. Base amount is allotted to all the teams participating. Stock market round and mutual fund round is executed. On the basis of profit/loss done by the team, their total balance is allotted. The balance is further multiplied and revised balance is announced .plots are shown and auction is done, after the first round their balance are accounted and flash news is displayed, according to it the value of plots increase or decrease and an internal plot selling at last on basis of valuation of plots winner is declared. " },
-    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
-    { "sectionHeader":"Round 1 -STOCK EXCHANGE", "sectionContent":"o Certain base amount is given to each team and stock list with prices is displayed. o They buy stocks write it down and report it on the desk and after recording o That in our data their sheet is signed only then the stocks are valid. o Their amount of shares and remaining balance is accounted. o Price hike or drop of stocks in each round. o They sell stocks or buy more and o Everything is recorded on desk too. " },
-    { "sectionHeader":"Round 2 - MUTUAL FUNDS", "sectionContent":"o From the remaining amount of each team mutual funds are to be brought by the list which is displayed. o They buy mutual funds write it down and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid. o Their amount of mutual funds and remaining balance is accounted. o Price hike or drop of fund in each round. The changes of the funds are recorded on desk too. o At the end of day they sell back all the mutual funds on the value of the last round and their balance is accounted. " },
-    { "sectionHeader":"Round 3 - NUMBER AND BUYING AMOUNT", "sectionContent":"o Certain amount of plots are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different plots. o An internal selling window is then allocated to them. o All of this is also to be recorded on the desk. o Further round 2 is continued and an surprise is introduced to the participants. o In the same manner and then again after the round 3 a flash news is again introduced. o  Judging criteria after last round the respective teams pack all their cards and produce it on the desk. o Both of the records are cross checked. o On the basis of the total value of their plots and the remaining balance the team with highest amount of money is declared as winner. " },
-    { "sectionHeader":"Participation", "sectionContent":"3 members per team " }
-  ],
-  "contactDetails":[
-    { "name":"Archit Maheswari ", "number":"9712699545 "},
-    { "name":"Rohan Patel ", "number":"9737630742 "}
-  ]
+	"eventName": "virtualestate",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Take your decision wisely and make best use of your assests. Risk it to win it! "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Buying and selling of plots is an important part of a civil engineer's business. This event deals with improving the management aspects and also the risk taking factors that a civil engineer has to deal with, it gives them an experience of taking decisions on basis of their knowledge and guts and thus increase their assets. Base amount is allotted to all the teams participating. Stock market round and mutual fund round is executed. On the basis of profit/loss done by the team, their total balance is allotted. The balance is further multiplied and revised balance is announced .plots are shown and auction is done, after the first round their balance are accounted and flash news is displayed, according to it the value of plots increase or decrease and an internal plot selling at last on basis of valuation of plots winner is declared. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 -STOCK EXCHANGE",
+			"sectionContent": "Certain base amount is given to each team and stock list with prices is displayed. They buy stocks write it down and report it on the desk and after recording o That in our data their sheet is signed only then the stocks are valid.  Their amount of shares and remaining balance is accounted. Price hike or drop of stocks in each round. They sell stocks or buy more and o Everything is recorded on desk too. "
+		},
+		{
+			"sectionHeader": "Round 2 - MUTUAL FUNDS",
+			"sectionContent": " From the remaining amount of each team mutual funds are to be brought by the list which is displayed.  They buy mutual funds write it down and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid.  Their amount of mutual funds and remaining balance is accounted. o Price hike or drop of fund in each round. The changes of the funds are recorded on desk too. At the end of day they sell back all the mutual funds on the value of the last round and their balance is accounted. "
+		},
+		{
+			"sectionHeader": "Round 3 - NUMBER AND BUYING AMOUNT",
+			"sectionContent": " Certain amount of plots are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different plots. o An internal selling window is then allocated to them.  All of this is also to be recorded on the desk. Further round 2 is continued and an surprise is introduced to the participants. In the same manner and then again after the round 3 a flash news is again introduced.   Judging criteria after last round the respective teams pack all their cards and produce it on the desk. Both of the records are cross checked. On the basis of the total value of their plots and the remaining balance the team with highest amount of money is declared as winner. "
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "3 members per team "
+		}
+	],
+	"contactDetails": [{
+			"name": "Archit Maheswari ",
+			"number": "9712699545 "
+		},
+		{
+			"name": "Rohan Patel ",
+			"number": "9737630742 "
+		}
+	]
 }
