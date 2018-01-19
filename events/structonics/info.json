@@ -1,0 +1,9 @@
+{
+  "events":[
+    { "name": "Hydromania", "tagline":"Let water lift your success", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/hydromania.json" },
+    { "name": "FuntastiCITY", "tagline":"Bet ,Build And Balance", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/funtasticity.json" },
+    { "name": "COASTER CARRIL ", "tagline":"LOOPS AND FALLS LEAD TO SUCCESS", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/coastercarril.json" },
+    { "name": "VIRTUAL ESTATE ", "tagline":"GUTS DON'T LIE BUT MARKET DOES", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/virtualestate.json" },
+    
+  ]
+}
