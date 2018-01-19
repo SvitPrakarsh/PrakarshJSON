@@ -1,0 +1,14 @@
+{
+  "events":[
+    { "name": "AD-D-ACT ", "tagline":"AD- Your bits", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/addact.json" },
+    { "name": "Artiphilia 4.0 ", "tagline":"Set your exposure", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/artiphilia.json" },
+    { "name": "Bigg Boss ", "tagline":"Upar Wala sab dekhta hai", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/biggboss.json" },
+    { "name": "Mr. and Ms. Prakarsh  ", "tagline":"“Ramp it up", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/mrandmrsprakarsh.json" },
+    { "name": "PRAKARSH PREMIER LEAGUE  ", "tagline":"Keep calm and bat on.", "imageUrl": "", "dataUrl": 
+	"https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/prakarshpremierleague.json" },
+	{ "name": "Sherlock ", "tagline":"““When You Eliminate the Impossible ", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/sherlock.json" },
+	{ "name": "SNAPSHOOTERS ", "tagline":"SNAP IT TO SMASH IT", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/snapshooters.json" },
+	{ "name": "Spotlight ", "tagline":"Got talent? Make more victims", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/spotlight.json" },
+	{ "name": "Storm of Thrones  ", "tagline":"Chaos is a ladder", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/stormofthrones.json" }
+  ]
+}

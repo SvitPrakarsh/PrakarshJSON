@@ -1,0 +1,17 @@
+	{
+  "eventName":"Sherlock",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"Hear, observe, think and deduce." },
+    { "sectionHeader":"Abstract", "sectionContent":"The master of all detective games is here for you with reloaded version of physical and mental abilities that will drive you through-out the game." },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1", "sectionContent":"In these round participants get clues(pictorial) for different places and they will go to that places and observe the charts .After coming to room,they will give Aptitude test based on Charts,Sherlock homes,various puzzles and world buildings based on him.Enhance your aptitude here." },
+    { "sectionHeader":"Round 2", "sectionContent":" In this round participants will play some numerical and pictorial rapid fire  type games , based on the points they will get selected for Round 3." },
+    { "sectionHeader":"Round 3", "sectionContent":"In this round winners of 2nd round get clues(text) according to place and they will guess the places and go there and get other clues with evidence of the case.At the end of the round participants will reach at crime scene and observed the place with evidence given to them and after that they will come to room and write report on murder case." },
+    { "sectionHeader":"Participation", "sectionContent":"max of 3 " }
+  ],
+  "contactDetails":[
+    { "name":"Jaimil Patel(TY CE) ", "number":"9727338791"},
+    { "name":"Anupriya Panchal(SY CE)", "number":"8156086346"}
+  ]
+}

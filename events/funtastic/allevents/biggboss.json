@@ -1,0 +1,49 @@
+	{
+		"eventName": "Bigg Boss",
+		"imageUrl": "",
+		"details": [{
+				"sectionHeader": "Introduction",
+				"sectionContent": "The boss always watches you "
+			},
+			{
+				"sectionHeader": "Abstract",
+				"sectionContent": "Virtual Bigboss is a fun game which gives you an example of the game show  \"BigBoss\". Neither special learning nor extra preparation is needed for this event. It is a game in which you learn many things of practical life with fun. Just enjoy every round and be yourself.  And you, get the best from it and move to the next level. "
+			},
+			{
+				"sectionHeader": "Description of Rounds",
+				"sectionContent": ""
+			},
+			{
+				"sectionHeader": "Round 1",
+				"sectionContent": "In this round, the participants’ imagination skills are judged.   o In this round the participants will be divided into teams. They will be given a jumble puzzle for limited time.  o Divided teams will solving the puzzle and some of them eliminate for the next round. "
+			},
+			{
+				"sectionHeader": "Round 2",
+				"sectionContent": " In this round, the participants speaking skills are judged.  -In this round the participants will be divided into teams. They will be given a particular topic for limited time.  o Two teams will debate on topic and other teams will judge them through votes. Team with max votes will win.   "
+			},
+			{
+				"sectionHeader": "Round 3",
+				"sectionContent": "Participants will be divided into teams.  o Team will be given a list of items; individual will enact them and explain it to their team members. o They have to and the items in their respective places.   "
+			},
+			{
+				"sectionHeader": "Round 4",
+				"sectionContent": "The team will be same for this round.  o They have to perform the act on the things which they found in round 3.     "
+			},
+			{
+				"sectionHeader": "Round 5",
+				"sectionContent": "Individual based game.  o They will be red with set of questions in limited time. o Individual with max points will be the final winner.   "
+			}, {
+				"sectionHeader": "Participation",
+				"sectionContent": "Individual"
+			}
+		],
+		"contactDetails": [{
+				"name": "Divyesh Dahake (TY IC) ",
+				"number": "9429672299 "
+			},
+			{
+				"name": "  Priten Padhiyar (SY IT) ",
+				"number": "7405915465 "
+			}
+		]
+	}
