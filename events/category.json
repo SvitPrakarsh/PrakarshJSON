@@ -2,11 +2,11 @@
   "category": [
       { "name": "Ancillary", "tagline":"A Support to Success", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/ancillary.webp", "dataUrl": "" },
       { "name": "Cyber Intrusion", "tagline":"A Call for Innovative Minds", "department":"Computer I.T. M.C.A", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/cyberintrusion.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/info.json" },
-      { "name": "Dexter's Lab", "tagline":"Emerge, Incept, Excel..", "department":"Electrical I.C. E.C.", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/dexterslab.webp", "dataUrl": "" },
-      { "name": "Fun-Tastic", "tagline":"A Funntastic Journey", "department":"Non-Tech", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/funtastic.webp", "dataUrl": "" },
-      { "name": "Robotics", "tagline":"We Work Where Human Can't", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/robotics.webp", "dataUrl": "" },
-      { "name": "Structonics", "tagline":"Building Confidence", "department":"Civil", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/structonics.webp", "dataUrl": "" },
-      { "name": "Wheels and Wings", "tagline":"Screwing Things up", "department":"Mechanical Aeronautical", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/wheelsandwings.webp", "dataUrl": "" },
-      { "name": "Workshops", "tagline":"The Inovater's Spotlight", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/workshop.webp", "dataUrl": "" }
+      { "name": "Dexter's Lab", "tagline":"Emerge, Incept, Excel..", "department":"Electrical I.C. E.C.", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/dexterslab.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/info.json" },
+      { "name": "Fun-Tastic", "tagline":"A Funntastic Journey", "department":"Non-Tech", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/funtastic.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/info.json" },
+      { "name": "Robotics", "tagline":"We Work Where Human Can't", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/robotics.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/info.json" },
+      { "name": "Structonics", "tagline":"Building Confidence", "department":"Civil", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/structonics.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/info.json" },
+      { "name": "Wheels and Wings", "tagline":"Screwing Things up", "department":"Mechanical Aeronautical", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/wheelsandwings.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/info.json" },
+      { "name": "Workshops", "tagline":"The Inovater's Spotlight", "department":"", "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/category/workshop.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshop/info.json" }
   ]
 }
