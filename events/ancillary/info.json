@@ -1,0 +1,9 @@
+	{
+  "events":[
+    { "name": "FINANCIAL FITNESS ", "tagline":"Think Big.. Think beyond.", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/financialfitness.json" },
+    { "name": "HR SUMMIT ", "tagline":"“Optimize Your Human Equity", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/hrsummit.json" },
+    { "name": "ISRO", "tagline":"Keep the Momentum Going", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/isro.json" },
+    { "name": "Racing Her Way to the Top ", "tagline":"Crack it. Smack it.", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/racing.json" }
+ 
+  ]
+}

@@ -1,0 +1,24 @@
+{
+	"eventName": "HR SUMMIT ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A guest lecture will be conducted by the experts of the HR from Multi-National Companies"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "The seminar about the Leadership Development will be conducted by the HR of MultiNational Companies. The participants can extract maximum knowledge from the company HR leads. They can build better communication and management skills. "
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		}
+	],
+	"contactDetails": [{
+			"name": "Rohit Sharma ",
+			"number": " 8141777417 "
+		}
+
+	]
+}
