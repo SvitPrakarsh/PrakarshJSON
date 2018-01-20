@@ -1,0 +1,26 @@
+{
+	"eventName": "Web VR ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Web VR brings virtual reality to verb. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "We watch 3D movies so why stop their let's introduce it to website too"
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": "This is a workshop by Pranshu Khanna from Mozilla. Participants are required to come with their laptops. "
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		}
+	],
+	"contactDetails": [{
+		"name": "Meghesh Rana (TY IT) ",
+		"number": "9825322707 "
+	}]
+}

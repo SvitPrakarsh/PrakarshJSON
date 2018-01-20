@@ -1,0 +1,42 @@
+{
+	"eventName": "FPV DRONE ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Learning and making a First person View (FPV) drone and getting to know about various multirotors/drones"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Here is the opportunity for all the drone lovers who want to learn how to make a drone. All the students will be given explanation about UAV/drones and its components with the help of PPT and videos. They will then be divided in various groups and will be allowed to make a drone with the help of our components, complete support will be provided to all. Students don't need to carry any component for making. Complete assistance will be provided for soldering and assembling of the components. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Day 1 ",
+			"sectionContent": "We will be delivering theoretical session on “All About UAV’s” which will include Basics of UAV, Types of kits available, Components like ESC, Flight Controller, Batteries, Frame, Charger, Motors, PDB, Propellers, Rx, Tx, Camera etc. These all things will be explained with the help of PPT and videos. o Knowledge about different types of drones will be given. o PID tuning of the drone will be explained. o The theoretical session will continue for maximum 2hrs. "
+		},
+		{
+			"sectionHeader": "Other details  ",
+			"sectionContent": "All the participants will be assembling the drone. Each team will have a drone and two volunteers for assistance. o Soldering will be done by the workshop coordinator itself to prevent damage to the components"
+		},
+		{
+			"sectionHeader": "Round 3 ",
+			"sectionContent": " Theory session will be delivered to all the students on the first day for 2 hrs o The students will be divided in the group of 2 each with 45 members. o The first group will be taught to assemble the drone on the first day, and the other group on the second day"
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		}
+	],
+	"contactDetails": [{
+			"name": "Wilson Hasrajani ",
+			"number": "8490959452 "
+		},
+		{
+			"name": "Premal Amin   ",
+			"number": "7874454050 "
+		}
+	]
+}
