@@ -1,6 +1,6 @@
 {
   "category": [
-      { "name": "App Development", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
+      { "name": "App Development", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/teams/allteams/app.json" },
       { "name": "Design", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
       { "name": "Web Development", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" },
       { "name": "Core Committee", "tagline":"", "department":"", "iconUrl": "", "dataUrl": "" }
