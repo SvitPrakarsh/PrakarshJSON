@@ -1,0 +1,57 @@
+{
+	"eventName": "BARRICADETRAIL ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Track of Roars is all about having robots as transporters and explores danger paths. Add in the feel of competition and spice it with your talent to charm the crowd and be the ultimate winner"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Build a wired or remote controlled (RC) robot which can traverse on all terrains and also perform different tasks involving moving objects, see saw mechanism, rollers etc. The track is designed to test the maneuvering skills and optimization of speed and torque simultaneously. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Robot Specifications",
+			"sectionContent": " The dimension of the robot should not exceed 40x40x40 (lxbxh) in its initial inactive state.  o All the external mechanism must be within the dimensions mentioned above. After commencement of the event the robot is allowed to expand for using the external mechanisms to perform the tasks.  o The robot can be either wired or wireless.  o The electrical voltage anywhere in the robot should not be more than 24V (summation of all batteries should be equal to 24V) at any point of time.  o Robot weight should not exceed 4 Kg.  o The robot should preferably have a dual frequency remote control circuit or two control circuits, which could be interchanged, before the start of the game to avoid frequency interference from other teams.  o The robot must not be made from Lego parts or any ready-made assembly kits. Judging for the same will be strict and the contestant will be IMMEDIATELY DISQUALIFIED if any violation is found.  o Sticker having robot name should be clearly visible on the body of the robot.  o No AC supply will be allowed.  o Both teams will stand outside to the arena so that minimum length of the electric wire should be 8 meters. "
+		},
+		
+		{
+			"sectionHeader": "Arena Specification",
+			"sectionContent": "There will be an all-terrain track designed.  o The second round will be on the same track with added obstacles.  o Final round will be a surprise round (the track could be different from the previous rounds).  o There will be obstacles in the path like bumps, sharp turns, slopes, steps, pits over which the robot would have to jump over( only with its speed, no jumping mechanism required), other physical moving obstacles.  o Note: Arena or track may change will inform soon. "
+		},
+		{
+			"sectionHeader": "Round 1 ",
+			"sectionContent": "The robot has to complete the track which will be designed involving see-saw mechanism, pits, rollers and other obstacles. o Eliminations will be based on the time taken to finish the track. o The top teams from this round will enter the second round.  *Judging criteria will be based on time taken or will be inform soon.  "
+		},
+		
+		{
+			"sectionHeader": "Round 2 ",
+			"sectionContent": "In this round, the robots now will have to complete the same track as in round 1 with tougher obstacles like hanging obstacles, rotating planks, different surface paths, etc.  *Times with the least lap times proceed to the final round. "
+		},
+		{
+			"sectionHeader": "Round 3 ",
+			"sectionContent": " This round will be a surprise round"
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "A team may consist of maximum of 4 members. Students from different colleges can form a team. "
+		}
+	],
+	"contactDetails": [{
+			"name": "Shrey Soni (TY ELECT.) ",
+			"number": "9409441222 "
+		},
+		{
+			"name": "Vinay Darji( SY AERO) )",
+			"number": "8601107117 "
+		},
+
+		{
+			"name": "Devashish Sharma(Track Advisor)  ",
+			"number": "9586766206  "
+		}
+	]
+}
