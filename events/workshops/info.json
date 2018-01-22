@@ -1,6 +1,6 @@
 {
   "events":[
-    { "name": "C Cube ( Code Connect Control) ", "tagline":"Control The World Around You", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ccube.json" },
+    { "name": "C Cube ( Code Connect Control) ", "tagline":"Control The World Around You", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
     { "name": "Faraday's Lab 6.0 ", "tagline":"Step Up Your Techno Skills", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
     { "name": "FPV DRONE", "tagline":"The limit is the sky, reach it if you can", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/fpvdrone.json" },
     { "name": "Web VR ", "tagline":"Adding life to WebWorld.", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/webvr.json" },
