@@ -5,9 +5,9 @@
     { "sectionHeader":"Introduction", "sectionContent":"Making of wireless headphones. " },
     { "sectionHeader":"Abstract", "sectionContent":"They will be taught how to make a wireless headphones. " },
     { "sectionHeader":"Description of Rounds", "sectionContent":"" },
-    { "sectionHeader":"Round 1 ", "sectionContent":"o Participants will be given jumbled crossword with short forms of Technical terms. o They have to  find the short forms out & give full form of it. o Thus will be mass elimination round." },
-    { "sectionHeader":"Round 2 ", "sectionContent":"o Participants will be given packet of components in which few of them will be not working. o In spam of time they have to find out which of them are not working" },
-    { "sectionHeader":"Round 3 ", "sectionContent":"o Participants will be given a circuit in multisim. o Few gates will not be shown they have to give suitable inputs to find which gate is missing. o Winners of this will be taught how to make wireless headphones. " },
+    { "sectionHeader":"Round 1 ", "sectionContent":" Participants will be given jumbled crossword with short forms of Technical terms.They have to  find the short forms out & give full form of it. Thus will be mass elimination round." },
+    { "sectionHeader":"Round 2 ", "sectionContent":" Participants will be given packet of components in which few of them will be not working.In spam of time they have to find out which of them are not working" },
+    { "sectionHeader":"Round 3 ", "sectionContent":" Participants will be given a circuit in multisim.Few gates will not be shown they have to give suitable inputs to find which gate is missing. Winners of this will be taught how to make wireless headphones. " },
 	{ "sectionHeader":"Round 4", "sectionContent":" Making of wireless headphones " },
     { "sectionHeader":"Participation", "sectionContent":"Team of 2" }
   ],
