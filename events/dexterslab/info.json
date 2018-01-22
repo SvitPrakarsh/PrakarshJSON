@@ -1,10 +1,10 @@
 {
   "events":[
-    { "name": "Being Wireless ", "tagline":"Experience A World without Cables", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/beingwireless.json" },
-    { "name": "Circuit Odyssey ", "tagline":"The only winning move is not to play", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/circuitodyssey.json" },
-    { "name": "Electro beats", "tagline":"Beats on brink!!", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/electrobeats.json" },
-    { "name": "Lasertron ", "tagline":"Focus like a laser!!", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/lasertron.json" },
-	{ "name": "Tech-Sovereign  ", "tagline":"Redefine the possible", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/techsovereign.json" }
+    { "name": "Being Wireless ", "tagline":"Experience A World without Cables", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/beingwireless.json" },
+    { "name": "Circuit Odyssey ", "tagline":"The only winning move is not to play", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/circuitodyssey.json" },
+    { "name": "Electro beats", "tagline":"Beats on brink!!", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/electrobeats.json" },
+    { "name": "Lasertron ", "tagline":"Focus like a laser!!", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/lasertron.json" },
+	{ "name": "Tech-Sovereign  ", "tagline":"Redefine the possible", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/techsovereign.json" }
     
   ]
 }
