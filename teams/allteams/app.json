@@ -1,7 +1,7 @@
 {
   "members": [
-    { "name":"Arjunsinh Jadeja", "designation":"", "imageUrl":"" },
-    { "name":"Sandeep Sharma", "designation":"", "imageUrl":"" },
-    { "name":"Raj Mataria", "designation":"", "imageUrl":"" }
+    { "name":"Arjunsinh Jadeja", "role":"", "imageUrl":"" },
+    { "name":"Raj Mataria", "role":"", "imageUrl":"" },
+    { "name":"Sandeep Sharma", "role":"", "imageUrl":"" }
   ]
 }
