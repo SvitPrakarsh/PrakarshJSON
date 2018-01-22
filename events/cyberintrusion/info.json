@@ -2,7 +2,7 @@
   "events":[
     { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/codestorm.json" },
     { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/db-sniffers.json" },
-    { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/impulse.json" },
+    { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/impulse1.json" },
     { "name": "MindKraft", "tagline":"Crack it. Smack it.", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/mindkraft.json" },
     { "name": "Tech-Rritory", "tagline":"Cross It If You Can!", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/tech-rritory.json" }
   ]
