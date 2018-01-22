@@ -15,11 +15,11 @@
 		},
 		{
 			"sectionHeader": "Day 1 ",
-			"sectionContent": "o Hands-on Understanding of different components like 1. NodeMCU (open source platform) 2. Led interfacing 3. Diffrent sensors o Basic understanding of circuit and its connections and how the circuit works. o Also Basics of interfacing and access GPIO of controller using LED and IR. (Including connections and diagram"
+			"sectionContent": "Hands-on Understanding of different components like 1. NodeMCU (open source platform) 2. Led interfacing 3. Diffrent sensors. Basic understanding of circuit and its connections and how the circuit works.Also Basics of interfacing and access GPIO of controller using LED and IR. (Including connections and diagram"
 		},
 		{
 			"sectionHeader": "Day 2 ",
-			"sectionContent": "Complete interfacing of all sensors and also controlling them using smartphone and laptop. o Understanding and demo of Amazon Alexa used with NodeMCU to control electronic devices. "
+			"sectionContent": "Complete interfacing of all sensors and also controlling them using smartphone and laptop.Understanding and demo of Amazon Alexa used with NodeMCU to control electronic devices. "
 		},
 
 		{
