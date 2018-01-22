@@ -1,9 +1,9 @@
 {
   "events":[
-    { "name": "C Cube ( Code Connect Control) ", "tagline":"Control The World Around You", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ccube.json" },
-    { "name": "Faraday's Lab 6.0 ", "tagline":"Step Up Your Techno Skills", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
-    { "name": "FPV DRONE", "tagline":"The limit is the sky, reach it if you can", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/fpvdrone.json" },
-    { "name": "Web VR ", "tagline":"Adding life to WebWorld.", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/webvr.json" },
-    { "name": "WordPress  ", "tagline":"Create Your Own World", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/wordpress.json" }
+    { "name": "C Cube ( Code Connect Control) ", "tagline":"Control The World Around You", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/ccube.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ccube.json" },
+    { "name": "Faraday's Lab 6.0 ", "tagline":"Step Up Your Techno Skills", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/faradayslab.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
+    { "name": "FPV DRONE", "tagline":"The limit is the sky, reach it if you can", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/fpvdrone.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/fpvdrone.json" },
+    { "name": "Web VR ", "tagline":"Adding life to WebWorld.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/webvr.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/webvr.json" },
+    { "name": "WordPress  ", "tagline":"Create Your Own World", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/wordpress.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/wordpress.json" }
   ]
 }

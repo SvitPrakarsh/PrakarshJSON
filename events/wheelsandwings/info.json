@@ -1,9 +1,9 @@
 {
   "events":[
-    { "name": "Assemble It 3.0 ", "tagline":"Ignite the spark within", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/assembleit.json" },
-    { "name": "Def-sec 5.0 ", "tagline":"Ajeet hai, abheed hai", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/defsec.json" },
-    { "name": "Prachaar 8.0 ", "tagline":"Engineered to move the human spirit", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/prachaar.json" },
-    { "name": "Rise of Machines 7.0", "tagline":"“Don't dream it, drive it", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/riseofmachines.json" },
-    { "name": "War of wings ", "tagline":"In thrust, we trust", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/warofwings.json" }
+    { "name": "Assemble It 3.0 ", "tagline":"Ignite the spark within", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/assembleit.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/assembleit.json" },
+    { "name": "Def-sec 5.0 ", "tagline":"Ajeet hai, abheed hai", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/defsec.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/defsec.json" },
+    { "name": "Prachaar 8.0 ", "tagline":"Engineered to move the human spirit", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/prachaar.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/prachaar.json" },
+    { "name": "Rise of Machines 7.0", "tagline":"“Don't dream it, drive it", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/riseofmachines.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/riseofmachines.json" },
+    { "name": "War of wings ", "tagline":"In thrust, we trust", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/warofwings.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/warofwings.json" }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "events":[
-    { "name": "Hydromania", "tagline":"Let water lift your success", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/hydromania.json" },
-    { "name": "FuntastiCITY", "tagline":"Bet ,Build And Balance", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/funtasticity.json" },
-    { "name": "COASTER CARRIL ", "tagline":"LOOPS AND FALLS LEAD TO SUCCESS", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/coastercarril.json" },
-    { "name": "VIRTUAL ESTATE ", "tagline":"GUTS DON'T LIE BUT MARKET DOES", "imageUrl": "", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/virtualestate.json" }
+    { "name": "Hydromania", "tagline":"Let water lift your success", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/hydromania.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/hydromania.json" },
+    { "name": "FuntastiCITY", "tagline":"Bet ,Build And Balance", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/funtasticity.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/funtasticity.json" },
+    { "name": "COASTER CARRIL ", "tagline":"LOOPS AND FALLS LEAD TO SUCCESS", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/coastercarril.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/coastercarril.json" },
+    { "name": "VIRTUAL ESTATE ", "tagline":"GUTS DON'T LIE BUT MARKET DOES", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/virtualestate.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/virtualestate.json" }
     
   ]
 }
