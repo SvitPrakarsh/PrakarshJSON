@@ -1,9 +1,9 @@
 {
   "events":[
-    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/codestorm.json" },
-    { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/db-sniffers.json" },
-    { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/impulse.json" },
-    { "name": "MindKraft", "tagline":"Crack it. Smack it.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/mindkraft.json" },
-    { "name": "Tech-Rritory", "tagline":"Cross It If You Can!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/tech-rritory.json" }
+    { "name": "Codestorm", "tagline":"Create Deploy Destroy", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/codestrom.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/codestorm.json" },
+    { "name": "DB-Sniffers", "tagline":"Hunt Your SQL Code", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/dbsniffers.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/db-sniffers.json" },
+    { "name": "Impulse", "tagline":"Keep the Momentum Going", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/impulse.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/impulse.json" },
+    { "name": "MindKraft", "tagline":"Crack it. Smack it.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/mindcraft	.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/mindkraft.json" },
+    { "name": "Tech-Rritory", "tagline":"Cross It If You Can!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/techrr.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/tech-rritory.json" }
   ]
 }
