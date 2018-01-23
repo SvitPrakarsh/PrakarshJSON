@@ -3,8 +3,8 @@
     { "name": "Being Wireless ", "tagline":"Experience A World without Cables", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/beingwireless.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/beingwireless.json" },
     { "name": "Circuit Odyssey ", "tagline":"The only winning move is not to play", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/circuitodyssey.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/circuitodyssey.json" },
     { "name": "Electro beats", "tagline":"Beats on brink!!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/electrobeats.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/electrobeats.json" },
-    { "name": "Lasertron ", "tagline":"Focus like a laser!!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/lasertron.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/lasertron.json" },
-	{ "name": "Tech-Sovereign  ", "tagline":"Redefine the possible", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/techsovereign.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/techsovereign.json" }
+    { "name": "Lasertron ", "tagline":"Focus like a laser!!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/laser.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/lasertron.json" },
+	{ "name": "Tech-Sovereign  ", "tagline":"Redefine the possible", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/ts.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/techsovereign.json" }
     
   ]
 }
