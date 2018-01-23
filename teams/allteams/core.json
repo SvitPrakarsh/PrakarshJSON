@@ -1,17 +1,17 @@
 {
   "members": [
-    { "name":"Pruthvi Nagadiya", "role":"Lead Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/pruthvinagadiya.webp" },
-    { "name":"Mihir Verma", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mihirverma.webp" },
-    { "name":"Aliasgar Chasmawala", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aliasgarchasmawala.webp" },
-	{ "name":"Ankit Ved", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/ankitved.webp" },
-    { "name":"Patel Zalak", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelzalak.webp" },
-	{ "name":"Patel Avi", "role":"Lead Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelavi.webp" },
-    { "name":"Mithil Patwa", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mithilpatwa.webp" },
-    { "name":"Udip Shah", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/udipshah.webp" },
-	{ "name":"Kaiwal Shah", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/kaiwalshah.webp" },
-    { "name":"Zeel Shah", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/zeelshah.webp" },
-	{ "name":"Juhi Shahedadpuri", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/juhishahedadpuri.webp" },
-    { "name":"Mayank Patel", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mayankpatel.webp" }
+    { "name":"Pruthvi Nagadiya", "role":"Prakarsh Chief", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/pruthvinagadiya.webp" },
+    { "name":"Mihir Verma", "role":" Joint Prakarsh Chief", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mihirverma.webp" },
+    { "name":"Aliasgar Chasmawala", "Technical Cordinator":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aliasgarchasmawala.webp" },
+	{ "name":"Ankit Ved", "role":"Joint Technical Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/ankitved.webp" },
+    { "name":"Patel Zalak", "role":"Admin Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelzalak.webp" },
+	{ "name":"Patel Avi", "role":"Joint Admin Coordinator ", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelavi.webp" },
+    { "name":"Mithil Patwa", "role":"Sponsorship and fund rasing Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mithilpatwa.webp" },
+    { "name":"Udip Shah", "role":"Joint Sponsorship and fund rasing Coordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/udipshah.webp" },
+	{ "name":"Kaiwal Shah", "role":"Promotion Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/kaiwalshah.webp" },
+    { "name":"Zeel Shah", "role":"Promotion Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/zeelshah.webp" },
+	{ "name":"Juhi Shahedadpuri", "role":"Finance Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/juhishahedadpuri.webp" },
+    { "name":"Mayank Patel", "role":"Joint Finance Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mayankpatel.webp" }
 	
   ]
 }
