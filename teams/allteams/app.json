@@ -1,7 +1,7 @@
 {
   "members": [
     { "name":"Arjunsinh Jadeja", "role":"Lead Developer", "imageUrl":"" },
-    { "name":"Raj Mataria", "role":"", "imageUrl":"" },
-    { "name":"Sandeep Sharma", "role":"", "imageUrl":"" }
+    { "name":"Raj Matariya", "role":"Developer", "imageUrl":"" },
+    { "name":"Sandeep Sharma", "role":"Developer", "imageUrl":"" }
   ]
 }
