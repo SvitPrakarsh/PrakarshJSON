@@ -3,7 +3,7 @@
   "imageUrl":"",
   "details":[
     { "sectionHeader":"Introduction", "sectionContent":"Learn and test your SQL skills in easy way with joy and fun. " },
-    { "sectionHeader":"Abstract", "sectionContent":"Based SQL  " },
+    { "sectionHeader":"Abstract", "sectionContent":"Based on SQL  " },
     { "sectionHeader":"Description of Rounds", "sectionContent":"" },
     { "sectionHeader":"Round 1 - Group (2/3 persons) ", "sectionContent":"Input (provided to candidate) : - Bowl filled with jumbled SQL code answer cheats,Procedure: Students has to pick up one of cheat and match the answer and write proper SQL query in the sheet. Output: Volunteers and event members will check the answer and declare the winner groups. Total group winner (5-7 teams) will eligible to perform round 2 events. "},
     { "sectionHeader":"Round 2 -Individual even", "sectionContent":"Every student will perform the given task within stipulated time period. Winner will be declared as individual 1-2-3. " },
