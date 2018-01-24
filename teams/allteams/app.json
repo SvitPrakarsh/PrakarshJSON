@@ -1,7 +1,7 @@
 {
   "members": [
-    { "name":"Arjunsinh Jadeja", "role":"Lead Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/arjun.webp" },
-    { "name":"Raj Matariya", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/raj.webp" },
-    { "name":"Sandeep Sharma", "role":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/sandy.webp" }
+    { "name":"Arjunsinh Jadeja", "role":"App Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/arjun.webp" },
+    { "name":"Raj Matariya", "role":"App Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/raj.webp" },
+    { "name":"Sandeep Sharma", "role":"App Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/sandy.webp" }
   ]
 }
