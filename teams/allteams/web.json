@@ -1,7 +1,7 @@
 {
   "members": [
-    { "name":"Yuvraj Bhogle", "role":"Lead Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/yuv.webp" },
-    { "name":"Abhishek Patel", "role":"Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/abhi.webp" },
-    { "name":"Shivam Patel", "role":"Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/shivam.webp" }
+    { "name":"Yuvraj Bhogle", "role":"Web Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/yuv.webp" },
+    { "name":"Abhishek Patel", "role":"Web Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/abhi.webp" },
+    { "name":"Shivam Patel", "role":"Web Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/shivam.webp" }
   ]
 }
