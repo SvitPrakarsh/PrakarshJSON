@@ -19,7 +19,7 @@
 		},
 		{
 			"sectionHeader": "Round 2 - Identify me ",
-			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member out of state will be blindfolded and try to guess the components, other members will not come down as many as possible. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done by adding scores of first 2 rounds. "
+			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member will be blindfolded and will try to guess the components as many as possible, by simply touching it. Other members will not be allowed to see it. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done by adding scores of first 2 rounds. "
 		},
 		{
 			"sectionHeader": "Round 3 - Techno Hunt ",
@@ -27,7 +27,7 @@
 		},
 		{
 			"sectionHeader": "Round 4 -  Just fix it ",
-			"sectionContent": "Final six teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine under the guidance. o Top three teams will be decided based on timing of round 3 "
+			"sectionContent": "Final six teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine under the guidance. Top three teams will be decided based on timing of round 3 "
 		},
 		{
 			"sectionHeader": "Participation",
@@ -35,11 +35,11 @@
 		}
 	],
 	"contactDetails": [{
-			"name": "Head",
+			"name": "Pathik patel",
 			"number": "8238337514 "
 		},
 		{
-			"name": "Joint head",
+			"name": "Alisagar Marchawala",
 			"number": "8489934840 "
 		}
 	]
