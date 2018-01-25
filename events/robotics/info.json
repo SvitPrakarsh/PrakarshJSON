@@ -1,4 +1,5 @@
 {
+"categoryName":"Robotics",
   "events":[
     { "name": "BARRICADETRAIL ", "tagline":"Triumph to the skull island", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/barricadetrail.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/barricadetrail.json" },
     { "name": "HOT WHEELS ", "tagline":"Let's Go Racing", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/hotwheels.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/hotwheels.json" },

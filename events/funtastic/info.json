@@ -1,4 +1,5 @@
 {
+"categoryName":"Funtastic",
   "events":[
     { "name": "AD-D-ACT ", "tagline":"AD- Your bits", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/addact.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/addact.json" },
     { "name": "Artiphilia 4.0 ", "tagline":"Set your exposure", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/artiphilia.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/artiphilia.json" },

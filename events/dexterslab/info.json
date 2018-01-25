@@ -1,4 +1,5 @@
 {
+"categoryName":"Dexter's Lab",
   "events":[
     { "name": "Being Wireless ", "tagline":"Experience A World without Cables", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/beingwireless.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/beingwireless.json" },
     { "name": "Circuit Odyssey ", "tagline":"The only winning move is not to play", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/circuitodyssey.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/circuitodyssey.json" },

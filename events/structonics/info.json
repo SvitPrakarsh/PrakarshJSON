@@ -1,4 +1,5 @@
 {
+"categoryName":"Structonics",
   "events":[
     { "name": "Hydromania", "tagline":"Let water lift your success", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/hydromania.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/hydromania.json" },
     { "name": "FuntastiCITY", "tagline":"Bet ,Build And Balance", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/funtasticity.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/structonics/allevents/funtasticity.json" },

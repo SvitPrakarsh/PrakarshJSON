@@ -1,4 +1,5 @@
 	{
+	"categoryName":"Ancillary",
   "events":[
     { "name": "FINANCIAL FITNESS ", "tagline":"Think Big.. Think beyond.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json" },
     { "name": "HR SUMMIT ", "tagline":"“Optimize Your Human Equity", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/hrsummit.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/hrsummit.json" },

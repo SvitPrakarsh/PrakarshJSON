@@ -1,4 +1,5 @@
 {
+"categoryName":"Workshops",
   "events":[
     { "name": "C Cube ( Code Connect Control) ", "tagline":"Control The World Around You", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/ccube.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ccube.json" },
     { "name": "Faraday's Lab 6.0 ", "tagline":"Step Up Your Techno Skills", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/faradayslab.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
