@@ -1,0 +1,22 @@
+{
+  "featuredSpeakers": [
+  { "name":"Mira Erda",
+    "shortDescription":"Formula Racer",
+    "description":"She is a teenager from Vadodara, who has participated in around 75 races both at the national and the international level, has become the first Indian female driver to compete in the highly competitive Euro JK series.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/miraerda.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/racing.json"
+  },
+  { "name":"CA Manish Baxi",
+    "shortDescription":"Practicing Chartered Accountant since 26 years",
+    "description":"He is Chairman of Baroda Branch of CA in 2000, Vice Chairman of WIRC in 2004/5. Committee member of Federation of Gujarat Industries, Member of Finance Committee of BCA, Financial Advisor of JCI India.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/manishbaxi.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json"
+  },
+  { "name":"Ravikumar Varma",
+    "shortDescription":"ISRO",
+    "description":"A seminar will be conducted by Mr. Ravikumar Varma an expert from ISRO. The speaker will give information regarding Aerospace Technologies, Indian Satellites Sytems and about the achievements of India in Aerospace field.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/ravikumarvarma.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json"
+  }
+]
+}
