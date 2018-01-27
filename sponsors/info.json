@@ -1,5 +1,19 @@
 {
-	"sponsors": [{
+	"sponsors": [
+		
+		{
+			"name": "Carreer Launcher",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cl.webp",
+			"websiteUrl": "http://www.careerlauncher.com/"
+		},
+		{
+			"name": "ICICI Bank",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/icicibank.webp",
+			"websiteUrl": "https://www.icicibank.com/"
+		},
+		{
 			"name": "Change Vadodara Campaign",
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cvc.webp",
@@ -16,12 +30,6 @@
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/greenadvertisers.webp",
 			"websiteUrl": ""
-		},
-		{
-			"name": "ICICI Bank",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/icicibank.webp",
-			"websiteUrl": "https://www.icicibank.com/"
 		},
 		{
 			"name": "Indian Space Research Organization",
@@ -64,12 +72,6 @@
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/bluehat.webp",
 			"websiteUrl": ""
-		},
-		{
-			"name": "Carreer Launcher",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cl.webp",
-			"websiteUrl": "http://www.careerlauncher.com/"
 		},
 		{
 			"name": "Dry State Tonic",
