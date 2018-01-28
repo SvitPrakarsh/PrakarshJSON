@@ -16,7 +16,7 @@
 		},
 		{
 			"sectionHeader": "Round 1 - REFLEXES",
-			"sectionContent": "This is a pen - paper based round.This event is based on the game Name,Place,Animal and Thing!Contestants have to write names of the objects that fit under that particular category(website, application, hardware, operating system)"
+			"sectionContent": "This is a pen - paper based round. This event is based on the game Name, Place, Animal and Thing! Contestants have to write names of the objects that fit under that particular category (website, application, hardware, operating system)"
 		}, {
 			"sectionHeader": "Round 2 - HEADS UP!",
 			"sectionContent": "This is a group round.In this round,contestants will be divided in groups of five.This is a round similar to Charades in which a contestant will be given a technical term written on a placard(e.g.Debug) and she / he is not allowed to see the term. The group members are to see the term and thereafter the contestant will place the placard on his / her head.The objective is to make the contestant,with the card,guess the word on the placard. The group members will help the contestant(with the placard) guess the word written,but there is a twist,which will be revealed on the day of the event only.Each contestant holding a card will have to guess the word within the allocated time."
@@ -29,11 +29,11 @@
 		}
 	],
 	"contactDetails": [{
-			"name": "Naisargi Kothari(SY IT) ",
+			"name": "Naisargi Kothari ",
 			"number": "9512797987"
 		},
 		{
-			"name": "Ronil Christian  (SY COMP) ",
+			"name": "Ronil Christian",
 			"number": "8866300181"
 		},
 		{ "name":"Nilay Shah", "number":"9898499452"}
