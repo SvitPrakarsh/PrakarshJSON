@@ -2,7 +2,7 @@
   "members": [
     { "name":"Pruthvi Nagadiya", "role":"Prakarsh Chief", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/pruthvinagadiya.webp" },
     { "name":"Mihir Verma", "role":" Joint Prakarsh Chief", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mihirverma.webp" },
-    { "name":"Aliasgar Chasmawala", "Technical Cordinator":"Developer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aliasgarchasmawala.webp" },
+    { "name":"Aliasgar Chasmawala", "role":"Technical Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aliasgarchasmawala.webp" },
 	{ "name":"Ankit Ved", "role":"Joint Technical Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/ankitved.webp" },
     { "name":"Patel Zalak", "role":"Admin Cordinator", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelzalak.webp" },
 	{ "name":"Patel Avi", "role":"Joint Admin Coordinator ", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelavi.webp" },
