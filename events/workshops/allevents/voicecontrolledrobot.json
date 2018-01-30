@@ -1,0 +1,52 @@
+{
+	"eventName": "Voice Controlled Robot",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "We are going to control a robot using your voice command."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Personal robotic assistants help reducing the manual efforts being put by human in their dayto-day tasks . We develop a voice controlled personal assistant robot. The human voice command is given to the robotic assistant remotely, by using a smart mobile phone. The robot can perform different movements like, turn, start/stop operations. The voice commands are processed in real-time, using an online cloud server. The speech signal command converted to text form is communicated to the robot over a Bluetooth network. The personal assistant robot is developed on a micro-controller based platform"
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Andro robo:",
+			"sectionContent": "voice controlled robot involves the operation of robot with the signals sent from your smart phone (voice signal). This workshop helps participants to under-stand the concept and use of Arduino, accelerometer, and l293d motor driver IC. "
+		},
+		{
+			"sectionHeader": "Workshop outcome:",
+			"sectionContent": "Student will gain practical hands on experience with following components:  Arduino nano, l293d motor driver, and Bluetooth. Step by step development of robot and establish of communication.  "
+		},
+		{
+			"sectionHeader": "Kit:",
+			"sectionContent": " Robot development component. Embedded robotics development board. Batteries. Tools. "
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team (Min 1 max 5)"
+		}
+	],
+	"contactDetails":[
+	{
+			"name": "Nikita",
+			"number": "8866523402"
+		},
+		{
+			"name": "Hetvi Gupta",
+			"number": "9427848979"
+		},
+		{
+			"name": "Vraj",
+			"number": "7226013139"
+		},
+		{
+			"name": "Hiteshi Patel ",
+			"number": "9173722530"
+		}
+  ]
+}
