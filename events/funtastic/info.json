@@ -9,6 +9,8 @@
 	{ "name": "Sherlock ", "tagline":"““When You Eliminate the Impossible ", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sherlock.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/sherlock.json" },
 	{ "name": "SNAPSHOOTERS ", "tagline":"SNAP IT TO SMASH IT", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/snapshooters.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/snapshooters.json" },
 	{ "name": "Spotlight ", "tagline":"Got talent? Make more victims", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/spotlight.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/spotlight.json" },
-	{ "name": "Storm of Thrones  ", "tagline":"Chaos is a ladder", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/stormofthrones.json" }
+	{ "name": "Storm of Thrones  ", "tagline":"Chaos is a ladder", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/stormofthrones.json" },
+	{ "name": "Digiwar zone", "tagline":"Gamers don't die, they respaw", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/digiwar.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/digiwar.json" }
+	
   ]
 }
