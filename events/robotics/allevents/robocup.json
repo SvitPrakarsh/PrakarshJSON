@@ -11,7 +11,7 @@
 		},
 		{
 			"sectionHeader": "Bot Specifications",
-			"sectionContent": " Each team is allowed to have a one bot.The bot must fit into a cube of (30x25x25)cm at staring . It can expand at any time during the match beyond this size even for hitting the ball. The bots can have on board as well as off board power supply.The maximum potential difference between any two points on the bot should not exceed 24 volts.Grabbing the ball is allowed maximum for 5 sec . So bots should not have any kind of grabbing mechanisms.Grabbing the ball is only allowed for goalkeeper within his own defense area.A robot must not have in its construction anything that is dangerous to arena another robot or humans.For wired bot the minimum length of wire is 5 m and wire should not touch the arena "
+			"sectionContent": " Each team is allowed to have a one bot.The bot must fit into a cube of (30x25x25)cm at staring .Bot weight should not exceed 4 KG. It can expand at any time during the match beyond this size even for hitting the ball. The bots can have on board as well as off board power supply.The maximum potential difference between any two points on the bot should not exceed 24 volts.Grabbing the ball is allowed maximum for 5 sec . So bots should not have any kind of grabbing mechanisms.Grabbing the ball is only allowed for goalkeeper within his own defense area.A robot must not have in its construction anything that is dangerous to arena another robot or humans.For wired bot the minimum length of wire is 5 m and wire should not touch the arena "
 		},
 		{
 			"sectionHeader": "Game-Play ",
