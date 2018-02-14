@@ -1,9 +1,9 @@
 {
   "members": [
-    { "name":"Parth Patel", "role":"Lead Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parth.webp" },
-	{ "name":"Mrunal Makwana", "role":"Designer", "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/mrunal.webp" },
-    { "name":"Harsh Parmar", "role":"Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/harsh.webp" },
-    { "name":"Hiren Gohil", "role":"Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/hiren.webp" },
-    { "name":"Parth Bhatagalikar", "role":"Designer", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parthb.webp" }
+    { "name":"Parth Patel", "role":"Lead Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parth.webp" },
+	{ "name":"Mrunal Makwana", "role":"Designer" , "department":"Information Technology", "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/mrunal.webp" },
+    { "name":"Harsh Parmar", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/harsh.webp" },
+    { "name":"Hiren Gohil", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/hiren.webp" },
+    { "name":"Parth Bhatagalikar", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parthb.webp" }
   ]
 }
