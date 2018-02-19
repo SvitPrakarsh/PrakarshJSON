@@ -28,14 +28,14 @@
   ],
   "featuredEvents": [
     {
-      "title":"ABC Event",
+      "name":"ABC Event",
       "location":"MNO Block, XYZ Class",
       "description":"Short length description about the event.",
       "date":"21 Feb",
       "time":"NOW"
     },
     {
-      "title":"DEF Event",
+      "name":"DEF Event",
       "location":"PQR Block, UVW Class",
       "description":"Short length description about the event.",
       "date":"21 Feb",
