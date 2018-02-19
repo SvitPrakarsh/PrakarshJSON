@@ -1,7 +1,7 @@
 {
   "show":{
     "featuredSpeakers": true,
-    "happening": true
+    "featuredEvents": true
   },
   "featuredSpeakers": [
   {
@@ -26,22 +26,20 @@
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json"
   }
   ],
-  "liveEvents": [
+  "featuredEvents": [
     {
       "title":"ABC Event",
       "location":"MNO Block, XYZ Class",
       "description":"Short length description about the event.",
-      "date":"",
-      "time":"NOW",
-      "dataUrl":""
+      "date":"21 Feb",
+      "time":"NOW"
     },
     {
       "title":"DEF Event",
       "location":"PQR Block, UVW Class",
       "description":"Short length description about the event.",
-      "date":"22 Feb",
-      "time":"1:30PM",
-      "dataUrl":""
+      "date":"21 Feb",
+      "time":"1:30PM"
     }
   ]
 }
