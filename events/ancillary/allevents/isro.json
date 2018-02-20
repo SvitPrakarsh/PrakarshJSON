@@ -1,4 +1,4 @@
-{
+	{
 	"eventName": "ISRO ",
 	"imageUrl": "",
 	"details": [{
@@ -16,7 +16,8 @@
 		},
 		{
 			"sectionHeader": "Venue & Time",
-			"sectionContent": "Date: 22/02/2018 10:30 AM to 1:00 PM (AERO AUDITORIUM(2ND FLOOR))"
+			"sectionContent": "Date: 22/02/2018 \n AERO AUDITORIUM(2ND FLOOR) \n 10:30 AM to 01:00 PM "
+
 		}
 	],
 	"contactDetails": [{
