@@ -8,7 +8,11 @@
     { "sectionHeader":"Round 1 - Group (2/3 persons) ", "sectionContent":"Input (provided to candidate) : - Bowl filled with jumbled SQL code answer cheats,Procedure: Students has to pick up one of cheat and match the answer and write proper SQL query in the sheet. Output: Volunteers and event members will check the answer and declare the winner groups. Total group winner (5-7 teams) will eligible to perform round 2 events. "},
     { "sectionHeader":"Round 2 -Individual even", "sectionContent":"Every student will perform the given task within stipulated time period. Winner will be declared as individual 1-2-3. " },
     
-    { "sectionHeader":"Participation", "sectionContent":"Individual" }
+    { "sectionHeader":"Participation", "sectionContent":"Individual" },
+	{
+		"sectionHeader": "Venue & Time",
+		"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:00 PM (MCA Department[C-116/117]) \nRound 2: 1:00 PM to 1:45 PM (MCA Department[C-116/117])"
+	}
   ],
   "contactDetails":[
     { "name":"Yamini Bhatt ", "number":"9687111985"},
