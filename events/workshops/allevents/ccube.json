@@ -25,10 +25,13 @@
 		{
 			"sectionHeader": "Participation",
 			"sectionContent": "Team of 3 or 4"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \n 11:30 AM to 1:00 PM  \n 1:45 PM to 03:30 PM (ELECTRICAL SEMINAR HALL(2ND FLOOR))  \nDate: 22/02/2018 \n 10:30 AM to 01:00 PM(ELECTRICAL SEMINAR HALL(2ND FLOOR) \n 01:45 AM to 03:15 PM(ELECTRICAL SEMINAR HALL(2ND FLOOR)"
 		}
 	],
-	"contactDetails":[
-	{
+	"contactDetails": [{
 			"name": "HetPatel",
 			"number": "9624674206 "
 		},
@@ -36,5 +39,5 @@
 			"name": "Sahil Mathur",
 			"number": "9724654676"
 		}
-  ]
+	]
 }

@@ -1,17 +1,46 @@
 	{
-  "eventName":"Sherlock",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Introduction", "sectionContent":"When you eliminate the impossible " },
-    { "sectionHeader":"Abstract", "sectionContent":"The master of all detective games is here for you with a reloaded version of physical and mental challenges that will drive you nuts through-out the game." },
-    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
-    { "sectionHeader":"Round 1 - Win the One", "sectionContent":"In these round participants get clues (pictorial) for different places and they will go to that places and observe the charts. After coming to room, they will be given Aptitude test based on those charts and how well they know the consulting detective, Sherlock Holmes" },
-    { "sectionHeader":"Round 2-Twice the Trouble", "sectionContent":"In this round participants will play some numerical and pictorial rapid fire type games. Based on the points they earn, they will be selected for the next round." },
-	    { "sectionHeader":"Round 3- Death Note", "sectionContent":"In this round winners of 2nd round get clues (text) according to place and they will guess the places and go there and get other clues with evidence of the case. At the end of the round participants will reach at crime scene and observed the place with evidence given to them and after that they will come to room and write report on murder case." },
-    { "sectionHeader":"Participation", "sectionContent":"Maximum number of participants: 3 " }
-  ],
-  "contactDetails":[
-    { "name":"Jaimil Patel", "number":"9727338791"},
-    { "name":"Anupriya Panchal", "number":"8156086346"}
-  ]
-}
+		"eventName": "Sherlock",
+		"imageUrl": "",
+		"details": [{
+				"sectionHeader": "Introduction",
+				"sectionContent": "When you eliminate the impossible "
+			},
+			{
+				"sectionHeader": "Abstract",
+				"sectionContent": "The master of all detective games is here for you with a reloaded version of physical and mental challenges that will drive you nuts through-out the game."
+			},
+			{
+				"sectionHeader": "Description of Rounds",
+				"sectionContent": ""
+			},
+			{
+				"sectionHeader": "Round 1 - Win the One",
+				"sectionContent": "In these round participants get clues (pictorial) for different places and they will go to that places and observe the charts. After coming to room, they will be given Aptitude test based on those charts and how well they know the consulting detective, Sherlock Holmes"
+			},
+			{
+				"sectionHeader": "Round 2-Twice the Trouble",
+				"sectionContent": "In this round participants will play some numerical and pictorial rapid fire type games. Based on the points they earn, they will be selected for the next round."
+			},
+			{
+				"sectionHeader": "Round 3- Death Note",
+				"sectionContent": "In this round winners of 2nd round get clues (text) according to place and they will guess the places and go there and get other clues with evidence of the case. At the end of the round participants will reach at crime scene and observed the place with evidence given to them and after that they will come to room and write report on murder case."
+			},
+			{
+				"sectionHeader": "Participation",
+				"sectionContent": "Maximum number of participants: 3 "
+			},
+			{
+				"sectionHeader": "Venue & Time",
+				"sectionContent": "Date: 21/02/2018 \nRound-1  11:45 AM to 12:45 PM \nC-(303/304/304A) \nRound-2 01:30 PM to 03:00 PM \nC-(303/304/304A) \nDate: 22/02/2018 \nRound-3  11:00 AM to 1:00 PM \nC-(303/304/304A)"
+			}
+		],
+		"contactDetails": [{
+				"name": "Jaimil Patel",
+				"number": "9727338791"
+			},
+			{
+				"name": "Anupriya Panchal",
+				"number": "8156086346"
+			}
+		]
+	}
