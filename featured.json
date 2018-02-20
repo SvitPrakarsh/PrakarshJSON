@@ -14,8 +14,8 @@
     "description":"She is a teenager from Vadodara, who has participated in around 75 races both at the national and the international level, has become the first Indian female driver to compete in the highly competitive Euro JK series.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/miraerda.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/racing.json",
-    "date":"",
-    "time":""
+    "date":"22/02/2018",
+    "time":"1:15 PM"
   },
   {
     "name":"CA Manish Baxi",
@@ -23,8 +23,8 @@
     "description":"Practicing Chartered Accountant since 26 years. He is a committee member of Federation of Gujarat Industries, Member of Finance Committee of BCA, Financial Advisor of JCI India. He has conuducted more than 450 lectures on Finance, Accounts, Personality Development across many countries, and he will give an expert talk on finance fitness.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/manishbaxi.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json",
-    "date":"",
-    "time":""
+    "date":"21/02/2018",
+    "time":"1:15 PM"
   },
   {
     "name":"Ravikumar Varma",
@@ -32,8 +32,8 @@
     "description":"A seminar will be conducted by Mr. Ravikumar Varma an expert from ISRO. The speaker will give information regarding Aerospace Technologies, Indian Satellites Sytems and about the achievements of India in Aerospace field.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/ravikumarvarma.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json",
-    "date":"",
-    "time":""
+    "date":"22/02/2018",
+    "time":"10:30 AM"
   }
   ],
   "featuredEvents": [
