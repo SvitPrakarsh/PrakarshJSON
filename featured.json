@@ -1,7 +1,7 @@
 {
   "show": {
     "featuredSpeakers": true,
-    "featuredEvents": true
+    "featuredEvents": false
   },
   "labels": {
     "featuredSpeakers": "Features Speakers",
