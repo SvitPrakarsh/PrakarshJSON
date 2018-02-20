@@ -1,7 +1,7 @@
 {
   "show": {
     "featuredSpeakers": true,
-    "featuredEvents": false
+    "featuredEvents": true
   },
   "labels": {
     "featuredSpeakers": "Features Speakers",
@@ -14,7 +14,7 @@
     "description":"She is a teenager from Vadodara, who has participated in around 75 races both at the national and the international level, has become the first Indian female driver to compete in the highly competitive Euro JK series.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/miraerda.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/racing.json",
-    "date":"22/02/2018",
+    "date":"22 Feb",
     "time":"1:15 PM"
   },
   {
@@ -23,7 +23,7 @@
     "description":"Practicing Chartered Accountant since 26 years. He is a committee member of Federation of Gujarat Industries, Member of Finance Committee of BCA, Financial Advisor of JCI India. He has conuducted more than 450 lectures on Finance, Accounts, Personality Development across many countries, and he will give an expert talk on finance fitness.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/manishbaxi.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json",
-    "date":"21/02/2018",
+    "date":"21 Feb",
     "time":"1:15 PM"
   },
   {
@@ -32,24 +32,24 @@
     "description":"A seminar will be conducted by Mr. Ravikumar Varma an expert from ISRO. The speaker will give information regarding Aerospace Technologies, Indian Satellites Sytems and about the achievements of India in Aerospace field.",
     "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/ravikumarvarma.webp",
     "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json",
-    "date":"22/02/2018",
+    "date":"22 Feb",
     "time":"10:30 AM"
   }
   ],
   "featuredEvents": [
     {
       "name":"Lucky Draw",
-      "shortDescription":"Win mobile phone worth of 22,000",
-      "description":"Stay tune for update...",
+      "shortDescription":"Win a mobile phone worth ₹22,000!",
+      "description":"Stay tuned for update...",
       "date":"21 Feb",
-      "time":"Coming soon"
+      "time":"Soon"
     },
     {
-      "name":"#Prakarsh Contest",
-      "shortDescription":"Win exciting price",
-      "description":"Stay tune for update...",
+      "name":"#Prakarsh2K18 Contest",
+      "shortDescription":"Win exciting prize!",
+      "description":"Stay tuned for update...",
       "date":"22 Feb",
-      "time":"Coming soon"
+      "time":"Soon"
     }
   ]
 }
