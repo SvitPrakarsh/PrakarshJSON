@@ -38,18 +38,18 @@
   ],
   "featuredEvents": [
     {
-      "name":"ABC Event",
-      "shortDescription":"MNO Block, XYZ Class",
-      "description":"Short length description about the event.",
+      "name":"Lucky Draw",
+      "shortDescription":"Win mobile phone worth of 22,000",
+      "description":"Stay tune for update...",
       "date":"21 Feb",
-      "time":"NOW"
+      "time":"Coming soon"
     },
     {
-      "name":"DEF Event",
-      "shortDescription":"PQR Block, UVW Class",
-      "description":"Short length description about the event.",
-      "date":"21 Feb",
-      "time":"1:30PM"
+      "name":"#Prakarsh Contest",
+      "shortDescription":"Win exciting price",
+      "description":"Stay tune for update...",
+      "date":"22 Feb",
+      "time":"Coming soon"
     }
   ]
 }
