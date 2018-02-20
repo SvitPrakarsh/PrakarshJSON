@@ -8,7 +8,11 @@
     { "sectionHeader":"Round 1 - Mind-bogglers", "sectionContent":" This round is a paper-pen quiz.  In each question there will be a statement followed by two conclusions numbered I and II.  You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. " },
     { "sectionHeader":"Round 2 -  Tower of Hanoi ", "sectionContent":"This round is based upon the theory of tower of Hanoi (with 3 rings). There will be a team of two. Participants will be asked a question; if they answer it correctly they will get a chance to move one ring. o First one to move all the 3 rings in correct order will be the winner. " },
     { "sectionHeader":"Round 3 - Passing the Parcel ", "sectionContent":"This round is the game 'Passing the Parcel' but instead of giving punishment to the guilty , the contestant will have to choose a chit in which either they have to (1) perform coding with monitor switched off or (2) Given any app/website they will have to describe its workflow. " },
-    { "sectionHeader":"Participation", "sectionContent":"Individual" }
+    { "sectionHeader":"Participation", "sectionContent":"Individual" },
+	{
+		"sectionHeader": "Venue & Time",
+		"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:00 PM (Computer Department[C-105/106]) \nRound 2: 12:30 PM to 1:30 PM (Computer Department[C-105/106]) \nRound 3: 2:00 AM to 2:45 PM(Computer Department[C-105/106])"
+	}
   ],
   "contactDetails":[
     { "name":"Ayush Mishra ", "number":"8141384843 "},

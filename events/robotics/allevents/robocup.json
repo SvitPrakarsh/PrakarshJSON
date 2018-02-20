@@ -39,7 +39,11 @@
 		}, {
 			"sectionHeader": "Participation",
 			"sectionContent": "Max participants in a team are 4. "
-		}
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 10:00 AM SPACE BETWEEN CIVIL & ELECTRICAL \n Date:22/02/2018 \n\n 10:00 AM onwards \n SPACE BETWEEN CIVIL & ELECTRICAL"
+		} 
 	],
 	"contactDetails": [{
 			"name": "Aayush Patel",
