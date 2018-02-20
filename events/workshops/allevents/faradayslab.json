@@ -17,10 +17,19 @@
 		{
 			"sectionHeader": "Participation",
 			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \nElectrical SEMINAR HALL(2ND FLOOR) \n11:30 AM to 1:00 PM  \n 1:45 PM to 03:30 PM   \nDate: 22/02/2018 \n(Electrical SEMINAR HALL(2ND FLOOR)) \n10:30 AM to 12:45 PM \n01:45 AM to 03:15 PM"
 		}
 	],
-	"contactDetails": [
-		{"name": "Dhruv Suthar","number": "7043343510 "},
-		{"name": "Fuzail Saiyed","number": "7567103375 "}
+	"contactDetails": [{
+			"name": "Dhruv Suthar",
+			"number": "7043343510 "
+		},
+		{
+			"name": "Fuzail Saiyed",
+			"number": "7567103375 "
+		}
 	]
 }

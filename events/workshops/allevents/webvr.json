@@ -1,19 +1,36 @@
 {
-  "eventName":"Web VR ",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Introduction", "sectionContent":"Web VR brings Virtual Reality to Web. " },
-    { "sectionHeader":"Abstract", "sectionContent":"We watch 3D movies so why stop their let's introduce it to website too" },
-    { "sectionHeader":"Description of Rounds", "sectionContent":"This is a workshop by Pranshu Khanna from Mozilla. Participants are required to come with their laptops. " },
-    
-	{ "sectionHeader":"Participation", "sectionContent":"Individual" },
-	
-	{"sectionHeader":"Note", "sectionContent":"Mozilla is an non profit open source organization working towards open web. This workshop is another step towards our mission by spreading knowledge about support of Virtual Reality content on the Web. Mozilla never charges any fee for any workshop and the fee of this workshop is charged by Prakarsh'18 for providing you the VR device and other logistics to make the Prakarsh'18 an awesome experience for you." }
- 
-  ],
-  
-  "contactDetails":[
-    { "name":"Meghesh Rana", "number":"9825322707"}
-	]
-}
+	"eventName": "Web VR ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Web VR brings Virtual Reality to Web. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "We watch 3D movies so why stop their let's introduce it to website too"
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": "This is a workshop by Pranshu Khanna from Mozilla. Participants are required to come with their laptops. "
+		},
 
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+
+		{
+			"sectionHeader": "Note",
+			"sectionContent": "Mozilla is an non profit open source organization working towards open web. This workshop is another step towards our mission by spreading knowledge about support of Virtual Reality content on the Web. Mozilla never charges any fee for any workshop and the fee of this workshop is charged by Prakarsh'18 for providing you the VR device and other logistics to make the Prakarsh'18 an awesome experience for you."
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \n MECH IIPC HALL \n 12:30 AM to 03:00 PM"
+		}
+	],
+
+	"contactDetails": [{
+		"name": "Meghesh Rana",
+		"number": "9825322707"
+	}]
+}
