@@ -40,16 +40,14 @@
     {
       "name":"Lucky Draw",
       "shortDescription":"Win a mobile phone worth ₹22,000!",
-      "description":"Stay tuned for update...",
-      "date":"21 Feb",
-      "time":"Soon"
+      "description":"Stay tuned for updates.",
+      "date":"21 Feb"
     },
     {
       "name":"#Prakarsh2K18 Contest",
-      "shortDescription":"Win exciting prize!",
-      "description":"Stay tuned for update...",
-      "date":"22 Feb",
-      "time":"Soon"
+      "shortDescription":"Win exciting prizes!",
+      "description":"Post images on Instagram with #Prakarsh2K18 to participate.",
+      "date":"22 Feb"
     }
   ]
 }
