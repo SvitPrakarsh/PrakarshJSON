@@ -1,0 +1,22 @@
+{
+  "eventName":"CODE OF DUTY",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"In the reign of innovators, let your logic shout." },
+    { "sectionHeader":"Abstract", "sectionContent":"A very interesting event which checks your technical and general knowledge with lots of fun. " },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1 - MIND-MAPPING", "sectionContent":"This is a pen-paper based quiz. Questions will be based on very basic technical and general knowledge." },
+    { "sectionHeader":"Round 2 -  Tower of Hanoi ", "sectionContent":"This round is based upon the theory of tower of Hanoi (with 3 rings). There will be a team of two. Participants will be asked a question; if they answer it correctly they will get a chance to move one ring. First one to move all the 3 rings will win. " },
+    { "sectionHeader":"Round 3 - CODE-N-SWAP", "sectionContent":"This is a computer based round. Participants will be given a coded program and they have to insert errors in a specific time limit.After the time ends, participants will switch computers and now they have to solve the errors to obtain the output. The participant solving maximum errors will be declared as the winner." },
+    { "sectionHeader":"Participation", "sectionContent":"Individual" },
+	{
+		"sectionHeader": "Venue & Time",
+		"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:00 PM (Computer Department[C-105/106]) \nRound 2: 12:30 PM to 1:30 PM (Computer Department[C-105/106]) \nRound 3: 2:00 AM to 2:45 PM(Computer Department[C-105/106])"
+	}
+  ],
+  "contactDetails":[
+    { "name":"Malvika ", "number":"8487045482"}
+  ]
+}
+
+

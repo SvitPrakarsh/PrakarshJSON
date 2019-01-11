@@ -1,34 +1,34 @@
 {
-"categoryName":"Cyber Intrusion",
+"categoryName":"CIM",
 	"events": [{
-			"name": "Codestorm",
-			"tagline": "Create Deploy Destroy",
+			"name": "Tech-Cyto",
+			"tagline": "Let your Intelligence have Fun!",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/codestrom.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/codestorm.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/tech-cyto.json"
 		},
 		{
-			"name": "DB-Sniffers",
-			"tagline": "Hunt Your SQL Code",
+			"name": "Inforea",
+			"tagline": "Where a smart answer won’t get you fired!",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/dbsniffers.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/db-sniffers.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/inforea.json"
 		},
 		{
-			"name": "Impulse",
-			"tagline": "Keep the Momentum Going",
+			"name": "Silicon-Valley",
+			"tagline": "Go Farther than you ever dreamed",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/impulse.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/impulse.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/silicon-valley.json"
 		},
 		{
-			"name": "MindKraft",
-			"tagline": "Crack it. Smack it.",
+			"name": "Escapade",
+			"tagline": "Come, See and Conquer",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/mindcraft.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/mindkraft.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/escapade.json"
 		},
 		{
-			"name": "Tech-Rritory",
-			"tagline": "Cross It If You Can!",
+			"name": "Code-Of-Duty",
+			"tagline": "Let your Intelligence have Fun!",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/techrr.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/tech-rritory.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cyberintrusion/allevents/code-of-duty.json"
 		}
 	]
 }
