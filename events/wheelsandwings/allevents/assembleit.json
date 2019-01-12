@@ -1,5 +1,5 @@
 {
-	"eventName": "Assemble It 3.0 ",
+	"eventName": "Assemble It 4.0 ",
 	"imageUrl": "",
 	"details": [{
 			"sectionHeader": "Introduction",
@@ -14,20 +14,16 @@
 			"sectionContent": ""
 		},
 		{
-			"sectionHeader": "Round 1 - General Quiz ",
+			"sectionHeader": "Round 1 - Quiz-X ",
 			"sectionContent": " Participants have to give a pen paper test to test the technical knowledge the test will cover areas of Aptitude, general knowledge followed by Basic maths and Science. The time limit for round 1 will be 1 hour "
 		},
 		{
-			"sectionHeader": "Round 2 - Identify me ",
-			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member will be blindfolded and will try to guess the components as many as possible, by simply touching it. Other members will not be allowed to see it. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done by adding scores of first 2 rounds. "
+			"sectionHeader": "Round 2 - Test Your Knowledge",
+			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member will be blindfolded and will try to guess the components as many as possible. Other members will not be allowed to see it. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done. "
 		},
 		{
-			"sectionHeader": "Round 3 - Techno Hunt ",
-			"sectionContent": "Participants in this event will be given riddles which will be spread across the campus. They will have to identify the correct answer of the riddle to get the next hint. From solving number of hints they have to identify the given component.   This is an elimination round "
-		},
-		{
-			"sectionHeader": "Round 4 -  Just fix it ",
-			"sectionContent": "Final six teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine under the guidance. Top three teams will be decided based on timing of round 3 "
+			"sectionHeader": "Round 3 - Apply Your Knowledge",
+			"sectionContent": "Final three teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine(Clutch, brakes and gear mechanism) under the guidance. Top three teams will be decided based on timing of round 3"
 		},
 		{
 			"sectionHeader": "Participation",
@@ -35,16 +31,16 @@
 		},
 		{
 			"sectionHeader": "Venue & Time",
-			"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:00 PM (IIPC HALL (2ND FLOOR)) \nRound 2: 12:30 PM to 2:30 PM (C-211/212[Mechanical Department]) \nDate: 22/02/2018 \n\nRound 3: 10:30 AM to 12:30 PM (C-211/212[Mechanical Department]) \nRound 4: 1:15 PM to 3:00 PM (THERMAL LAB)"
+			"sectionContent": "Will inform soon"
 		}
 	],
 	"contactDetails": [{
-			"name": "Pathik patel",
-			"number": "8238337514"
+			"name": "DISHANK NANAVATI",
+			"number": "9998868964"
 		},
 		{
-			"name": "Alisagar Marchawala",
-			"number": "8489934840 "
+			"name": "RISHABH SHAH",
+			"number": "9426208166"
 		}
 	]
 }

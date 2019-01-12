@@ -1,50 +1,54 @@
-	{
-		"eventName": "Artiphilia 4.0 ",
-		"imageUrl": "",
-		"details": [{
-				"sectionHeader": "Introduction",
-				"sectionContent": "Capture your imagination "
-			},
-			{
-				"sectionHeader": "Abstract",
-				"sectionContent": "If capturing your imagination and showing the best of it is what you are interested in then this is the place where you meet your goal. Capture props around you, get the best from it and move to the next level. "
-			},
-			{
-				"sectionHeader": "Description of Rounds",
-				"sectionContent": ""
-			},
-			{
-				"sectionHeader": "Round 1 -  Expert seminar",
-				"sectionContent": "Seminar will be conducted. The knowledge on photography art will be presented.   "
-			},
-			{
-				"sectionHeader": "Round 2 - Refocal ",
-				"sectionContent": "The participants will be instructed to click their best inside the campus, with no theme and submit it."
-			},
-			{
-				"sectionHeader": "Round 3 - Frame me please!",
-				"sectionContent": " Participants will be given a theme.  -Theme based photography they have to perform. e.g.- Happiness beyond calculation. Silent communication "
-			},
-			{
-				"sectionHeader": "Round 4 - Click it to flick it.",
-				"sectionContent": " Participants have to click story based photograph, then they will have to make collage and according to the collage they will have to give story title and story. "
-			},
-			{
-				"sectionHeader": "Participation",
-				"sectionContent": "Team of 2 or 5"
-			},
-			{
-				"sectionHeader": "Venue & Time",
-				"sectionContent": "Date: 21/02/2018 \nRound-1  11:30 AM to 12:00 PM \nEC SEMINAR HALL \nRound-2 01:00 AM to 02:00 PM \nC-(301/302) \nDate: 22/02/2018 \nRound-3  10:30 AM to 1:00 PM \nC-(301/302) \nRound-4  02:00 PM to 03:00 PM \nC-(301/302)"
-			}
-		],
-		"contactDetails": [{
-				"name": "Urvish Gajjar",
-				"number": "8758827889 "
-			},
-			{
-				"name": "Riya Patel",
-				"number": "8469423345 "
-			}
-		]
-	}
+{
+	"eventName": "Artiphilia 5.0 ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Let your true colours shine"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Capturing your imagination and taking it to the new level to discover your goal. Capture the situation around you, make it feel lively and take leap."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 -  Expert seminar",
+			"sectionContent": "Seminar will be conducted. The knowledge on photography art and vlogging  will be presented.   "
+		},
+		{
+			"sectionHeader": "Round 2 - Stuff it ",
+			"sectionContent": "The participants have to click photos according to the theme. Example: Sadness, Hustle, etc."
+		},
+		{
+			"sectionHeader": "Round 3 - Kahaani",
+			"sectionContent": "Participants have to click photos (maximum 6) to describe a situation or a specific story."
+		},
+		{
+			"sectionHeader": "Round 4 - Kuch to vlogkahenge",
+			"sectionContent": "Participants have to shoot a 3-4 min. of vlog describing and capturing the atmosphere of Prakarsh and give it an eye catchy title."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of 4 or 5"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later."
+		}
+	],
+	"contactDetails": [{
+			"name": "Abhishek Maradia",
+			"number": "7622919913"
+		},
+		{
+			"name": "Nisarg Bhavsar ",
+			"number": "8230168706"
+		},
+		{
+			"name": "Punit Bhatt",
+			"number": "8140563445"
+		}
+	]
+}

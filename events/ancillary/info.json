@@ -1,12 +1,10 @@
 	{
 	"categoryName":"Ancillary",
   "events":[
-    { "name": "FINANCIAL FITNESS ", "tagline":"Think Big.. Think beyond.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json" },
     { "name": "HR SUMMIT ", "tagline":"“Optimize Your Human Equity", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/hrsummit.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/hrsummit.json" },
-    { "name": "ISRO", "tagline":"Keep the Momentum Going", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/isro.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json" },
-    { "name": "Racing Her Way to the Top ", "tagline":"Crack it. Smack it.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/racing.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/racing.json" },
-    { "name": "Nanotechnology in Concrete", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/nn.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/nanotechnologyinconcrete.json" }
-	
- 
+    { "name": "MIND POWER", "tagline":"Boost your career and focus on goal", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/financialfitness.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/mind-power.json" },
+    { "name": "INDIAN AIRFORCE ", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/isro.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/indian-airforce.json" },
+    { "name": "EMPLOYMENT MANTRA", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/racing.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/employment-mantra.json" },
+    { "name": "Vlog-Along", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/nn.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/vlog-along.json" }
   ]
 }

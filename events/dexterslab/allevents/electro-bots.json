@@ -1,0 +1,51 @@
+{
+	"eventName": "ELECTRO-BOTS",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This event will test the Intelligence and presence of mind."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "An event is based on Technical Skills and Logic"
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 : PICTORIAL QUIZ",
+			"sectionContent": "Participants should have to give the answer of given Pictorial questions. Participant who gives more  correct answer in a time limit. That team should go in next round"
+		},
+		{
+			"sectionHeader": "Round 2 : Solve the riddles and complete the Maze",
+			"sectionContent": "One member of team solve riddles and from that answer One Team member guide other member. Other team member are present in Maze. Team which complete the maze in given time will go in next round."
+		},
+		{
+			"sectionHeader": "Round 3 : Robo Expedition",
+			"sectionContent": "Different task should be given by us with help of Robo.Robo provided by us. Team which complete the task in given time will go in next round."
+        },
+        {
+			"sectionHeader": "Round 4 : Robo Expedition",
+			"sectionContent": "Touch-less door bell. Take-away kit"
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": " Team of 2-3. "
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will Inform you later."
+		}
+	],
+	"contactDetails": [{
+			"name": "Anal Upadhyay",
+			"number": "9106532110"
+        },
+        {
+            "name":"Parth Prajapati",
+            "number":"9925657410"
+        }
+
+	]
+}

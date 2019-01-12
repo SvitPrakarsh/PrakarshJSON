@@ -1,0 +1,33 @@
+{
+	"eventName": "INDIAN AIRFORCE ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A Guest lecture conducted by Ex. Indian Airforce officer."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Seminar on career in Indian Air force and How to join Indian Airforce or any defence sector.Also on leadership development. The Lecture will be conducted by Retired Indian Air Force officer Mr. Shashi Ranjan. He was a former Air Defence System Operator  "
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later"
+
+		}
+	],
+	"contactDetails": [{
+			"name": "Vipul Chaudhari ",
+			"number": "9687919498"
+        },
+        {
+            "name":"Krishna Murti",
+            "number":"9974541476"
+        }
+
+	]
+}

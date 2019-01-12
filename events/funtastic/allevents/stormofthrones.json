@@ -1,46 +1,46 @@
-	{
-		"eventName": "Storm of Thrones ",
-		"imageUrl": "",
-		"details": [{
-				"sectionHeader": "Introduction",
-				"sectionContent": "The World of Thrones is here. "
-			},
-			{
-				"sectionHeader": "Abstract",
-				"sectionContent": "If you are a member of game of thrones family, then this event is yours. Show us your capabilities to win the Throne.  "
-			},
-			{
-				"sectionHeader": "Description of Rounds",
-				"sectionContent": ""
-			},
-			{
-				"sectionHeader": "Round 1 ",
-				"sectionContent": "Participant have to link the emoji’s to the corresponding statements/sayings of Game of Thrones.  The contestant with maximum correct answer will qualify for round 2. "
-			},
-			{
-				"sectionHeader": "Round 2",
-				"sectionContent": "Decrypt the Dothraki language with the key provided by us and lead your group towards the throne to win. "
-			},
-			{
-				"sectionHeader": "Round 3 ",
-				"sectionContent": " Hunt and scan the QR code to obtain the characters of Game of Thrones. Merge all the scraps to get the finalized picture. Group finishing with least time span wins"
-			},
-			{
-				"sectionHeader": "Participation",
-				"sectionContent": "Individual"
-			},
-			{
-				"sectionHeader": "Venue & Time",
-				"sectionContent": "Date: 21/02/2018 \nRound-1  11:30 AM to 12:00 PM \nC-(306/307/308) \nRound-2 01:00 PM to 02:30 PM \nC-(306/307/308) \nDate: 22/02/2018 \nRound-3  10:30 AM to 1:00 PM \C-(306/307/308)"
-			}
-		],
-		"contactDetails": [{
-				"name": "Priyansh Thakar",
-				"number": " 7802978560"
-			},
-			{
-				"name": "Lakhan Chavda ",
-				"number": "7874406412"
-			}
-		]
-	}
+{
+	"eventName": "Storm of Thrones ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "The World of GOT is here. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "If you are a member of game of thrones family, then this event is yours. Show us your capabilities to win the Throne."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 : Ice and Fire",
+			"sectionContent": "Participants will have to choose one chit out of which names:- ICE OR FIRE. Then there will be puzzle quiz based on time limit. Whosoever has less time will qualify and top 3 finishers will have a surprise advantage in the next round."
+		},
+		{
+			"sectionHeader": "Round 2 : Unleash the khal",
+			"sectionContent": "Decrypt the Dothraki language with the key provided by us and lead your group towards the throne to win"
+		},
+		{
+			"sectionHeader": "Round 3 : The throne of 1000 swords",
+			"sectionContent": " Hunt and scan the QR code to obtain the characters of Game of Thrones. Merge all the scraps to get the finalized picture. Group finishing with least time span wins"
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later"
+		}
+	],
+	"contactDetails": [{
+			"name": "Ajinkya Sakharikar ",
+			"number": " 8511881242"
+		},
+		{
+			"name": "Ananya Nachankar",
+			"number": "9712928363"
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"eventName": "Def-Sec 5.0",
+	"eventName": "Def-Sec 8.0",
 	"imageUrl": "",
 	"details": [{
 			"sectionHeader": "Introduction",
@@ -14,20 +14,24 @@
 			"sectionContent": ""
 		},
 		{
-			"sectionHeader": "Round 1 - Quora quiz… ",
-			"sectionContent": " Aptitude test based on current affairs related to defense. "
+			"sectionHeader": "Round 1 - Screening test ",
+			"sectionContent": " The first round will consist of a 50 marks test. The question paper will include question verbal & non-verbal test. In which verbal section consist General Knowledge, Reasoning , English , current affairs. In non-verbal section object made up of various geometrical shapes is given and correct one is to be select."
 		},
 		{
-			"sectionHeader": "Round 2 - Test me… ",
-			"sectionContent": "Physical test it will include sit-up, push-ups, running.  Last would be group task. "
+			"sectionHeader": "Round 2 - GTO",
+			"sectionContent": "Selected candidates: after induvial round  25 / after PGT 15. The 40 participants will be asked to take the frog jump test were in 25 candidate will be selected for PGT.  Progressive Group Task, you are required to cross some obstacles with the help of supporting materials like rope, plank, wood log etc. Some rules are required to be followed during this task, it a full group activity. It is group test."
 		},
 		{
-			"sectionHeader": "Round 3 - Psychic ",
-			"sectionContent": "It is combination of psychological test and group discussion."
+			"sectionHeader": "Round 3 - PP&DT ",
+			"sectionContent": "This consist of story writing . You will be shown a picture for 30 secs, later you have to write a story based on the picture you have seen in 3 mins. "
 		},
 		{
-			"sectionHeader": "Round 4 -  The Heroes we need… ",
-			"sectionContent": "Personal Interview."
+			"sectionHeader": "Round 4 -  GD",
+			"sectionContent": "In this round there will be two group of 5 person each. group discussion on one topic, mostly current affairs."
+		},
+		{
+			"sectionHeader": "Round 5 -  PI",
+			"sectionContent": "It is a main key which decides your recommendation in the SSB Interview, SSB Interview questions and answers plays vital role in the assessment of the candidate. How to face the IO[ Interviewing officer]  in the SSB PI[ SSB Personal Interview] is the major concern here, one wrong move can tarnish your image and reduce your chances to get recommend. After this round one will be declared winner and one will be declared runner up."
 		},
 		{
 			"sectionHeader": "Participation",
@@ -35,16 +39,16 @@
 		},
 		{
 			"sectionHeader": "Venue & Time",
-			"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 11:45 AM (C-213/214[Aero Department]) \nRound 2: 12:15 PM to 1:30 PM (Football Ground,SPACE BETWEEN(MECH & AERO)) \nDate: 22/02/2018 \n\nRound 3: 10:30 AM to 12:00 PM (C-213/214[Aero Department]) \nRound 4: 1:00 PM to 2:45 PM (MECH PLACEMENT CELL)"
+			"sectionContent": ""
 		}
 	],
 	"contactDetails": [{
-			"name": "Rahul Sharma ",
-			"number": "9409348533 "
+			"name": "Tej patel",
+			"number": "972670392"
 		},
 		{
-			"name": "Dipen Gadhwana ",
-			"number": "9033483066"
+			"name": "Jaivya shah",
+			"number": "8160059072"
 		}
 	]
 }

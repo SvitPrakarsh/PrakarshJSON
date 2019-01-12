@@ -1,47 +1,47 @@
-	{
-		"eventName": "Mr. & Mrs. Prakarsh",
-		"imageUrl": "",
-		"details": [{
-				"sectionHeader": "Introduction",
-				"sectionContent": "The world where Glam and Fame meet. "
-			},
-			{
-				"sectionHeader": "Abstract",
-				"sectionContent": "It's an opportunity to showcase your upcoming line of popularity, attire, glamour and coordination.Show your best and win from the rest."
-			},
-			{
-				"sectionHeader": "Description of Rounds",
-				"sectionContent": ""
-			},
-			{
-				"sectionHeader": "Round 1",
-				"sectionContent": "Simple tasks will be given in pair.Get the attraction while performing some tasks.Tasks depend on the theme given in the chits."
-			},
-			{
-				"sectionHeader": "Round 2",
-				"sectionContent": "They have to perform some physical tasks in pairs in a given time limit. "
-			},
-			{
-				"sectionHeader": "Round 3",
-				"sectionContent": "A simple ramp walk is performed with different themes and props provided. "
-			},
-			{
-				"sectionHeader": "Participation",
-				"sectionContent": "Individual and also team of 2."
-			},
-			{
-				"sectionHeader": "Venue & Time",
-				"sectionContent": "Date: 21/02/2018 \nRound-1  11:30 AM to 12:15 PM \n C-(311/312) \nRound-2 01:00 PM to 02:30 PM \n C-(311/312) \nDate: 22/02/2018 \nRound-3  1:00 PM to 2:30 PM \nCENTRAL LAWN"
-			}
-		],
-		"contactDetails": [{
-				"name": "Aashna Motwani",
-				"number": "9033414580"
-			},
-			{
-				"name": "Niyanta Dave",
-				"number": "9979878224"
-			}
+{
+	"eventName": "Mr. & Mrs. Prakarsh",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "The world where Beauty meets Reality."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Fashion is the armour to survive the reality of everyday life. Show your best and win from the rest. It is the best opportunity to get out of your comfort zone and make your name and get fame."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1",
+			"sectionContent": "Guess the correct one. Task based on chits. "
+		},
+		{
+			"sectionHeader": "Round 2",
+			"sectionContent": "Coordination is the key for this task. Coordinate and win in given time limit in pairs."
+		},
+		{
+			"sectionHeader": "Round 3",
+			"sectionContent": "A simple ramp walk is performed with different themes and props."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual and also team of 2."
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \nRound-1  11:30 AM to 12:15 PM \n C-(311/312) \nRound-2 01:00 PM to 02:30 PM \n C-(311/312) \nDate: 22/02/2018 \nRound-3  1:00 PM to 2:30 PM \nCENTRAL LAWN"
+		}
+	],
+	"contactDetails": [{
+			"name": "Ravi Khodiyar",
+			"number": "8155890598"
+		},
+		{
+			"name": "Dharmik Mehta ",
+			"number": "7043215854"
+		}
 
-		]
-	}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"eventName": "EMPLOYMENT MANTRA",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A guest lecture conducted by Director of PGDM department of Parul University."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "A seminar will conducted by an expert Mr Aniruddha Tambe, From Parul University. Some topics to be covered in this talk will be  1. What to do after education? 2. How to overcome unemployment. 3. What extra skills you require to get a secure job."
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later"
+		}
+	],
+	"contactDetails": [{
+			"name": "Prachi Rana",
+			"number": "9925548574"
+        },
+        {
+            "name":"Amit Parmar",
+            "number":"8530035988"
+        }
+
+	]
+}

@@ -1,17 +1,17 @@
 	{
-		"eventName": "Rise of Machines 7.0 ",
+		"eventName": "Rise of Machines 8.0 ",
 		"imageUrl": "",
 		"details": [{
 				"sectionHeader": "Introduction",
-				"sectionContent": "Making a super car based on steering mechanism. "
+				"sectionContent": "Making a rocker bogie rover based on steering and suspension mechanism."
 			},
 			{
 				"sectionHeader": "Abstract",
-				"sectionContent": ""
+				"sectionContent": "Kits will be provided and participants will have to make a suitable mechanism on the spot. The team which will complete the track with maximum utilization of resources and in shortest time period will be declared as winner. Sufficient guidance will be provided regarding the model construction in advance before the event."
 			},
 			{
 				"sectionHeader": "Description of Rounds",
-				"sectionContent": "Kits will be provided and students will have to make a suitable mechanism on the spot. The team which will complete the track with maximum utilization of resources and in shortest time period will be declared as winner. Suficient guidance will be provided regarding the model construction in advance before the event. "
+				"sectionContent": ""
 			},
 			{
 				"sectionHeader": "Round 1  ",
@@ -27,20 +27,20 @@
 			},
 			{
 				"sectionHeader": "Participation",
-				"sectionContent": "Team of Max 5"
+				"sectionContent": "3 or 4 Participants per group"
 			},
 			{
 				"sectionHeader": "Venue & Time",
-				"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:15 PM (Workshop) \nRound 2: 1:15 PM to 3:30 PM (Workshop) \nDate:22/02/2018 \n\nRound 3: 10:30 AM to 1:15 PM , 2:00 PM to 3:30 PM( LAWN NEAR STATUE  (PAVILLION))"
+				"sectionContent": ""
 			}
 		],
 		"contactDetails": [{
-				"name": "Yash Padhiyar",
-				"number": "7043096895"
+				"name": "Krutik Parikh ",
+				"number": "7801964938"
 			},
 			{
-				"name": "Jiten Suthar",
-				"number": "7984124104"
+				"name": "Nirav Gamit ",
+				"number": "8140748876"
 			}
 		]
 	}

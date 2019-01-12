@@ -1,0 +1,31 @@
+{
+	"eventName": "Vlog-Along",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A guest lecture based on youtube vlogging."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "The seminar on youtube vlogging would be conducted by well known Mr. Aariz Saiyed (comedian/musician) from The Comedy Factory.Aspects like journey of life as a youtube vlogger will be held, this session also include fun of stand up comedy too during the ongoing seminar."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later"
+
+		}
+	],
+	"contactDetails": [{
+		"name": "Nikita Bhagat ",
+		"number": "8140837095"
+    },
+    {
+        "name":"Pushpendra kumar ",
+        "number":"8780898524"
+    }
+]
+}

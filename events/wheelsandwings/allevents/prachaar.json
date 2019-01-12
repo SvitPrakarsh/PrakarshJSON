@@ -1,33 +1,29 @@
 	{
-		"eventName": "Prachaar",
+		"eventName": "Prachaar 9.0",
 		"imageUrl": "",
 		"details": [{
 				"sectionHeader": "Introduction",
-				"sectionContent": "A perfect stage for passionate automobile fans to show their technical knowledge. "
+				"sectionContent": "A perfect stage for passionate AUTOMOTIVE ENTHUSIASTS to show their technical knowledge. "
 			},
 			{
 				"sectionHeader": "Abstract",
-				"sectionContent": "Observing the hefty and amboyant automobile always cheer you up. Prachaar comes with all such experience.  Chance to acme & imposing all your automobile expertise. And a platform to showcase the prodigious journey of the best brands in the race of this automobile world.  "
+				"sectionContent": "Chance to acme & imposing all your automobile expertise.and platform toShowcase the prodigious journey of the best brand in the race this automobile world."
 			},
 			{
 				"sectionHeader": "Description of Rounds",
 				"sectionContent": ""
 			},
 			{
-				"sectionHeader": "Round 1",
-				"sectionContent": "In the first round there is a simple quiz based on automobile knowledge and also a bit of general knowledge. No elimination takes place. There will be mcq questions, fill in the blanks and direct questions. Half hour will be given to complete the quiz. "
+				"sectionHeader": "Round 1 : Find the mystery",
+				"sectionContent": "In this round participant should indicate maximum number of automobile parts of given picture of bikes or cars. Whoever indicate maximum number of part in less time will move forward to 2nd round (50% to 60% participants will be eliminated)"
 			},
 			{
-				"sectionHeader": "Round 2",
-				"sectionContent": "This is a debate round in which the participants will have to defend their automobile against other. The automobile they get will depend upon the chit they pick up.  Half of the team will be eliminated here and round 1 scores will be considered. Debate will be conducted for five minutes. "
+				"sectionHeader": "Round 2 : ….. And The War Of Knowledge Begin",
+				"sectionContent": "This is a debate round in which the participants will have to defend their automobile against other. The automobile they get will depend upon the message they get one day before the event. Half of the team will be eliminated here and Round 1 scores will be considered. Debate will be conducted for five minutes."
 			},
 			{
-				"sectionHeader": "Round 3",
-				"sectionContent": "The teams will be given the name of automobile on which they have to present orally. Here participants will be given 7 minutes for execution.  The best 6 teams will be selected."
-			},
-			{
-				"sectionHeader": "Round 4 ",
-				"sectionContent": "Here a surprise automobile will be presented in front of the teams and they would be told about all its special features by technician. Then they have to give a name to that automobile with appropriate reason and a tagline"
+				"sectionHeader": "Round 3 : Design Your Dream",
+				"sectionContent": "There is 3 page given in which you have to recreate Automobile logo. In second page you have to make rough 2D sketch of car. In last page you should write down general specification whichever you know. Best 5 to 6 team will be selected. (1 hour will be given )"
 			},
 			{
 				"sectionHeader": "Participation",
@@ -35,16 +31,16 @@
 			},
 			{
 				"sectionHeader": "Venue & Time",
-				"sectionContent": "Date: 21/02/2018 \nRound 1: 11:30 AM to 12:00 PM (C-111/112[Mechanical Department]) \nRound 2: 12:30 PM to 1:45 PM (2 WHEELER PARKING AREA) \nRound 3: 2:15 PM to 3:30 PM (2 WHEELER PARKING AREA) \nDate: 22/02/2018 \n\nRound 4: 11:30 AM to 2:30 PM(2 WHEELER PARKING AREA)"
+				"sectionContent": ""
 			}
 		],
 		"contactDetails": [{
-				"name": "Aatman Patel ",
-				"number": "9726512053 "
+				"name": "Meet Panchal",
+				"number": "9624600861"
 			},
 			{
-				"name": "Akshar Patel",
-				"number": "940878516"
+				"name": "Aniket Patel",
+				"number": "8128692671"
 			}
 		]
 	}

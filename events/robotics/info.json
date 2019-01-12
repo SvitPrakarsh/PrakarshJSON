@@ -1,10 +1,9 @@
 {
 "categoryName":"Robotics",
   "events":[
-    { "name": "BARRICADETRAIL ", "tagline":"Triumph to the skull island", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/barricadetrail.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/barricadetrail.json" },
-    { "name": "HOT WHEELS ", "tagline":"Let's Go Racing", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/hotwheels.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/hotwheels.json" },
-    { "name": "ROBO CUP  ", "tagline":"Go after your goals", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/robocup.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/robocup.json" },
-    { "name": "KURUKSHETRA ", "tagline":"Battle of Robots", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/kurukshetra.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/kurukshetra.json" }
+    { "name": "TERRAIN SAIL", "tagline":"Run like a beast, win like a beauty", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/barricadetrail.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/terrain-sail.json" },
+    { "name": "FOOT-BOT", "tagline":"Envision the challenge", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/robocup.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/foot-bot.json" },
+    { "name": "ROYAL RUMBLE", "tagline":"Battle of Robots", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/robotics/kurukshetra.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/robotics/allevents/royal-rumble.json" }
 
   ]
 }

@@ -1,16 +1,13 @@
 {
 "categoryName":"Funtastic",
   "events":[
-    { "name": "AD-D-ACT ", "tagline":"AD- Your bits", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/addact.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/addact.json" },
-    { "name": "Artiphilia 4.0 ", "tagline":"Set your exposure", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/artiphilia.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/artiphilia.json" },
-    { "name": "Bigg Boss ", "tagline":"Upar Wala sab dekhta hai", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/biggboss.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/biggboss.json" },
-    { "name": "Mr. and Ms. Prakarsh  ", "tagline":"“Ramp it up", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/mrandmrsprakarsh.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/mrandmrsprakarsh.json" },
-    { "name": "PRAKARSH PREMIER LEAGUE  ", "tagline":"Keep calm and bat on.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/prakarshpremierleague.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/prakarshpremierleague.json" },
-	{ "name": "Sherlock ", "tagline":"““When You Eliminate the Impossible ", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sherlock.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/sherlock.json" },
-	{ "name": "SNAPSHOOTERS ", "tagline":"SNAP IT TO SMASH IT", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/snapshooters.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/snapshooters.json" },
-	{ "name": "Spotlight ", "tagline":"Got talent? Make more victims", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/spotlight.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/spotlight.json" },
-	{ "name": "Storm of Thrones  ", "tagline":"Chaos is a ladder", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/stormofthrones.json" },
-	{ "name": "Digiwar zone", "tagline":"Gamers don't die, they respaw", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/digiwar.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/digiwar.json" }
-	
+    { "name": "PUBG", "tagline":"There can be only one winner!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/addact.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/pubg.json" },
+    { "name": "Artiphilia 5.0 ", "tagline":"Sieze the Croma", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/artiphilia.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/artiphilia.json" },
+    { "name": "Bigg Boss ", "tagline":"The Dark House", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/biggboss.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/biggboss.json" },
+    { "name": "Mr. and Ms. Prakarsh  ", "tagline":"Fashion Fades, Style is Eternal", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/mrandmrsprakarsh.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/mrandmrsprakarsh.json" },
+    { "name": "PRAKARSH PREMIER LEAGUE  ", "tagline":"Game on…", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/prakarshpremierleague.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/prakarshpremierleague.json" },
+    { "name": "Sherlock ", "tagline":"You know my methods, Watson.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sherlock.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/sherlock.json" },
+    { "name": "Storm of Thrones  ", "tagline":"Bend the knee", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/sot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/stormofthrones.json" },
+    { "name": "DALAL STREETS", "tagline":"Paisa Phenk tamasha dekh", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/snapshooters.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/dalal-streets.json" }	
   ]
 }
