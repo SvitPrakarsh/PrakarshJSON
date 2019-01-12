@@ -8,12 +8,6 @@
 			"websiteUrl": "http://www.careerlauncher.com/"
 		},
 		{
-			"name": "ICICI Bank",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/icicibank.webp",
-			"websiteUrl": "https://www.icicibank.com/"
-		},
-		{
 			"name": "Change Vadodara Campaign",
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cvc.webp",
@@ -24,12 +18,6 @@
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/feelings.webp",
 			"websiteUrl": "https://www.feelingsmultimedia.com/"
-		},
-		{
-			"name": "Green Advertisers",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/greenadvertisers.webp",
-			"websiteUrl": ""
 		},
 		{
 			"name": "Indian Space Research Organization",
@@ -48,12 +36,6 @@
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/khushimedia.webp",
 			"websiteUrl": "http://khushiadvertising.com/"
-		},
-		{
-			"name": "Radio City 91.1FM",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/radiocity.webp",
-			"websiteUrl": "http://www.radiocity.in/"
 		},
 		{
 			"name": "Renaissance Educare",
@@ -109,6 +91,24 @@
 			"description": "",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/tmb.webp",
 			"websiteUrl": "https://www.zomato.com/vadodara/the-mocktail-brewery-alkapuri"
+		},
+		{
+			"name": "ICICI Bank",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/icicibank.webp",
+			"websiteUrl": "https://www.icicibank.com/"
+		},
+		{
+			"name": "Green Advertisers",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/greenadvertisers.webp",
+			"websiteUrl": ""
+		},
+		{
+			"name": "Radio City 91.1FM",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/radiocity.webp",
+			"websiteUrl": "http://www.radiocity.in/"
 		},
 		{
 			"name": "White House",

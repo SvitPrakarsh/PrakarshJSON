@@ -1,35 +1,35 @@
 {
-"categoryName":"Dexter's Lab",
+"categoryName":"E.I.E",
   "events":[
     { 
       "name": "Wii-City ", 
       "tagline":"Wireless, Worry-less", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/beingwireless.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/wii-city.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/wii-city.json" 
     },
     { 
       "name": "The Hurt-Locker ", 
       "tagline":"Decode or destroy", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/circuitodyssey.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/the-hurt-locker.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/the-hurt-locker.json" 
     },
     { 
       "name": "LASER-TRIP", 
       "tagline":"May the light be with you!", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/electrobeats.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/laser-trip.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/laser-trip.json" 
     },
     { 
       "name": "ELECTRO-BOTS ", 
       "tagline":"Crack it, Burst it", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/laser.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/electro-bots.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/electro-bots.json" 
     },
 	  { 
       "name": "PCB Portrait", 
       "tagline":"Collect, Design, Assemble", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/dexterslab/ts.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/dexterslab/allevents/pcb-portrait.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/pcb-portrait.json" 
     }
     
   ]

@@ -1,0 +1,31 @@
+{
+  "categoryName":"Civil",
+    "events":[
+      { 
+        "name": "BATTLE OF BRIDGES",
+        "tagline":"Let water lift your success!", 
+        "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/hydromania.webp", 
+        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/civil/allevents/battle-of-bridges.json" 
+      },
+      {
+        "name": "BET TO BUILD", 
+        "tagline":"Bet it,Plan it", 
+        "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/funtasticity.webp", 
+        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/civil/allevents/bet-to-build.json" 
+      },
+      { 
+        "name": "BOB THE BUILDER", 
+        "tagline":"Find, Balance and construct", 
+        "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/coastercarril.webp", 
+        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/civil/allevents/bob-the-builder.json" 
+      },
+      { 
+        "name": "VIRTUAL ESTATE ", 
+        "tagline":"GUTS DON'T LIE BUT MARKET DOES", 
+        "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/structonics/virtualestate.webp", 
+        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/civil/allevents/virtualestate.json" 
+      }
+      
+    ]
+  }
+  
