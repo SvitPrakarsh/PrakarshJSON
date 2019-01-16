@@ -1,4 +1,4 @@
-{
+	{
 	"eventName": "AXI-DRAWBOT",
 	"imageUrl": "",
 	"details": [{
@@ -25,5 +25,9 @@
 			"sectionHeader": "Venue & Time",
 			"sectionContent": "Will inform later"
 		}
-	]
+	
+	],
+	"contactDetails": [
+]
+
 }
