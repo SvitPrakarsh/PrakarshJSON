@@ -1,0 +1,49 @@
+	{
+	"eventName": "BBG ROBO",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This workshop will teach you to build your own robot car controlled by your smartphone."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "We will first teach you to make a robot with Bluetooth module inside it. We will connect your robot with your smartphone through Bluetooth. You can control the robot by your mobile gestures. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+        },
+        {
+            "sectionHeader":"Content description",
+            "sectionContent":"Bluetooth controlled robot involves the operation of robot with the gestures done from your smartphone. This workshop helps participants to understand the concept and use of Ardiuno, BT module, and motor driver module.Gestures done by you using your smartphone will control your robot. Tilting your phone in any directions will make your robot move in that specific direction."
+        },
+        {
+            "sectionHeader":"Workshop Outcome:",
+            "sectionContent":"Students will gain practical hands on experience with the following components: Arduino Nano, Bluetooth HC-05, Motor driver. Step by step development of robot and establishment of communication "
+        },
+        {
+            "sectionHeader":"Kit",
+            "sectionContent":"Robot development components. Embedded robotics development board. Batteries. Tools."
+        },
+        {
+            "sectionHeader": "Participation",
+			"sectionContent": "Team of 3-4"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later"
+		}
+	
+	],
+	"contactDetails": [
+        {
+            "name":"Satish Delvadiya",
+            "number":"8200828198"
+        },
+        {
+            "name":"Het Shah",
+            "number":"9106495226 "
+        }
+]
+
+}
