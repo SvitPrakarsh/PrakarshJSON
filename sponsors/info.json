@@ -1,126 +1,106 @@
 {
 	"sponsors": [
-		
 		{
-			"name": "Carreer Launcher",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cl.webp",
-			"websiteUrl": "http://www.careerlauncher.com/"
+			"name": "Aapdu Vadodara",
+			"description": "Social Media Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/aapdu-vadodara.webp",
+			"websiteUrl": "https://www.facebook.com/AapduVadodara/"
 		},
 		{
-			"name": "Change Vadodara Campaign",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/cvc.webp",
-			"websiteUrl": "http://www.cvc.org.in"
-		},
-		{
-			"name": "Feelings Multimedia",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/feelings.webp",
-			"websiteUrl": "https://www.feelingsmultimedia.com/"
-		},
-		{
-			"name": "Indian Space Research Organization",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/isro.webp",
-			"websiteUrl": "https://www.isro.gov.in/"
-		},
-		{
-			"name": "Kapital Bakers",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/kapitalbakers.webp",
-			"websiteUrl": ""
-		},
-		{
-			"name": "Khushi Ambient Media Agency",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/khushimedia.webp",
-			"websiteUrl": "http://khushiadvertising.com/"
-		},
-		{
-			"name": "Renaissance Educare",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/renaissance.webp",
-			"websiteUrl": "http://therenaissance.co.in/"
-		},
-		{
-			"name": "The Gate Academy",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/thegateacademy.webp",
-			"websiteUrl": "http://thegateacademy.com/"
-		},
-		{
-			"name": "Blue Hat",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/bluehat.webp",
-			"websiteUrl": ""
-		},
-		{
-			"name": "Dry State Tonic",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/dst.webp",
+			"name": "Balaji Nutrition",
+			"description": "Nutrition Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/balaji-nutrition.webp",
 			"websiteUrl": "https://www.facebook.com/pg/DST-Dry-State-Tonic-159829197972279/about/"
+		},		
+		{
+			"name": "Balaji The Gym",
+			"description": "Gym Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/balaji.webp",
+			"websiteUrl": "http://www.balajigyms.com/"
 		},
 		{
-			"name": "International Dental Clinic",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/idc.webp",
-			"websiteUrl": ""
-		},
-		{
-			"name": "Kamyani Couture",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/kamyani.webp",
-			"websiteUrl": ""
-		},
-		{
-			"name": "Loksabha Jansatta",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/lsj.webp",
-			"websiteUrl": ""
-		},
-		
-		{
-			"name": "Status Resturant",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/statsu.webp",
-			"websiteUrl": "https://www.zomato.com/vadodara/status-restaurant-banquet-subhanpura"
-		},
-		{
-			"name": "The Mocktail Brewery",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/tmb.webp",
-			"websiteUrl": "https://www.zomato.com/vadodara/the-mocktail-brewery-alkapuri"
-		},
-		{
-			"name": "ICICI Bank",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/icicibank.webp",
-			"websiteUrl": "https://www.icicibank.com/"
+			"name": "Endeavor",
+			"description": "Associate Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsorsNewSponsors2k19/endeavor.webp",
+			"websiteUrl": "https://www.endeavorcareers.com/"
 		},
 		{
 			"name": "Green Advertisers",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/greenadvertisers.webp",
+			"description": "Outdoor Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/green-advertisers.webp",
+			"websiteUrl": "https://www.facebook.com/outdoorhoardingmedia/"
+		},
+		{
+			"name": "Green Code Digital",
+			"description": "Digital Marketing Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/green-code.webp",
+			"websiteUrl": "https://www.greencodedigital.com/"
+		},
+		{
+			"name": "Green-tronics",
+			"description": "LED Signages Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/green-tronics.webp",
+			"websiteUrl": "https://www.facebook.com/greentronics2017"
+		},
+		{
+			"name": "Happy Faces",
+			"description": "NGO Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/happy-faces.webp",
+			"websiteUrl": "https://happyfacesvadodara.com/"
+		},
+		{
+			"name": "I.C.E Gate Institute",
+			"description": "Education Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/ice.webp",
+			"websiteUrl": "http://icegateinstitute.com/"
+		},
+		{
+			"name": "ICICI Bank",
+			"description": "Banking Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/icici.webp",
+			"websiteUrl": "https://www.icicibank.com/"
+		},
+		{
+			"name": "Karan Sports",
+			"description": "Prizing Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/karan-sports.webp",
 			"websiteUrl": ""
+		},
+		{
+			"name": "Micro-Hub",
+			"description": "",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/microhub.webp",
+			"websiteUrl": "http://microhub.in/"
 		},
 		{
 			"name": "Radio City 91.1FM",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/radiocity.webp",
+			"description": "Radio Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/radiocity.webp",
 			"websiteUrl": "http://www.radiocity.in/"
 		},
 		{
-			"name": "White House",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/whitehouse.webp",
-			"websiteUrl": ""
+			"name": "Spark Today",
+			"description": "Digital Media Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/spark-today.webp",
+			"websiteUrl": "http://www.sparktodaynews.com/"
 		},
 		{
-			"name": "Yuvalay Electronics Lab",
-			"description": "",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/yuva.webp",
-			"websiteUrl": "http://elab.yuvalay.org/"
+			"name": "Servi-Tech Autmoation centre",
+			"description": "Knowledge Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/servi-tech.webp",
+			"websiteUrl": "https://www.facebook.com/Servitech09/"
+		},
+		{
+			"name": "The 7th Gear",
+			"description": "Automobile Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/the-7th-gear.webp",
+			"websiteUrl": "https://www.facebook.com/7thgearbaroda/"
+		},
+		{
+			"name": "White House",
+			"description": "Styling Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/white-house.webp",
+			"websiteUrl": "https://www.justdial.com/VADODARA/White-House-Near-Tower-Raopura/0265P265STD160720_BZDET"
 		}
-	]
+]
 }

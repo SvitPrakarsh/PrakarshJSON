@@ -3,31 +3,31 @@
 	"events": [{
 			"name": "Tech-Cyto",
 			"tagline": "Let your Intelligence have Fun!",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/codestrom.webp",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/tech-cyto.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/tech-cyto.json"
 		},
 		{
 			"name": "Inforea",
 			"tagline": "Where a smart answer won’t get you fired!",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/dbsniffers.webp",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/inforea.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/inforea.json"
 		},
 		{
 			"name": "Silicon-Valley",
 			"tagline": "Go Farther than you ever dreamed",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/impulse.webp",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/silicon-valley.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/silicon-valley.json"
 		},
 		{
 			"name": "Escapade",
 			"tagline": "Come, See and Conquer",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/mindcraft.webp",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/escapade.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/escapade.json"
 		},
 		{
 			"name": "Code-Of-Duty",
 			"tagline": "Let your Intelligence have Fun!",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cyberintrusion/techrr.webp",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/code-of-duty.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/code-of-duty.json"
 		}
 	]
