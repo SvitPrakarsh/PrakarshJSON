@@ -1,12 +1,12 @@
 {
 "categoryName":"Workshops",
   "events":[
-    { "name": "Faraday's Lab 6.0 ", "tagline":"Step up your Techno Skills", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/faradayslab.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
-    { "name": "WordPress  ", "tagline":"Create Your Own World", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/wordpress.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/wordpress.json" },
-    { "name": "ARD-U-KNOW", "tagline":"Be your own manufacturer", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/ccube.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ard-u-know.json" },
-    { "name": "Rise of Machines 8.0", "tagline":"You can’t outrun yourself", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/riseofmachines.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/riseofmachines.json" },
-    { "name": "AERO-PHILLA", "tagline":"Navigate the future", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/fpvdrone.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/aero-philia.json" },
-    { "name": "FLUTTER ", "tagline":"Build up your own horizon", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/webvr.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/flutter.json" },
-    { "name": "BBG ROBO", "tagline":"Future in your hands", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/voicecontrolledrobot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/bbg-robo.json" }
+    { "name": "Faraday's Lab 7.0 ", "tagline":"Step up your Techno Skills", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/faradays-lab.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/faradayslab.json" },
+    { "name": "WordPress  ", "tagline":"Create Your Own World", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/wordpress.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/wordpress.json" },
+    { "name": "ARD-U-KNOW", "tagline":"Be your own manufacturer", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/ard-u-know.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/ard-u-know.json" },
+    { "name": "Rise of Machines 8.0", "tagline":"You can’t outrun yourself", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/riseofmachines.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/riseofmachines.json" },
+    { "name": "AERO-PHILLA", "tagline":"Navigate the future", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/aero-philia.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/aero-philia.json" },
+    { "name": "FLUTTER ", "tagline":"Build up your own horizon", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/flutter.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/flutter.json" },
+    { "name": "BBG ROBO", "tagline":"Future in your hands", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/workshops/2019/bbg-robo.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/workshops/allevents/bbg-robo.json" }
   ]
 }
