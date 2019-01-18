@@ -1,7 +1,9 @@
 {
   "members": [
-    { "name":"Yuvraj Bhogle", "role":"Web Developer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/yuv.webp" },
-    { "name":"Abhishek Patel", "role":"Web Developer" , "department":"Electrical Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/abhi.webp" },
-    { "name":"Shivam Patel", "role":"Web Developer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/shivam.webp" }
+    { "name":"Chintan Prajapati", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/chintan.webp" },
+    { "name":"Rutvik Panchal", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/rutvik.webp" },
+    { "name":"Devarsh Panchal", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/devarsh.webp" },
+    { "name":"Mustanseer Sakerwala", "role":"App Developer", "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/mustanseer.webp" }
+
   ]
 }
