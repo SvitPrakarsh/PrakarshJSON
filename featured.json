@@ -9,43 +9,43 @@
   },
   "featuredSpeakers": [
   {
-    "name":"Mira Erda",
-    "shortDescription":"Formula Racer",
-    "description":"She is a teenager from Vadodara, who has participated in around 75 races both at the national and the international level, has become the first Indian female driver to compete in the highly competitive Euro JK series.",
-    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/miraerda.webp",
-    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/racing.json",
-    "date":"22 Feb",
-    "time":"1:15 PM"
+    "name":"AARIZ SAIYED",
+    "shortDescription":"The Comedy factory youtube videos maker",
+    "description":"A 25-year old multi-talented guy who is a musician, stand-up comedian, an actor and a film-maker. He plays a vital role in making The Comedy Factory Youtube videos.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/2019/aariz-saiyed.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/2019/vlog-along.json",
+    "date":"Will inform later",
+    "time":"Will inform later"
   },
   {
-    "name":"CA Manish Baxi",
-    "shortDescription":"Chartered Accountant",
-    "description":"Practicing Chartered Accountant since 26 years. He is a committee member of Federation of Gujarat Industries, Member of Finance Committee of BCA, Financial Advisor of JCI India. He has conuducted more than 450 lectures on Finance, Accounts, Personality Development across many countries, and he will give an expert talk on finance fitness.",
-    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/manishbaxi.webp",
-    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/financialfitness.json",
-    "date":"21 Feb",
-    "time":"1:15 PM"
+    "name":"Aniruddha Tambe ",
+    "shortDescription":"Director of PGDM",
+    "description":"Prof. Aniruddha Tambe has 28 years of professional experience in diverse fields. He is associated with Parul Institute of Management since Nov 2009 and brings with him a rich experience and industry exposure of 21 years in marketing and sales of FMCG, Consumer Durables and Life Insurance. Currently, he is the Director of PGDM programme at Parul Institute of Management, Parul University.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/aniruddha-tambe.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/2019/employment-mantra.json",
+    "date":"Will inform later",
+    "time":"Will inform later"
   },
   {
-    "name":"Ravikumar Varma",
-    "shortDescription":"ISRO",
-    "description":"A seminar will be conducted by Mr. Ravikumar Varma an expert from ISRO. The speaker will give information regarding Aerospace Technologies, Indian Satellites Sytems and about the achievements of India in Aerospace field.",
-    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/ravikumarvarma.webp",
-    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/isro.json",
-    "date":"22 Feb",
-    "time":"10:30 AM"
+    "name":"Shashi Ranjan",
+    "shortDescription":"Indian Air Force",
+    "description":"Joined Indian Air Force on 10 Jan 1992 as Air defender system operator. Retired on 31 Jan 2012 after completion of 20 years of initial engagement. During the service actively participated in Operation Rakshak, Operation Vijay(Kargil), Operation Parakram. Worked on various radar system, Operation center, Air defence Missile System.",
+    "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/speakers/shashi-ranjan.webp",
+    "dataUrl":"https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/2019/indian-airforce.json",
+    "date":"Will inform later",
+    "time":"Will inform later"
   }
   ],
   "featuredEvents": [
     {
       "name":"Lucky Draw",
       "shortDescription":"Win a mobile phone worth ₹22,000!",
-      "description":"Winners have been announced."
+      "description":""
     },
     {
-      "name":"#Prakarsh2K18 Contest",
+      "name":"#Prakarsh2K19 Contest",
       "shortDescription":"Win exciting prizes!",
-      "description":"Post images on Instagram with #Prakarsh2K18 to participate."
+      "description":"Post images on Instagram with #Prakarsh2K19 to participate."
     }
   ]
 }
