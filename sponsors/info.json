@@ -1,6 +1,18 @@
 {
 	"sponsors": [
 		{
+			"name": "Endeavor",
+			"description": "Associate Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/endeavor.webp",
+			"websiteUrl": "https://www.endeavorcareers.com/"
+		},
+		{
+			"name": "ICICI Bank",
+			"description": "Banking Partner",
+			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/icici.webp",
+			"websiteUrl": "https://www.icicibank.com/"
+		},
+		{
 			"name": "Aapdu Vadodara",
 			"description": "Social Media Partner",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/aapdu-vadodara.webp",
@@ -17,12 +29,6 @@
 			"description": "Gym Partner",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/balaji.webp",
 			"websiteUrl": "http://www.balajigyms.com/"
-		},
-		{
-			"name": "Endeavor",
-			"description": "Associate Partner",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/endeavor.webp",
-			"websiteUrl": "https://www.endeavorcareers.com/"
 		},
 		{
 			"name": "Green Advertisers",
@@ -53,12 +59,6 @@
 			"description": "Education Partner",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/ice.webp",
 			"websiteUrl": "http://icegateinstitute.com/"
-		},
-		{
-			"name": "ICICI Bank",
-			"description": "Banking Partner",
-			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/sponsors/NewSponsors2k19/icici.webp",
-			"websiteUrl": "https://www.icicibank.com/"
 		},
 		{
 			"name": "Karan Sports",
