@@ -1,5 +1,5 @@
 {
-"categoryName":"CIM",
+"categoryName":"Cyber-Intrusion",
 	"events": [{
 			"name": "Tech-Cyto",
 			"tagline": "Let your Intelligence have Fun!",
@@ -8,7 +8,7 @@
 		},
 		{
 			"name": "Inforea",
-			"tagline": "Where a smart answer won’t get you fired!",
+			"tagline": "Beyond the obvious.",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/inforea.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/inforea.json"
 		},
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Code-Of-Duty",
-			"tagline": "Let your Intelligence have Fun!",
+			"tagline": "Turning ideas into actions",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/code-of-duty.webp",
 			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/cim/allevents/code-of-duty.json"
 		}
