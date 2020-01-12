@@ -1,5 +1,5 @@
 {
-  "eventName":"cipher_intrusion",
+  "eventName":"CIPHER-INTRUSION",
   "imageUrl":"",
   "details":[
     { "sectionHeader":"", "sectionContent":"" },
