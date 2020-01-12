@@ -1,13 +1,28 @@
 {
-  "eventName":"AEROPHILIA 2.0",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "AEROPHILIA 2.0",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "Build your own model of RC plane."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "Participating students will be taught how to make a RC Plane."
+    },
+    {
+      "sectionHeader": "Description of Rounds",
+      "sectionContent": "Day 1:\n\tStyrofoam sheet with the dimensioning and shape of each part will be provided.\n\tParticipant will have to cut out the parts from Styrofoam and assemble them to form the model.\n\tParticipants will recieve help by the volunteers to do the same.\nDay-2:-\n\tThe model will be facilitated with servo motors, receiver, battery and main engine.\n\tFlight test will be conducted for each model."
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Vedant Prajapati",
+      "number": "7778841416"
+    },
+    {
+      "name": "Krishna Mistry",
+      "number": ""
+    }
   ]
 }

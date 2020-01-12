@@ -1,13 +1,40 @@
 {
-  "eventName":"LEVITRON",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Levitron",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "It is very interesting event. In this the participants will be taught how to make object levitation . It will be an interesting and fun based event with technical parameters to learn and apply."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "In this event there is practical application of electromagnetic levitation and also about hall effect. Through this event participants will learn about many diodes, sensors and also about magnetic suspension."
+    },
+    {
+      "sectionHeader": "Round 1",
+      "sectionContent": "It will be an fun round. In this participants will be given a bowl with riddles to be solve the person who solves the riddles will proceed to the next round"
+    },
+    {
+      "sectionHeader": "Round 2",
+      "sectionContent": "In this participants will be given the king size maze to be solve and the one who will solve with least time will proceed to the other part"
+    },
+    {
+      "sectionHeader": "Round 3",
+      "sectionContent": "In this the students who cleared 1 & 2 round will come and they will be taught about magnetic levitation and how to make the circuit using hall sensor . and kit will be provided TAKE AWAY KIT."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "SOLO/DUO"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Siddarth  Jadhav",
+      "number": "9586001439"
+    },
+    {
+      "name": "Maitreya  Samvatsar",
+      "number": "6355203984"
+    }
   ]
 }

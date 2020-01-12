@@ -1,13 +1,40 @@
 {
-  "eventName":"GVISION",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "GVision",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "It is interesting event in which participants will have fun with technological stuff  ALL about to create Specs with the help of artificial intelligence. Basically We learn and develop our technical knowledge with the help of fun games."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "This is generally technical event to make Specs of AI system. It will help to increase the knowledge about latest technology which is basically introduced in IT level companies."
+    },
+    {
+      "sectionHeader": "Round 1",
+      "sectionContent": "In this round, The participants will have to write any ten numbers between 0 to 9 with desired number of repetitions. Then they are supposed to pick any 3 chits.(chits will contain any number between 0 to 9). If number matches, the participant will get a point according to the repetition of that number."
+    },
+    {
+      "sectionHeader": "Round 2",
+      "sectionContent": "Duo can Participate. There will be one path with certain number of hurdles. One participant will remain blindfolded and other participant will guide him/her.at certain stage, while walking on path , participant is supposed to do some specific task. The participant will be considered as penalty if they touch the border or any foul ."
+    },
+    {
+      "sectionHeader": "Round 3",
+      "sectionContent": "this round is the main round of the event. As per the name suggests, this round is about to how to make Smart glass or we can say that the specs which operates the mobile notifications, dialing, call receiving type of features. Basically we will make a kit for the purpose.it will be a TAKE AWAY KIT."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "DUO"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Pratahana Joshi",
+      "number": ""
+    },
+    {
+      "name": "Jaydip Parmar",
+      "number": "8758173436"
+    }
   ]
 }

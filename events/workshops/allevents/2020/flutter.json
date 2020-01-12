@@ -1,13 +1,32 @@
 {
-  "eventName":"FLUTTER",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Flutter",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "An open source mobile application software development kit created by Google."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "We are familiar with usage of various mobile applications and its importance in our daily life. So we are organizing a workshop on Flutter so that we can develop applications for both Android and iOS devices using one common platform."
+    },
+    {
+      "sectionHeader": "Description of rounds",
+      "sectionContent": "Participants are required to come with laptops.\nParticipants will be taught how to create mobile applications that work on both Android and iOS devices."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Individual"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Kathan Shah",
+      "number": "942992944"
+    },
+    {
+      "name": "Huzefa Pitol",
+      "number": "8734079022"
+    }
   ]
 }

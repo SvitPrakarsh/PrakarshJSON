@@ -1,13 +1,40 @@
 {
-  "eventName":"TESLA",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Tesla",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "In this event participants will be taught how to make a Tesla coil"
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "Description of rounds",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "Round 1: Disc quiz",
+      "sectionContent": "In this round two groups will compete against each other by revolving disc. This disc will give different number and that number will have question (Technical, general knowledge & aptitude). Winners will be qualified for next round."
+    },
+    {
+      "sectionHeader": "Round 2: Photo hunt",
+      "sectionContent": "It is a time based round. In this round qualifying participants will get 4 photos of different places and participants will take selfies at that place & submit it. Participants who take minimum time will be qualified for the final round."
+    },
+    {
+      "sectionHeader": "Round 3: Circuit",
+      "sectionContent": "In the final round, qualifying participants will be taught how to make a tesla coil wireless power transmission kit.\nThis will be a Take away Kit"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Yukti Maniyar",
+      "number": "9409501002"
+    },
+    {
+      "name": "Mansi Makwana",
+      "number": "8160250507"
+    }
   ]
 }

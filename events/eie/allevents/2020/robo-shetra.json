@@ -1,13 +1,40 @@
 {
-  "eventName":"ROBO-SHETRA",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Robo-Shetra",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "It is interesting event in which participants will have to play with Bot."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "It is fun based event with technical bot."
+    },
+    {
+      "sectionHeader": "Round 1",
+      "sectionContent": "In this round team has to play with bot and complete the task with the help of bot.(elimination round)"
+    },
+    {
+      "sectionHeader": "Round 2",
+      "sectionContent": "In this round team has to play with bot and complete the task with the help of bot.(elimination round)In this round team has to play with bot and complete the task with the help of bot.(elimination round)"
+    },
+    {
+      "sectionHeader": "Round 3",
+      "sectionContent": "In final round team has to play with bot and complete the task with the help of bot."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "SOLO"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Ashtha parikh",
+      "number": ""
+    },
+    {
+      "name": "Sapna Sindha",
+      "number": ""
+    }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "eventName": "Rock it out",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This event is combination of knowledge and practicality."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "A tinge of general knowledge in the field of aeronautics as well as a hand on experience in making a rocket. The various rounds spark an interest in the youth related to this field."
+    },
+    {
+      "sectionHeader": "Description of events",
+      "sectionContent": "In this event, each team will be helped in making the sugar rocket following which the launching of the rocket will be carried out."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Duo"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Shreshtha Somani",
+      "number": "6355292942"
+    },
+    {
+      "name": "Kishan Tanna",
+      "number": "6358750207"
+    }
+  ]
+}

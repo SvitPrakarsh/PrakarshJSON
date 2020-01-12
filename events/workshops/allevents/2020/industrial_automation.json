@@ -1,13 +1,32 @@
 {
-  "eventName":"INDUSTRIAL AUTOMATION",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Industrial Automation",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "It is the use of control systems for handling different processes and machineries in an industry."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "This is a combination of various disciplines of engineering to work on an industrial level and get knowledge of the latest technology."
+    },
+    {
+      "sectionHeader": "Description of rounds",
+      "sectionContent": "Participants are required to come with their laptops.\nTopics to be covered in this workshop:\n\tConcept of industrial automation\n\tDesign of automation circuit\n\tControl board design\n\tBasic programming knowledge\n\tTroubleshooting the errors\n\tOn the spot demonstration of Pneumatic and control system from laptops of the participants.\n\tUnderstanding of sensors and control units"
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Individual"
+    }
   ],
-  "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+  "contactDetails": [
+    {
+      "name": "Kathan Shah",
+      "number": "942992944"
+    },
+    {
+      "name": "Huzefa Pitol",
+      "number": "8734079022"
+    }
   ]
 }
