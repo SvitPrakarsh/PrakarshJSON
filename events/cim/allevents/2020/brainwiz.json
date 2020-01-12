@@ -1,13 +1,12 @@
 {
-  "eventName":"BRAINWIZ",
+  "eventName":"Brainwiz",
   "imageUrl":"",
   "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
-  ],
+    { "sectionHeader":" Pic-a-Pix", "sectionContent":"This round will test the mental ability of the participants.\nIn this participant have to identify images and answer the questions.\nJudging criteria will be based on the number of correct answers."},
+    { "sectionHeader":"Mind Hunt", "sectionContent":"In this round the participants will be in a team of 4 members.\nEvery member will be given an application in which they will have to solve riddles and unlock a piece of puzzle. Like this every member will unlock a piece of puzzle and hence the whole puzzle should be completed.\nJudgement will be based on the least time taken to complete the round." },
+    { "sectionHeader":"Mime Coding", "sectionContent":"This round is played in the group of 2 people.\nIn this 1 of the team members is on computer and another one has a riddle to solve, He/she have to solve that riddle and pass that answer to another team member without speaking anything  or by doing any sign with hand. He/she just have pass that answer by just doing lip sync and after that if member that are sitting on computer identify answer then he/she have to solve error which is in program.\nJudging criteria is based on the given time limit and riddle and error you have solved."  ],
   "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+    { "name":"Dweep Panchal (SY CE)", "number":"7990776085"},
+    { "name":"Devanshi Tank (SY IT)", "number":""}
   ]
 }
