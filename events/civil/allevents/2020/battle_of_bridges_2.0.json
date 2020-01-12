@@ -1,13 +1,13 @@
 {
-  "eventName":"BATTLE OF BRIDGES 2.0",
+  "eventName":"Battle OF Bridges 2.0",
   "imageUrl":"",
   "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+    { "sectionHeader":"", "sectionContent":"Participants have to construct Bascule Bridge which works on Hydraulic mechanism." },
+    { "sectionHeader":"", "sectionContent":"model will be shown at the beginning of the event. According to it they have to construct a bascule bridge of specified dimensions." },
+    { "sectionHeader":"", "sectionContent":"Participants have to apply Hydraulic mechanism to the bridge. The judging criteria will be based on:\n\t1) Depending on working of Hydraulic mechanism.\n\t2) As per height of bridge and length of deck.\n\t3) Varying load test." }
   ],
   "contactDetails":[
-    { "name":"", "number":""},
-    { "name":"", "number":""}
+    { "name":"Drashti Joshi", "number":""},
+    { "name":"Jaimin Prajapati", "number":"6354155278"}
   ]
 }
