@@ -30,7 +30,7 @@
     },
     {
       "name": "Robotics",
-      "tagline": "We Work Where Human Can't",
+      "tagline": "We Work Where Humans Can't",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/robotics-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/robotics/info.json"
@@ -51,7 +51,7 @@
     },
     {
       "name": "Workshops",
-      "tagline": "The Inovater's Spotlight",
+      "tagline": "Imagination at it's peak",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/workshops-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/workshops/info.json"
