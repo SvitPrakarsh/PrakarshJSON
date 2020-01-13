@@ -20,21 +20,21 @@
     },
     {
       "sectionHeader": "Round 3",
-      "sectionContent": "this round is the main round of the event. As per the name suggests, this round is about to how to make Smart glass or we can say that the specs which operates the mobile notifications, dialing, call receiving type of features. Basically we will make a kit for the purpose.it will be a TAKE AWAY KIT."
+      "sectionContent": "This round is the main round of the event. As per the name suggests, this round is about to how to make Smart glass or we can say that the specs which operates the mobile notifications, dialing, call receiving type of features. Basically we will make a kit for the purpose.it will be a TAKE AWAY KIT."
     },
     {
       "sectionHeader": "Participation",
-      "sectionContent": "DUO"
+      "sectionContent": "Duo"
     }
   ],
   "contactDetails": [
     {
-      "name": "Pratahana Joshi",
-      "number": ""
-    },
-    {
       "name": "Jaydip Parmar",
       "number": "8758173436"
+    },
+    {
+      "name": "Pratahana Joshi",
+      "number": ""
     }
   ]
 }

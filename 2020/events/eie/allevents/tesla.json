@@ -8,11 +8,7 @@
     },
     {
       "sectionHeader": "Abstract",
-      "sectionContent": ""
-    },
-    {
-      "sectionHeader": "Description of rounds",
-      "sectionContent": ""
+      "sectionContent": "It is fun based event with tech, non-tech and fun based event. This event will increase participants technical knowledge."
     },
     {
       "sectionHeader": "Round 1: Disc quiz",
@@ -25,16 +21,20 @@
     {
       "sectionHeader": "Round 3: Circuit",
       "sectionContent": "In the final round, qualifying participants will be taught how to make a tesla coil wireless power transmission kit.\nThis will be a Take away Kit"
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo/Duo"
     }
   ],
   "contactDetails": [
     {
       "name": "Yukti Maniyar",
-      "number": "9409501002"
+      "number": ""
     },
     {
       "name": "Mansi Makwana",
-      "number": "8160250507"
+      "number": ""
     }
   ]
 }
