@@ -4,19 +4,19 @@
   "details": [
     {
       "sectionHeader": "Introduction",
-      "sectionContent": "This workshop will teach you to build your own robot controlled by your smart phone."
+      "sectionContent": "This workshop will teach you how to build your own smartphone controlled robot"
     },
     {
       "sectionHeader": "Abstract",
-      "sectionContent": "We will teach you how to make a robot with a Bluetooth module inside it. We will then connect your robot with your smartphone through Bluetooth. After that you will be able to control the robot through gestures in your mobile"
+      "sectionContent": "In this workshop participants will be taught how to make a robot, which can be controlled using a smartphone. This will be made possible by using a bluetooth module in the robot to connect to bluetooth of your smartphone."
     },
     {
       "sectionHeader": "Description",
-      "sectionContent": "Bluetooth controlled robot involves the operation of robot with the gestures done from your smartphone. This workshop helps participants to understand the concept and use of Arduino, BT module and Gyroscope module.Gestures done by you using your smartphones will control your robot."
+      "sectionContent": "This workshop involves the creation of a robot which can be controlled by gestures done from your smartphone. It also helps participants to understand the underlying concepts and use of Arduino, BT module and Gyroscope module."
     },
     {
       "sectionHeader": "Workshop outcome",
-      "sectionContent": "Students will gain practical hands on experience with the following components.\nDevelopment board, Bluetooth HC – 05, Gyroscope.\nStep by step development of robot and establishment of communication."
+      "sectionContent": "Students will gain practical hands on experience with the following components.\n\tDevelopment board, Bluetooth HC – 05, Gyroscope.\nParticipants will also be made familiar with step by step development of robot and establishment of communication."
     },
     {
       "sectionHeader": "KIT",

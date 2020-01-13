@@ -1,5 +1,4 @@
-{
-  "eventName": "Rise Of Machine 9.0",
+{"eventName": "Rise Of Machine 9.0",
   "imageUrl": "",
   "details": [
     {
@@ -11,20 +10,16 @@
       "sectionContent": "Kits will be provided and participants will have to make a suitable mechanism on the spot. The team which will complete the track with maximum utilization of resources and in shortest time period will be declared as winner. Sufficient guidance will be provided regarding the model construction before the event."
     },
     {
-      "sectionHeader": "Description of rounds:",
-      "sectionContent": ""
-    },
-    {
       "sectionHeader": "Round 1: Quick Guide",
       "sectionContent": "A brief seminar regarding the model will be conducted mentioning about:\n\tDesign considerations.\n\tMaximum utilization of available resources.\n\tFactors to be considered during model making.\n\tHow to analyse your model."
     },
     {
       "sectionHeader": "Round 2: Lets do it!",
-      "sectionContent": "In this round, students are supposed to create a model according to given task under sufficient guidance."
+      "sectionContent": "In this round, students are supposed to create a model according to given task and under sufficient guidance."
     },
     {
       "sectionHeader": "Round 3: Prove Yourself",
-      "sectionContent": "Now finally it’s time to test your ability and performance of your model and emerge out as a winner."
+      "sectionContent": "Now finally it’s time to test the performance of your model against other teams and emerge out as a winner."
     },
     {
       "sectionHeader": "Participation",
