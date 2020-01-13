@@ -1,26 +1,26 @@
 {
-  "eventName": "",
+  "eventName": "Prachar 10.0",
   "imageUrl": "",
   "details": [
     {
       "sectionHeader": "Introduction",
-      "sectionContent": "A perfect stage for automotive enthusiast to show there technical knowledge"
+      "sectionContent": "A perfect stage for the automotive enthusiast to show their technical knowledge"
     },
     {
       "sectionHeader": "Abstract",
-      "sectionContent": "Chance to acme and imposing all your automobile expertise and platform to showcase the prodigious journey of the best brand in the race this automobile ."
+      "sectionContent": "Chance to acme and imposing all your automobile expertise and platform to showcase the prodigious journey of the best brand in the race this automobile."
     },
     {
       "sectionHeader": "Round 1: Find the Mystery",
-      "sectionContent": "In this round participant should indicate maximum number of automobile parts of given picture of bikes and cars . Whoever indicates maximum number of parts in less time will move forever to round 2.(50% to 60% participants will be eliminated)"
+      "sectionContent": "In this round teams will have to indicate the maximum number of automobile parts from given picture of bikes and cars. Whoever indicates maximum number of parts in least amount of time will move to round 2.(50% to 60% teams will be eliminated)"
     },
     {
-      "sectionHeader": "Round 2: …and the war of knowledge begins",
-      "sectionContent": "This is debate round in which the participants will have to defend their automobile against other .The automobile they get will depend upon the message they get one day before the event.Half of the team will be eliminated here and round 1 score will be considered . Debate will be conducted for few minutes."
+      "sectionHeader": "Round 2: ...and the war of knowledge begins",
+      "sectionContent": "This is debate round in which the teams will have to defend their automobile against other. The automobile they get will depend on the message they recieve one day before the event. Half of the teams will be eliminated here and Round 1 score will be considered."
     },
     {
       "sectionHeader": "Round 3: Design your dream",
-      "sectionContent": "There is three page given in which you have recreate automobile logo.In second page you have to make rough 2d sketch of car.In last page you should write-down general specification which you know.Best five to six team will be selected."
+      "sectionContent": "In this round, three blank pages will be given to each team. On the first page, they will have to draw a logo for the automobile of their dreams, on the next page, they will draw a rough 2D sketch of the car. And finally on the last page the participants will have to list out the general specifications of their dream car. Best five to six teams will be selected."
     },
     {
       "sectionHeader": "Participation",
@@ -29,12 +29,12 @@
   ],
   "contactDetails": [
     {
-      "name": "",
-      "number": ""
+      "name": "Smit Thakkar",
+      "number": "7043425595"
     },
     {
-      "name": "",
-      "number": ""
+      "name": "Harshiv Mistry",
+      "number": "926573230"
     }
   ]
 }

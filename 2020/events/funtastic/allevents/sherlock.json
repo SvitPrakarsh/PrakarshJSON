@@ -1,47 +1,13 @@
 {
-	"eventName": "Sherlock",
-	"imageUrl": "",
-	"details": [{
-			"sectionHeader": "Introduction",
-			"sectionContent": "Come at once if convenient — if inconvenient come all the same."
-		},
-		{
-			"sectionHeader": "Abstract",
-			"sectionContent": "The master of all detective games is here to test you to the extreme. A challenge that will leave you wanting for more."
-		},
-		{
-			"sectionHeader": "Description of Rounds",
-			"sectionContent": ""
-		},
-		{
-			"sectionHeader": "Round 1 : Quizophile",
-			"sectionContent": "Participants get clues to places, observe those places and answer a questionnaire based on what they observe. Also there will be questions based on general knowledge."
-		},
-		{
-			"sectionHeader": "Round 2 : Shot in the Dark",
-			"sectionContent": "This is a surprise round to test how good you are on your feet."
-		},
-		{
-			"sectionHeader": "Round 3 : Murder Mystery",
-			"sectionContent": "Finally what you came here for - The Murder Mystery. Solve it, you win."
-		},
-		{
-			"sectionHeader": "Participation",
-			"sectionContent": "2 or 3 "
-		},
-		{
-			"sectionHeader": "Venue & Time",
-			"sectionContent": "On 13th Feb,2019:\n  Round 1:C-303/304/304A @ 11:45 pm\n  Round 2: C-303/304/304A @ 01:15 pm \nOn 14th Feb,2019:\n  Round 3: C-303/304/304A @ 11:00 pm\n"
-		}
-	],
-	"contactDetails": [
-		{
-			"name": "Anupriya Panchal",
-			"number": "8156086346"
-		},
-		{
-			"name":"Rahul Goswami",
-			"number":"9426714603"
-		}
-	]
+  "eventName":"Sherlock",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Quizlamics", "sectionContent":"Participants will get clues which will lead them to different places, after reaching those places they need to observe some pictorial representation memorize it and answer questionnaires based on that. Quiz performing on “Kahoot”. Also, there will be questions aptitude based." },
+    { "sectionHeader":"Treasure Hunt", "sectionContent":"Qualified teams will now have to solve riddles which will indicate some location! This chain will continue, and teams will be eliminated on who wins the fewer tasks. Also, after this, they will have to complete specific tasks to make it to the final round." },
+    { "sectionHeader":"Catch the Murderer? ", "sectionContent":"Finally what you came here for - The Murder Mystery. Solve it, youwin." }
+  ],
+  "contactDetails":[
+    { "name":"Dhrumil Panchal", "number":"9106697258"},
+    { "name":"Harsh Gupte", "number":"9409387281"}
+  ]
 }

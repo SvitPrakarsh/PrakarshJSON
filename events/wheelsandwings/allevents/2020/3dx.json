@@ -1,5 +1,5 @@
 {
-  "eventName": "",
+  "eventName": "3D-X",
   "imageUrl": "",
   "details": [
     {
@@ -16,11 +16,11 @@
     },
     {
       "sectionHeader": "Round 1",
-      "sectionContent": "•  In first round, quiz will be conducted. Quiz will be related to seminar, intellectual questions, knowledge based, etc."
+      "sectionContent": "In first round, quiz will be conducted. Quiz will be related to seminar, intellectual questions, knowledge based, etc."
     },
     {
       "sectionHeader": "Round 2",
-      "sectionContent": "•  Only selected students will be allowed to enter in 2nd round.\nIn second round, students will be divided in to two groups.\nOne group will present set of pictures through ppt & second group will ask the question through observation of that picture. We will provide them ppt.\nAfter that, 2nd group will present ppt  & 1st group will ask the question. While this presentation, we will observe all the competitors & selected few of them after 2nd round for the final round."
+      "sectionContent": "Only selected students will be allowed to enter in 2nd round.\nIn second round, students will be divided in to two groups.\nOne group will present set of pictures through ppt & second group will ask the question through observation of that picture. We will provide them ppt.\nAfter that, 2nd group will present ppt  & 1st group will ask the question. While this presentation, we will observe all the competitors & selected few of them after 2nd round for the final round."
     },
     {
       "sectionHeader": "Round 3",
@@ -33,12 +33,12 @@
   ],
   "contactDetails": [
     {
-      "name": "",
-      "number": ""
+      "name": "Divyaraj Solanki",
+      "number": "9714209674"
     },
     {
-      "name": "",
-      "number": ""
+      "name": "Meet",
+      "number": "7990703525"
     }
   ]
 }
