@@ -1,0 +1,40 @@
+{
+  "eventName": "Cipher-Intrusion",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This event will test the thinking ability and technical knowledge of the participants."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "The event is based on the formation of technical words with fun."
+    },
+    {
+      "sectionHeader": "Round 1: Fit-a-Bit",
+      "sectionContent": "This round will test the knowledge of the participants about technical terms.\nParticipants will be provided crossword and they have to solve it.\nJudging criteria will be based on the number of correct answers."
+    },
+    {
+      "sectionHeader": "Round 2: Find Your Way",
+      "sectionContent": "This round is based on the application of the hierarchical data.\nThe participants will be provided the word by which they have to get the correct code.\nThere will be some twist in finding the code which will be disclosed at the time of the Event.\nJudging criteria is based on the given time limit and correct code."
+    },
+    {
+      "sectionHeader": "Round 3: CodeMiner",
+      "sectionContent": "In the final round, participants will be provided7-10 path of files.\nThe participants have to find alphabets by accessing different files.The files will be accessed by solving different problems.\nThe process will be repeated for number of times and by using different alphabets they have to form technical word/s.\nJudging criteria is based on correct word and on the basis of time."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Karnik Shah",
+      "number": "6354261283"
+    },
+    {
+      "name": "Rinkal Mistry",
+      "number": "9512125751 "
+    }
+  ]
+}

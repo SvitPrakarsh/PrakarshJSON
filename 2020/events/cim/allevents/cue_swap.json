@@ -1,0 +1,41 @@
+{
+  "eventName": "Cue-Swap",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This event will test the mental ability of participants to solve the questions and ability to deal with the technical components."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "This event is based on the dealing of technical components and technical knowledge"
+    },
+    {
+      "sectionHeader": "Round 1: Master Minds",
+      "sectionContent": "In this round aptitude based questions will be asked.\nThis round will test the critical and logical thinking of the participants.\nJudgement will be done on the number of correct answers."
+    },
+    {
+      "sectionHeader": "Round 2: Swap & Switch",
+      "sectionContent": "Here, the team is divided in 20 groups, each groups includes 2 members.\nIn this round, the participants have to answer the questions related tech and accordingly the will get chance to move the rings to complete the tower of Hanoi and after every question the group members of the team gets switched.\nThe group who completes the tower first will go for the next round."
+    },
+    {
+      "sectionHeader": "Round 3: Deal With It",
+      "sectionContent": "In this round some important components of computer like keyboard ,processor ,etc are given to the participants.\nFive teams of two members will be initially given some virtual money and components with their price written on it accordingly and after that they have to collect the components from the rest of the teams by exchanging money or components (components would be divided in such a way that after exchanging it with money or with other components your final computer would be completed).\nAnd at last 10 minutes a shop will be there to sell the components needed but with higher price."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo"
+    }
+  ],
+  "contactDetails": [
+    
+    {
+      "name": "Hiral Patel",
+      "number": "8128058111 "
+    },
+    {
+      "name": "Hemakshi Jani",
+      "number": ""
+    }
+  ]
+}
