@@ -26,35 +26,35 @@
       "tagline": "A Funntastic Journey",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/funtastic-new.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/funtastic/info.json"
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/info.json"
     },
     {
       "name": "Robotics",
       "tagline": "We Work Where Humans Can't",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/robotics-new.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/robotics/info.json"
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/robotics/info.json"
     },
     {
       "name": "Structonics",
       "tagline": "Building Confidence",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/civil-new.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/civil/info.json"
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/info.json"
     },
     {
       "name": "Wheels and Wings",
       "tagline": "We're loud & Proud",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/wheels-and-wings-new.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/wheelsandwings/info.json"
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/info.json"
     },
     {
       "name": "Workshops",
       "tagline": "Imagination at it's peak",
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/workshops-new.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/2020/workshops/info.json"
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/workshops/info.json"
     }
   ]
 }
