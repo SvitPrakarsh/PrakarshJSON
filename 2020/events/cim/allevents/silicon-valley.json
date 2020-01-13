@@ -1,0 +1,45 @@
+{
+	"eventName": "SILICON-VALLEY",
+	"imageUrl": "",
+	"details": [
+		{
+			"sectionHeader": "Introduction",
+			"sectionContent": "The event is all about cleverness, technical and logical skills and awareness. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "The event will enlighten ones technical And Business Knowledge in an interesting way."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 - Fortune 500",
+			"sectionContent": "This is an individual pen paper based round. Question paper will be provided and will contain questions related to leading companies, products, and services. The question will be of type product related, pictorial, riddle type etc.Judging criteria will be based on number of correct answers."
+		}, {
+			"sectionHeader": "Round 2 - God's Code",
+			"sectionContent": "This is a group round, contestants will be divided in groups of 5. This is round similar to Charades in which a contestant will be given a technical term and he/she is not allowed to see the term. The Term on card is written with twist and is to be declared on the event day. The Group Members are to see the term and thereafter the contestant will hold the card in hand and let the other team members solve the term written on Card. After Solving, the contestant can place back the card and the rest of team will give him/her hints in technical language. Each contestant holding a card will have to guess the word within the allocated time."
+		}, {
+			"sectionHeader": "Round 3 - Can-Figure? ",
+			"sectionContent": "This is an individual contestant based round. In this round, the contestants would undergo an Auction in which they would bid for different components of the system. And the contestant with system composed of highest specification will win."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Round 1: C-205/206 on 13th Feb,2019 @ 10:45 am\nRound 2: C-205/206 on 13th Feb,2019 @ 12:45 pm\n Round 3: C-205/206 on 14th Feb,2019 @ 12:00 pm\n"
+		}
+	],
+	"contactDetails": [{
+			"name": "Harsh Mauny ",
+			"number": "7567238734 "
+		},
+		{
+			"name": "Harsh Patel ",
+			"number": "9737373018"
+		}
+	]
+}				

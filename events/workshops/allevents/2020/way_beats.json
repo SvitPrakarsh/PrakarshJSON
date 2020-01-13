@@ -1,0 +1,28 @@
+{
+  "eventName": "Way Beats",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "In this workshop, participants will be taught how to make a Bluetooth speaker."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "A workshop in which participants will be taught how to make a Bluetooth speaker. Also, a technical seminar will be conducted at the start of workshop briefing participants regarding the workshop and some technical aspects of designing a Bluetooth speaker. Participants will also taught be PCB design along with basics like soldering."
+    },
+    {
+      "sectionHeader": "Description",
+      "sectionContent": "What will you learn from this workshop:\n\tHow to design PCB\n\tTechnical description of a Bluetooth speaker and its components\n\tHow to do soldering\n\tTroubleshooting.\nParticipants will be given a Take Away Kit"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Ankit Sharma",
+      "number": "7990106264"
+    },
+    {
+      "name": "Shaily Shah",
+      "number": ""
+    }
+  ]
+}

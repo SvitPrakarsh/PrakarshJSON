@@ -1,0 +1,13 @@
+{
+  "eventName":"Cryptogram",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Squizze", "sectionContent":"This round will test the mental ability and general knowledge of the participants.\nThe  participants will be answering to questions on their own device with the help of Kahoot.\nQuestions will be displayed on projector screen. The questions will have 4 options and the participants have to choose the correct answer.\nJudging criteria will be based on the maximum number of correct answes." },
+    { "sectionHeader":"Tribulation", "sectionContent":"•	This round will test the basic maths and technical knowledge of the participants.\nIn this round the participants will be grouped in 5. In each group certain questions will be asked and the one to give the right answer to form a number given by volunteer from the board.\nHe/She will have to do basic math operation to get the number given by the volunteer.\nJudging criteria will be based on the the correct answers." },
+    { "sectionHeader":"God's Plan", "sectionContent":"This Round is an individual round.\nIn this round, the participants have three  equation and they have to solve each equation and add all three answers calculated from the equations and decrypt the code related to the final answer.\nJudging criteria: Whoever gets the correct answer first, will be the winner. " }
+  ],
+  "contactDetails":[
+    { "name":"Priyal Sathwara (SY CE)", "number":""},
+    { "name":"Nisarg Parikh (SY IT)", "number":"9558922833"}
+  ]
+}

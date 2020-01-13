@@ -1,0 +1,22 @@
+{
+  "eventName":"INFOREA",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Introduction", "sectionContent":"This event will check the critical thinking ability and skills of the participants. " },
+    { "sectionHeader":"Abstract", "sectionContent":"An event for aptitude and general knowledge with fun. " },
+    { "sectionHeader":"Description of Rounds", "sectionContent":"" },
+    { "sectionHeader":"Round 1 - Qrious ", "sectionContent":"This round is a General Knowledge test where the participants will be required to identify the logos of different companies. The questions will be displayed on the projector screen. Participants will have to answer the questions on the answer sheet given to them. Judging Criteria will be based on the total number of correct answers."},
+    { "sectionHeader":"Round 2 -UkNOw", "sectionContent":"This round is based on the famous card game “UNO”. The participants will be competing against each other by playing a technical version of UNO. Participants will have to answer a technical question before they can use the Special Cards featured in UNO. Judging Criteria will be on the basis of the number of correct answers." },
+    { "sectionHeader":"Round 3 -ATLASt Survival", "sectionContent":"This round is based on the game “ATLAS”. Instead of locations the participants will have to play the game by using technical terms. There is also a Surprise Twist in the game. The participants will be awarded points for correct answers, but if the answer is wrong they will be required to perform the given task in a given time limit. Judging Criteria will be on the basis on the Individual Points of the participants. " },
+    
+    { "sectionHeader":"Participation", "sectionContent":"Individual" },
+	{
+		"sectionHeader": "Venue & Time",
+		"sectionContent": "Round 1: C-105/106 on 13th Feb,2019 @ 12:00 pm\n Round 2: C-105/106 on 13th Feb,2019 @ 02:15 pm\n Round 3: C-105/106 on 14th Feb,2019 @ 1:30pm\n"
+	}
+  ],
+  "contactDetails":[
+    { "name":"Shivangi Patel ", "number":"7572941738"},
+    { "name":"Shubham Kshatriya", "number":"7046064236"}
+  ]
+}

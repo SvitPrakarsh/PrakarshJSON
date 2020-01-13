@@ -1,0 +1,15 @@
+{
+  "eventName":"Big Boss",
+  "imageUrl":"",
+  "details":[
+    { "sectionHeader":"Try Your Luck", "sectionContent":"This round will test the skilling ability of the participants with a technical twist. Participants (Group) will be provided with dice. Judging criteria will be based on the sum of number rolled on dice" },
+    { "sectionHeader":"Alphabetize The Cups", "sectionContent":"This round is physical and concentration skills. Participants will perform this round at their specific table which is allotted to them. Participants will have to find the maximum numbers of alphabets starting from A to Z. Judging criteria is based on maximum cups placed in order. " },
+    { "sectionHeader":"Office Tennis", "sectionContent":"The participants would be given a writing board and paper balls. Participants have to basket the maximum number of paper balls in the bucket in the given time. Judging criteria is based on the maximum number of paper ball scored in the bucket." },
+    { "sectionHeader":"Knock The Cups", "sectionContent":" This round is based on physical, technical and concentration skills. Participants will have a rope tied to their waist connected to wooden pieces at the end. Participants will have to knock the cups by moving their waist. Judging criteria are based on the maximum number of cups knocked. " }
+
+  ],
+  "contactDetails":[
+    { "name":"Shail Patel (Civil TY)", "number":"9601872927"},
+    { "name":"Janvi Chauhan", "number":""}
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "eventName": "Self Balancing Robot",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This workshop will teach you how to build your own smartphone controlled robot"
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "In this workshop participants will be taught how to make a robot, which can be controlled using a smartphone. This will be made possible by using a bluetooth module in the robot to connect to bluetooth of your smartphone."
+    },
+    {
+      "sectionHeader": "Description",
+      "sectionContent": "This workshop involves the creation of a robot which can be controlled by gestures done from your smartphone. It also helps participants to understand the underlying concepts and use of Arduino, BT module and Gyroscope module."
+    },
+    {
+      "sectionHeader": "Workshop outcome",
+      "sectionContent": "Students will gain practical hands on experience with the following components.\n\tDevelopment board, Bluetooth HC – 05, Gyroscope.\nParticipants will also be made familiar with step by step development of robot and establishment of communication."
+    },
+    {
+      "sectionHeader": "KIT",
+      "sectionContent": "Robot development components\nEmbedded robotics development board\nBatteries\nTools"
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Team of 3 or 4 participants"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Pavan Patel",
+      "number": "8320401795"
+    },
+    {
+      "name": "Deep Trivedi",
+      "number": "9409401422"
+    },
+    {
+      "name": "Paritosh Vadher",
+      "number": "6355395929"
+    }
+  ]
+}

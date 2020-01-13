@@ -1,0 +1,36 @@
+{
+  "eventName": "S.H.A.R.K",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "It is fun based event in which participants will taught to make home automation through google assistant."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "It is an interesting event with technical stuff and circuit. This event will make the participants to memorize and learn the basics of device."
+    },
+    {
+      "sectionHeader": "Round 1: Memory Game",
+      "sectionContent": "In this event image will be shown with in a finite time and you have to reassemble that images in same order with the given time limit."
+    },
+    {
+      "sectionHeader": "Round 2: King Ludo",
+      "sectionContent": "Qualifying participants will preceded to next round. playing king size ludo. In this dice will be rolled and list of question will be given to each pair. One person of each pair will solve the sum and tell the answer. If the answer is correct the other person will move forward. (steps obtained by solving sum). If the answer is wrong penalty will be given. (Either 20 second will be reduced or 2 steps back)"
+    },
+    {
+      "sectionHeader": "Round 3: Circuit",
+      "sectionContent": "In final event, qualifying participants will be taught IOT based home automation system with google assistant and TAKE AWAY KIT will be provided."
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Dhrumil Mistry",
+      "number": "9978070089"
+    },
+    {
+      "name": "Rushabh Zaveri",
+      "number": "9909271539"
+    }
+  ]
+}

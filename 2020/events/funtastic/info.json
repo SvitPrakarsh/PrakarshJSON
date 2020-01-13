@@ -1,0 +1,13 @@
+{
+"categoryName":"Funtastic",
+  "events":[
+    { "name": "PUBG", "tagline":"There can be only one winner!", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/pubg.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/pubg.json" },
+    { "name": "Artiphilia 5.0 ", "tagline":"Sieze the Croma", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/artiphilia.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/artiphilia.json" },
+    { "name": "Bigg Boss ", "tagline":"The Dark House", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/big-boss.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/biggboss.json" },
+    { "name": "Mr. and Ms. Prakarsh  ", "tagline":"Fashion Fades, Style is Eternal", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/mr-and-mrs-prakarsh.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/mrandmrsprakarsh.json" },
+    { "name": "PRAKARSH PREMIER LEAGUE  ", "tagline":"Game on…", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/ppl.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/prakarshpremierleague.json" },
+    { "name": "Sherlock ", "tagline":"You know my methods, Watson.", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/sherlock.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/sherlock.json" },
+    { "name": "Storm of Thrones  ", "tagline":"Bend the knee", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/sot.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/stormofthrones.json" },
+    { "name": "DALAL STREETS", "tagline":"Paisa Phenk tamasha dekh", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/dalal-streets.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/funtastic/allevents/dalal-streets.json" }	
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventName": "Industrial Automation",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This workshop will be aimed at teaching students the basic tenents of industrial automation"
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "Industrial automation is the use of control systems, such as computers or robots, and information technologies for handling different processes and machineries in an industry to replace a human being. It is the second step beyond mechanization in the scope of industrialization."
+    },
+    {
+      "sectionHeader": "Description of rounds",
+      "sectionContent": "Participants are required to come with their laptops.\nTopics to be covered in this workshop:\n\tConcept of industrial automation\n\tDesign of automation circuit\n\tControl board design\n\tBasic computer programming\n\tTroubleshooting errors\n\tOn the spot demonstration of Pneumatic and control system from laptops of the participants.\n\tUnderstanding of sensors and control units"
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Kathan Shah",
+      "number": "942992944"
+    },
+    {
+      "name": "Huzefa Pitol",
+      "number": "8734079022"
+    }
+  ]
+}

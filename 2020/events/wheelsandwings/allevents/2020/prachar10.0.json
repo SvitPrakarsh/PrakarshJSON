@@ -1,0 +1,40 @@
+{
+  "eventName": "",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "A perfect stage for automotive enthusiast to show there technical knowledge"
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "Chance to acme and imposing all your automobile expertise and platform to showcase the prodigious journey of the best brand in the race this automobile ."
+    },
+    {
+      "sectionHeader": "Round 1: Find the Mystery",
+      "sectionContent": "In this round participant should indicate maximum number of automobile parts of given picture of bikes and cars . Whoever indicates maximum number of parts in less time will move forever to round 2.(50% to 60% participants will be eliminated)"
+    },
+    {
+      "sectionHeader": "Round 2: …and the war of knowledge begins",
+      "sectionContent": "This is debate round in which the participants will have to defend their automobile against other .The automobile they get will depend upon the message they get one day before the event.Half of the team will be eliminated here and round 1 score will be considered . Debate will be conducted for few minutes."
+    },
+    {
+      "sectionHeader": "Round 3: Design your dream",
+      "sectionContent": "There is three page given in which you have recreate automobile logo.In second page you have to make rough 2d sketch of car.In last page you should write-down general specification which you know.Best five to six team will be selected."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "3 participants per team"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "",
+      "number": ""
+    },
+    {
+      "name": "",
+      "number": ""
+    }
+  ]
+}

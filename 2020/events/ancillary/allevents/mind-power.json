@@ -1,0 +1,30 @@
+{
+	"eventName": "MIND POWER",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A guest lecture conducted by an expert in Mind Power."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "A seminar will conducted by an expert Prof. Dilipkumar Thakkar, From MSU Polytechnic. The topic will be related to how to control mind & how make goal & achieving goal & give briefly knowledge about it."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "EC Seminar hall on 13th Feb,2019 @ 12:45 pm"
+		}
+	],
+	"contactDetails": [{
+		"name": "Raulji Yuvraj ",
+		"number": "7698523117"
+    },
+    {
+        "name":"Abhisek Parmar",
+        "number":"8866047249"
+    }
+]
+}

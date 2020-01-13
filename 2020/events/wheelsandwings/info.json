@@ -1,0 +1,9 @@
+{
+"categoryName":"Wheels And Wings",
+  "events":[
+    { "name": "Assemble It 4.0 ", "tagline":"Feel the explosion beneath", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/assemble-it.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/assembleit.json" },
+    { "name": "Def-sec 6.0 ", "tagline":"Karma, Vachan aur soch", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/def-sec.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/defsec.json" },
+    { "name": "Prachaar 9.0 ", "tagline":"For the few who knows the difference", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/prachaar.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/prachaar.json" },
+    { "name": "TECH-WIZARD ", "tagline":"When Magic meets machinery", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/tech-wizard.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/wheelsandwings/allevents/tech-wizard.json" }
+  ]
+}

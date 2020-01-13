@@ -1,0 +1,36 @@
+{
+  "eventName": "Rasbian",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "Round 1",
+      "sectionContent": "In this round some word will be provided your friend have to identify the word only by gestures . headphone will be provided to the other member who is trying to catch the word."
+    },
+    {
+      "sectionHeader": "Round 2",
+      "sectionContent": "In this round we will taught about Raspberry Pi and some information about python language with some interfacing on raspberry pi"
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Individual/Duo"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Gaurav Parmar",
+      "number": "7016607722"
+    },
+    {
+      "name": "Rahul Bhavishkar",
+      "number": "7016118494"
+    }
+  ]
+}
