@@ -1,13 +1,28 @@
 {
-  "eventName":"Coaster Carril",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" },
-    { "sectionHeader":"", "sectionContent":"" }
+  "eventName": "Coaster Carril",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    }
   ],
-  "contactDetails":[
-    { "name":"Kirit Prajapati", "number":""},
-    { "name":"Dishant Parekh", "number":"9408391412"}
+  "contactDetails": [
+    {
+      "name": "Kirit Prajapati",
+      "number": ""
+    },
+    {
+      "name": "Dishant Parekh",
+      "number": "9408391412"
+    }
   ]
 }

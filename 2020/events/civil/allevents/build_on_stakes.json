@@ -1,13 +1,28 @@
 {
-  "eventName":"Build On Stakes",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Guess Whats's Next", "sectionContent":"Betting: In betting contests every team have to start with zero balance.\nThey have to bet the amount on the clips shown to them. We will show 4 video clips.\nAccordingly from their bet they will gain or lose the amount.\nThat gained or loosed amount will be added to their base amount or subtracted their base amount respectively." },
-    { "sectionHeader":"Zenga Blast", "sectionContent":"In this round the participants have to build a Zenga.\nOnly one chance is given to the participants if they fail to build the Zenga 1st time.\nAfter this elimination will be done on the basis of 1st and 2nd round.\nOnly 10 Teams will proceed to third round." },
-    { "sectionHeader":"Plan It!", "sectionContent":"•	The teams can use only the elements bought by the money they had earned earlier in the first and second round.\nThe teams are not allowed to use any other element for the planning of house except those provided to them and won in second round.\nThe teams are themselves responsible for any damage caused to the house before the judging process.\nThe judging criteria will be based on:The judgment will be fully based on the principles of house planning.\nThe final decision will be of the judges." }
+  "eventName": "Build On Stakes",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Guess Whats's Next",
+      "sectionContent": "Betting: In betting contests every team have to start with zero balance.\nThey have to bet the amount on the clips shown to them. We will show 4 video clips.\nAccordingly from their bet they will gain or lose the amount.\nThat gained or loosed amount will be added to their base amount or subtracted their base amount respectively."
+    },
+    {
+      "sectionHeader": "Zenga Blast",
+      "sectionContent": "In this round the participants have to build a Zenga.\nOnly one chance is given to the participants if they fail to build the Zenga 1st time.\nAfter this elimination will be done on the basis of 1st and 2nd round.\nOnly 10 Teams will proceed to third round."
+    },
+    {
+      "sectionHeader": "Plan It!",
+      "sectionContent": "The teams can use only the elements bought by the money they had earned earlier in the first and second round.\nThe teams are not allowed to use any other element for the planning of house except those provided to them and won in second round.\nThe teams are themselves responsible for any damage caused to the house before the judging process.\nThe judging criteria will be based on:The judgment will be fully based on the principles of house planning.\nThe final decision will be of the judges."
+    }
   ],
-  "contactDetails":[
-    { "name":"Jatin Chauhan", "number":"7487896238"},
-    { "name":"Hardik Chapla", "number":"9574322033"}
+  "contactDetails": [
+    {
+      "name": "Jatin Chauhan",
+      "number": "7487896238"
+    },
+    {
+      "name": "Hardik Chapla",
+      "number": "9574322033"
+    }
   ]
 }

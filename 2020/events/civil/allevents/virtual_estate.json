@@ -1,13 +1,28 @@
 {
-  "eventName":"Virtual Estate",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Stock Estate", "sectionContent":"Certain base amount is given to each team and stock list, with prices is displayed.\nThey buy stocks write it down and report it on the desk and after recording that in our data their sheet is sign only then the stocks are valid.\nTheir amount of shares and remaining balance is accounted.\nPrice hike or drop of stocks in each round. They sell stocks or buy more and everything is recorded on desk too." },
-    { "sectionHeader":"Mutual Funds", "sectionContent":"From the remaining amount of each team mutual funds are to be brought by the list which is displayed.\nThey buy mutual funds write it down and report it on the desk and after recording and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid.\nTheir amount of mutual fund and remaining balance is accounted.\nPrice hike or drop of fund in each round. The changes of the funds is recorded on the desk too.\nAt the end of the day they sell back all the mutual funds on the value of the last round and their balance is accounted." },
-    { "sectionHeader":"World Auction", "sectionContent":"•	Base price for this round is the remaining balance from day 1*1000.\nWorld map is displayed on basis of their will and business skills they decide what to buy and what not.\nBase amount for each country is told\nCertain amount of countries are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different countries.\nAn internal selling window is then allocated to them.\nAll of this is also to be recorded on the desk.\nFurther round 2 is continued and a surprise is introduced to the participants.\nAfter last round the respective teams.\nBoth of the records are crosschecked.\nOn the basis of the total value of their countries and the remaining balance the team with highest amount of money is declared as winner." }
+  "eventName": "Virtual Estate",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Stock Estate",
+      "sectionContent": "Certain base amount is given to each team and stock list, with prices is displayed.\nThey buy stocks write it down and report it on the desk and after recording that in our data their sheet is sign only then the stocks are valid.\nTheir amount of shares and remaining balance is accounted.\nPrice hike or drop of stocks in each round. They sell stocks or buy more and everything is recorded on desk too."
+    },
+    {
+      "sectionHeader": "Mutual Funds",
+      "sectionContent": "From the remaining amount of each team mutual funds are to be brought by the list which is displayed.\nThey buy mutual funds write it down and report it on the desk and after recording and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid.\nTheir amount of mutual fund and remaining balance is accounted.\nPrice hike or drop of fund in each round. The changes of the funds is recorded on the desk too.\nAt the end of the day they sell back all the mutual funds on the value of the last round and their balance is accounted."
+    },
+    {
+      "sectionHeader": "World Auction",
+      "sectionContent": "Base price for this round is the remaining balance from day 1*1000.\nWorld map is displayed on basis of their will and business skills they decide what to buy and what not.\nBase amount for each country is told\nCertain amount of countries are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different countries.\nAn internal selling window is then allocated to them.\nAll of this is also to be recorded on the desk.\nFurther round 2 is continued and a surprise is introduced to the participants.\nAfter last round the respective teams.\nBoth of the records are crosschecked.\nOn the basis of the total value of their countries and the remaining balance the team with highest amount of money is declared as winner."
+    }
   ],
-  "contactDetails":[
-    { "name":"Ayush Vora", "number":"9723526026"},
-    { "name":"Shivam Patel", "number":"7600606769"}
+  "contactDetails": [
+    {
+      "name": "Ayush Vora",
+      "number": "9723526026"
+    },
+    {
+      "name": "Shivam Patel",
+      "number": "7600606769"
+    }
   ]
 }
