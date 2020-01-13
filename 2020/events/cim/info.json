@@ -4,31 +4,31 @@
 			"name": "Technodium",
 			"tagline": "Only for intelligent minds",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/tech-cyto.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/2020/technodium.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/technodium.json"
 		},
 		{
 			"name": "Cue-Swap",
 			"tagline": "Interact with Intellect.",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/inforea.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/2020/cue_swap.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/cue_swap.json"
 		},
 		{
 			"name": "Cipher-Intruson",
 			"tagline": "If you Break it, you Make it",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/silicon-valley.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/2020/cipher_intrusion.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/cipher_intrusion.json"
 		},
 		{
 			"name": "Cryptogram",
 			"tagline": "Where your ideas take off",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/escapade.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/2020/cryptogram.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/cryptogram.json"
 		},
 		{
 			"name": "BrainWiz",
 			"tagline": "Think Smart, Play Smart",
 			"imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/cim/code-of-duty.webp",
-			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/2020/brainwiz.json"
+			"dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/allevents/brainwiz.json"
 		}
 	]
 }
