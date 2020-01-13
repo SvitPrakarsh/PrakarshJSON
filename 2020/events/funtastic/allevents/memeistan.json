@@ -1,13 +1,28 @@
 {
-  "eventName":"Memeistan",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Memories", "sectionContent":"Describe the meme/photo with its famous dialogue." },
-    { "sectionHeader":"Memes Mania", "sectionContent":"Round of expressing your strength and knowledge of memes with some interesting twists." },
-    { "sectionHeader":"Memefy", "sectionContent":"Make your own memes by exploring different locations of the college using any social media application with some fun. " }
+  "eventName": "Memeistan",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Memories",
+      "sectionContent": "Describe the meme/photo with its famous dialogue."
+    },
+    {
+      "sectionHeader": "Memes Mania",
+      "sectionContent": "Round of expressing your strength and knowledge of memes with some interesting twists."
+    },
+    {
+      "sectionHeader": "Memefy",
+      "sectionContent": "Make your own memes by exploring different locations of the college using any social media application with some fun. "
+    }
   ],
-  "contactDetails":[
-    { "name":"Shrey Agarwal (SY CE)", "number":"9974597894"},
-    { "name":"Rohit Pardasani (TY CE)", "number":"9265360559"}
+  "contactDetails": [
+    {
+      "name": "Shrey Agarwal (SY CE)",
+      "number": "9974597894"
+    },
+    {
+      "name": "Rohit Pardasani (TY CE)",
+      "number": "9265360559"
+    }
   ]
 }

@@ -1,16 +1,32 @@
 {
-  "eventName":"Artiphilia 6.0",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"Expert seminar", "sectionContent":"Seminar will be conducted.The knowledge on photography and vlogging will be presented." },
-    { "sectionHeader":"Snap Rush", "sectionContent":"The participants have to click photos according to the theme.\nExample: Weather,food,lighting
-" },
-    { "sectionHeader":"DecoShot", "sectionContent":"Participants have to click 9-10  photos of the decoration at the event.\nIn which in every photo should contain at least one participant of the group." },
-    { "sectionHeader":"Chal-Chitra", "sectionContent":"Participants have to shoot a 3-4 min. of vlog describing and capturing the atmosphere of Prakarsh and give it an eye catchy title also they are required to use some of the special effects which would be specified at the time of event.
-" },
+  "eventName": "Artiphilia 6.0",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Expert seminar",
+      "sectionContent": "Seminar will be conducted.The knowledge on photography and vlogging will be presented."
+    },
+    {
+      "sectionHeader": "Snap Rush",
+      "sectionContent": "The participants have to click photos according to the theme.\nExample: Weather,food,lighting"
+    },
+    {
+      "sectionHeader": "DecoShot",
+      "sectionContent": "Participants have to click 9-10  photos of the decoration at the event.\nIn which in every photo should contain at least one participant of the group."
+    },
+    {
+      "sectionHeader": "Chal-Chitra",
+      "sectionContent": "Participants have to shoot a 3-4 min. of vlog describing and capturing the atmosphere of Prakarsh and give it an eye catchy title also they are required to use some of the special effects which would be specified at the time of event."
+    }
   ],
-  "contactDetails":[
-    { "name":"Drashti Patel (ty-comp)", "number":""},
-    { "name":"Jatin Agrawal (SY-COMP) ", "number":"9664994303"}
+  "contactDetails": [
+    {
+      "name": "Drashti Patel (ty-comp)",
+      "number": ""
+    },
+    {
+      "name": "Jatin Agrawal (SY-COMP) ",
+      "number": "9664994303"
+    }
   ]
 }

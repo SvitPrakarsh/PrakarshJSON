@@ -1,13 +1,28 @@
 {
-  "eventName":"Mr and Mrs Prakarsh",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"\n\t1.You Can’t See Me…\n\t2.Raise and Go…\n\t3.Fumble Jumble…" },
-    { "sectionHeader":"", "sectionContent":"Mixing of Strength and Fashion. “Support” is a key card in this round. Road to finale." },
-    { "sectionHeader":"", "sectionContent":"A special ramp walk is performed in this round with a surprise twist and some fun." }
+  "eventName": "Mr and Mrs Prakarsh",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "",
+      "sectionContent": "\n\t1.You Can’t See Me…\n\t2.Raise and Go…\n\t3.Fumble Jumble…"
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": "Mixing of Strength and Fashion. “Support” is a key card in this round. Road to finale."
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": "A special ramp walk is performed in this round with a surprise twist and some fun."
+    }
   ],
-  "contactDetails":[
-    { "name":"Dharmik Mehta (TY CE)", "number":"7043215854"},
-    { "name":"Jeanelle Kantharia (TY CE)", "number":""}
+  "contactDetails": [
+    {
+      "name": "Dharmik Mehta (TY CE)",
+      "number": "7043215854"
+    },
+    {
+      "name": "Jeanelle Kantharia (TY CE)",
+      "number": ""
+    }
   ]
 }

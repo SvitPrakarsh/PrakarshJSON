@@ -1,13 +1,28 @@
 {
-  "eventName":"Combat Conquer",
-  "imageUrl":"",
-  "details":[
-    { "sectionHeader":"", "sectionContent":"In this round, the participants have to collect various types of objects listed and have to bring them to the coordinators within the timelimit. The objects list will be given on the spot. " },
-    { "sectionHeader":"", "sectionContent":"In this round dares will be given to the teams and they will compete with each other to win and qualify to the next round. Dares will contain some physical tasks and qualification will be on the bases of decided criteria. " },
-    { "sectionHeader":"", "sectionContent":"This round is based on team work. A game board will be drawn on the floor and a dice will be provided to them. All the blocks will contain a chit containing tasks. One of the team member will be inside the game board and will be playing the game and other team member will have to perform the tasks. First team to reach the last block will be the winner." }
+  "eventName": "Combat Conquer",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "",
+      "sectionContent": "In this round, the participants have to collect various types of objects listed and have to bring them to the coordinators within the timelimit. The objects list will be given on the spot. "
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": "In this round dares will be given to the teams and they will compete with each other to win and qualify to the next round. Dares will contain some physical tasks and qualification will be on the bases of decided criteria. "
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": "This round is based on team work. A game board will be drawn on the floor and a dice will be provided to them. All the blocks will contain a chit containing tasks. One of the team member will be inside the game board and will be playing the game and other team member will have to perform the tasks. First team to reach the last block will be the winner."
+    }
   ],
-  "contactDetails":[
-    { "name":"Aarati Chawda", "number":""},
-    { "name":"Isha Patel", "number":""}
+  "contactDetails": [
+    {
+      "name": "Aarati Chawda",
+      "number": ""
+    },
+    {
+      "name": "Isha Patel",
+      "number": ""
+    }
   ]
 }
