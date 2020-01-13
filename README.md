@@ -1,2 +1,2 @@
 # PrakarshJSON
-JSON files for Prakarsh Android App 2020.
+JSON files for Prakarsh Android App.
