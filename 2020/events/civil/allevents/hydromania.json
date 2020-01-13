@@ -1,0 +1,31 @@
+{
+	"eventName": "hydromania",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Use the power of hydraulics and skill to construct a bridge. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "You have to construct a bascule bridge based on Hydraulic mechanism. Materials like popsicle sticks, fevicol, pins, syringe, ryles pipe, etc. will be provided to construct a bridge with Hydraulic mechanism. Participants have to design the bridge on the basis of given dimensions . The bridge should also resist against varying load. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": " Participants have to construct bascule bridge which works on Hydraulic mechanism. • A model will be shown at the beginning of the event. According to it they have to construct a bascule bridge of specified dimensions. • Participants have to apply Hydraulic mechanism to the bridge.The judging criteria will be based on: 1) Depending on working of Hydraulic mechanism. 2) As per height of bridge and length of deck. 3) Varying load test. "
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of 3 or 4"
+		}
+	],
+	"contactDetails": [{
+			"name": "Harsh Bhatt",
+			"number": "9106178017"
+		},
+		{
+			"name": "Meha Shah ",
+			"number": "9429873750 "
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"eventName": "BOB THE BUILDER",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "CREATE A STRUCTURE USING STRAW BY THE PRINCIPLE OF TRUSS."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Bob the builder is event mainly based on truss structure. It contains three rounds. First round is treasure hunt in which participants are give objectives and they have to find the place which is asked them as a clue based on that they are given some points. Second round is structure based round in which they have to construct a structure using straws provided. The points are given to them based on the load taken by that structure. On the basis of points the elimination takes place. Round three is zenga blast in which they have to balance the zenga structure and the structure which is satisfies judging criteria is declared as a winner. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+        },
+        {
+            "sectionHeader": "Round 1 - Technical Pictionary",
+            "sectionContent":"Pictionary is a fun game round. In this round one member from the team will draw 10 pictures in limited time and the other team members will guess those picture. Right answer will give them plus points with no negative marking."
+        },
+        {
+            "sectionHeader": "Round 2 - Straw-ng Structure",
+            "sectionContent":"In this round they have to construct a structure using fix amount of straws and given fix amount of inventory. 1)This round is elimination round. The elimination is based on total points collected by team after two rounds. 2)The points in second round will be given by the load taken by the structure made up of straw."
+        },
+        {
+            "sectionHeader": "Round 3 - Zenga blast",
+            "sectionContent":" In this round the teams have to construct a structure using zenga blocks. 1)Participants have to fix the plane table given to them in limited time. 2)They have to construct a structure using zenga blocks. 3)Judging will be done on the basis of the judging criteria."
+        },
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "3 to 4 members per team "
+		},
+		{
+			"sectionHeader":"Venue & Time",
+			"sectionContent":"Round 1: C-207/208 on 13th Feb,2019 @ 10:45 pm\nRound 2: C-207/208 on 13th Feb,2019 @ 12:30 pm\nRound 3: SPACE BETWEEN CIVIL AND COMPUTER on 14th Feb,2019 @ 10:30 pm"
+		}
+	],
+	"contactDetails": [{
+			"name": "GAYATRI MAGARE",
+			"number": "9428614073"
+		},
+		{
+			"name": "HEET BHAVSAR",
+			"number": "8849426339"
+		}
+	]
+}

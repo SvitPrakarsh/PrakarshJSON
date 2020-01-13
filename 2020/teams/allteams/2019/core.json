@@ -1,0 +1,18 @@
+{
+  "members": [
+    { "name":"Meet Shah", "role":"Chief Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/1.webp" },
+    { "name":"Shivani Bansal", "role":" Joint Chief Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/2.webp" },
+    { "name":"Ayush Mishra", "role":"Technical Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/3.webp" },
+	{ "name":"Vishv Solanki", "role":"Joint Technical Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/4.webp" },
+    { "name":"Hemang Jobanputra", "role":"Admin Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/5.webp" },
+	{ "name":"Prit Shah", "role":"Joint Admin Co-ordinator ", "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/6.webp" },
+    { "name":"Parth Gandhi", "role":"Sponsorship and fund raising Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/7.webp" },
+    { "name":"Meet Pathak", "role":"Joint Sponsorship and fund raising Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/8.webp" },
+	{ "name":"Ayushi Solanki", "role":"Promotion Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/9.webp" },
+    { "name":"Avi Surtani", "role":"Joint Promotion Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/10.webp" },
+    { "name":"Rohan Patel", "role":"Joint Promotion Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/11.webp" },
+	{ "name":"Vraj Shah", "role":"Finance Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/12.webp" },
+    { "name":"Shivam Shah", "role":"Joint Finance Co-ordinator" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/2019/13.webp" }
+
+  ]
+}

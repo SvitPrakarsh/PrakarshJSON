@@ -1,0 +1,9 @@
+{
+  "members": [
+    { "name":"Chintan Prajapati", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/chintan.webp" },
+    { "name":"Rutvik Panchal", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/rutvik.webp" },
+    { "name":"Devarsh Panchal", "role":"Web Developer" , "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/devarsh.webp" },
+    { "name":"Mustanseer Sakerwala", "role":"App Modifier", "department":"", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/mustanseer.webp" }
+
+  ]
+}

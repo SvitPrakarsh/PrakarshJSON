@@ -1,0 +1,46 @@
+{
+	"eventName": "Assemble It 4.0 ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This event is all about your technical skills and your applied knowledge. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Dive into the heart of an Automobile!! The aim is to explore the technical knowledge regarding automobile engineering. Spark your way through the elaborate rounds which would test your problem solving and reasoning skills. At the end, untangle the mysteries of an I.C. Engine "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 - Quiz-X ",
+			"sectionContent": " Participants have to give a pen paper test to test the technical knowledge the test will cover areas of Aptitude, general knowledge followed by Basic maths and Science. The time limit for round 1 will be 1 hour "
+		},
+		{
+			"sectionHeader": "Round 2 - Identify me",
+			"sectionContent": "Number of components will be displayed to participants on projector. One of the team member will be blindfolded and will try to guess the components as many as possible. Other members will not be allowed to see it. Time limit for this round will be 3 minutes. At the end of round 2 elimination will be done. "
+		},
+		{
+			"sectionHeader": "Round 3 - Fix me up!",
+			"sectionContent": "Final three teams will get a chance to practically perform assembling and disassembling of a 4 stroke IC engine(Clutch, brakes and gear mechanism) under the guidance. Top three teams will be decided based on timing of round 3"
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "2-3 participants per team "
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Round 1: Mech Projector room on 13th Feb,2019 @ 10:45 am\nRound 2: C-211/212 on 13th Feb,2019 @ 12:45 pm\nRound 3:Mech Projector room on 13th Feb,2019 @ 2:15 pm\nRound 4:Thermal Lab on 14th Feb,2019 @ 11:00 am\n"
+		}
+	],
+	"contactDetails": [{
+			"name": "Dishank Nanavati",
+			"number": "9998868964"
+		},
+		{
+			"name": "Rishabh Shah",
+			"number": "9426208166"
+		}
+	]
+}

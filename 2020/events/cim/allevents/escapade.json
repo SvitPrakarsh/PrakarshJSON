@@ -1,0 +1,46 @@
+{
+	"eventName": "ESCAPADE",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This event will broadcast your technical skill and intelligence."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "An event is a technical application and logic based treasure hunt."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1 - MIND-BENDER",
+			"sectionContent": "This round is a quiz based round where participants will be answering to question on their own device with the help of KAHOOT.Questions will be displayed on a projector screen. Each question will have four options out of which one will be the correct answer. Judging criteria will be on most  correct answer."
+		},
+		{
+			"sectionHeader": "Round 2 - DICE OR DIE",
+			"sectionContent": "This round is based on team of two. Participants have to roll the dice and respective question will be asked. If answer is right your partner move forward. This will be time based round."
+		},
+		{
+			"sectionHeader": "Round 3 - CODE`QUER THE FLAG",
+			"sectionContent": "This is the treasure hunt round. Participants haveto solve code conversion. This will be team round. On solving the code , correct answer will lead to the correct flag part. One who collects all the flag parts is the Winner."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+	{
+		"sectionHeader": "Venue & Time",
+		"sectionContent": "Round 1: C-103/104 on 13th Feb,2019 @ 11:15 am\n Round 2: IT Dept. ME Class-(3/4) on 13th Feb,2019 @ 1:00 pm \n Round 3: IT DEpt. Ground floor labs on 13th Feb,2019 @ 2:15 pm\n"
+	}
+	],
+	"contactDetails": [{
+			"name": "Dhruv Patel ",
+			"number": "9574123899"
+		},
+		{
+			"name": " Vrusha Parikh",
+			"number": "9824880973"
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"eventName": "ARD-U-KNOW",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This workshop will teach you to build your own Arduino."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Arduino is very prominent these days for it’s for ability to make new digital devices using microcontroller and microprocessors. Here you will get a chance to make your own arduino,learn sensor interfacing and at the end we will provide you with Image processing demo."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Contents",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader":"Hardware Part",
+			"sectionContent":"Students will make own charger. Knowledge of Microcontroller and how it will work as an arduino.Details about different sensors and their functions.Interfacing of different sensors like IR, LDR, Buzzer. Demo of Image Processing and Ultrasonic sensor with its functions."
+		},
+		{
+			"sectionHeader":"Software Part",
+			"sectionContent":"Understanding of programming for each provided sensor. Software Installation. Doubt clearing session"
+		},
+		{
+			"sectionHeader":"Note:",
+			"sectionContent":"Kit will be containing of all parts except demo components. Deep understanding of world inside microcontroller and Arduino."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of 3 or 4"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Location: IT Seminar hall\n\nOn 13th Feb,2019:\n  Session 1: @ 10:45 pm\n  Session 2: @ 1:45 pm \nOn 14th Feb,2019:\n  Session 3: @ 10:30 pm\n  Session 4: @ 1:45 pm"
+		}
+	],
+	"contactDetails": [
+		{
+			"name": "Sagarika Singh  ",
+			"number": "7202975102"
+		}
+	]
+}

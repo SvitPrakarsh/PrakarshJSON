@@ -1,0 +1,58 @@
+{
+	"eventName": "ROYAL RUMBLE",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "The simplest object of this event is... FIGHT WITH YOUR OPPONENTS"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Build a wired or wireless remote Remote Controlled robot which can defend its self and have ability to destroy opponent robot. Once you are in there are no rules to follow. No task which can devalue your gladiator droid. It would be pure war nothing else if you think your robot can bare those conditions gear it up. Because it is going to be the experience that you had never before... "
+		},
+		{
+			"sectionHeader": "Arena specification: ",
+			"sectionContent": "The height of the arena is 2 feet above the ground level.The length & width of the arena is 200 cm both. "
+        },
+        {
+            "sectionHeader":"Problem Statement:",
+            "sectionContent":"Build a Wired or Wireless Remote Controlled robot which can defend its self and have ability to destroy opponent robot. Once you are in there are no rules to follow. No task which can devalue your gladiator droid. It would be pure war nothing else. If you think your robot can bare those conditions gear it up. Because it is going to be the experience that you had never before… Rules and specification: Each team maximum 4 participants.Number of persons allowed in the ring; (a) 1 person for controlling r/c machine. (b) 2 people for wired machine: 1 for each controlling & handling. The dimension of the robot should not exceed 40 X 40 X 45 (cm) (l*b*h) in its Use your own power supply, External power supply will not be provided.Lego robot is not allowed. Prohibited weaponry: Radio jamming, Liquids (glue, oil, water, corrosives, acids…), open combustion (fire, explosives,…), Un-tethered projectiles, Lasers etc.The team destroying the opponent robot’s wiring circuit intentionally or even by mistake during the time of war will be disqualified.The machine will be checked by the judges before the participants are allowed to race and the decision regarding the compliance of the machine with the specifications shall be solely in the hands of the judges.Spirit of healthy completion should be maintained by all teams, the violation of which will lead to IMMEDIATE DISQUALIFICATION.The organizers reserve all right to change any or all of the above rules, as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants.The decision of the judges and the organizers will be final.The electric voltage anywhere in the machine should not be more than 30 V (summation of all batteries is 30 V) at any point of time. The machine must use only electric power as the source of energy for driving the machine. The machine CANNOT use fuels, compressed gas or chemicals as the source of energy for driving the machine. "
+        },
+        {
+            "sectionHeader":"Description of rounds",
+            "sectionContent":""
+        },
+		{
+			"sectionHeader": "Round 1  WRESTLING ",
+			"sectionContent": "You have to face WRESTLING SCENARIO IN THIS ROUND.In any fight it is important how much you can hit, the thing which is important is how hard you can take and still keep fighting.Your robot should be able to defend itself as well as attack its opponent in this round you cannot destroy your opponent you just have to push it out of the wrestling arena in given time or defend yourself pushing out by your opponent during that time.  "
+		},
+		{
+			"sectionHeader": "Round 2 Knock Out",
+			"sectionContent": "In this scenario you can hit your opponent. You can be thrown out of arena. You have to fight against a robot; you can use different mechanisms provided it should satisfy the robot dimension while it is in a closed state. The arena will both help you and can also act against you provided how you choose to rage the war. The winner get a through to the next stage.  "
+		},
+		{
+			"sectionHeader": "Round 3 Final Round",
+			"sectionContent": "In this round you can use all your weapons.The real Test of the gladiator droids is in the time of certainty. So be prepared for the unknown lots of surprises are waiting for you if the droid is capable enough to face it.The arena will be revealed at that time.Destroy your opponent  This round will be of 4 min. And after 2 mins there is maintenance break for 20 sec. "
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": " Max participants in a team are 4."
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Venue: SPACE BETWEEN ELECTRICAL & MECHANICAL\nRound 1: On 13th Feb,2019 @ 10:45 am \n Round 2: On 13th Feb,2019 @ 02:15 pm \n Round 3: On 14th Feb,2019 @ 10:30 am \n Round 4: On 14th Feb,2019 @ 2:15 pm "
+		} 
+	],
+	"contactDetails": [{
+			"name": "Patel Karan ",
+			"number": "9409201616"
+		},
+		{
+			"name": "Arshil Vahora",
+			"number": "8469364944"
+		},
+		{
+			"name":"Jwal Vyas",
+			"number":"9574349017"
+		}
+	]
+}

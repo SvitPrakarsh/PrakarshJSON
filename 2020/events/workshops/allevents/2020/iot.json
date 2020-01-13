@@ -1,0 +1,24 @@
+{
+  "eventName": "IOT",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "This workshop will be conducted by an expert wherein the students will be taught about the IOT (Internet of Things), with some technical interaction and they will be given a brief about the components and webpage interfacing."
+    },
+    {
+      "sectionHeader": "Description",
+      "sectionContent": "The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.\nIn this workshop we are going to teach everything about IOT from basics and will also provide hands on implementation on practical projects.\nParticipants will learn and understand how to make an IOT Project and with proper guidance will make their own. Students will be taught interfacing with an ESP 8266 MODULE.\nThey will also be given a Take Away Kit"
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Bhargav kuvadiya",
+      "number": "8980838257"
+    },
+    {
+      "name": "Lawanu Das",
+      "number": "9586820355"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+	"eventName": "ARD-U-KNOW",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "This workshop will teach you to build your own Ardiuno."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Ardiuno is very prominent these days for it’s for ability to make new digital devices using microcontroller and microprocessors. Here you will get a chance to make your own arduino, you can then make your own digital projects on it."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Contents",
+			"sectionContent": "Hands-on understanding of different basic components of arduino like different resistors and capacitors.Understanding the communication IC. Learn about the controller Atmega 328 which is the microcontroller used in the MCU. Learn about PCB soldering to build your own arduino."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of 3 or 4"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Will inform later."
+		}
+	],
+	"contactDetails": [{
+			"name": "Devesh Saudagar",
+			"number": "9974746855"
+		},
+		{
+			"name": "Sagarika Singh  ",
+			"number": "7202975102"
+		}
+	]
+}

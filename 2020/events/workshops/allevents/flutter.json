@@ -1,0 +1,38 @@
+{
+	"eventName": "FLUTTER",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "An open-source mobile application Software Development Kit created by Google."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "We all are familiar with usage of various mobile applications and its importance in our daily life. So we are organizing a workshop on Flutter so that we can develop applications for both Android and IOS devices using one common language and one common platform."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": "This is a workshop by Parth Jhansaria (GDG’s Flutter Head). Participants are required to come with fully charged laptops and enthusiasm to explore."
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Location: MECH IIPC HALL\n\nOn 14th Feb,2019:\n  Session : @ 12:00 pm"
+		}
+	],
+
+	"contactDetails": [{
+		"name": "Richa Sharma",
+		"number": " 9773121107"
+	},
+	{
+		"name":"Pranit Brahmbhatt",
+		"number":" 9978320184"
+	}
+	]
+}
+
+						  

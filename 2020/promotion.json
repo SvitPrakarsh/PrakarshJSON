@@ -1,0 +1,9 @@
+{
+  "promotionTitle":"Promotion Rules",
+  "promotionMessage":"To participate in the contest:\n1. Follow @prakarsh2019 on Instagram\n2. Post images with hashtag: #Prakarsh2019\n3. Instagram profile should be publicly visible during Feb 19-21.\n\nTop 8 Instagrammers will be awarded on 15th February 2019 based on the total no. of likes they receive on posts with #Prakarsh2019.",
+  "promotionImagesTitle":"Promotion Images",
+  "promotionImages":[
+    { "label":"Prakarsh Banner",
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/promotional/20180129.jpg" }
+  ]
+}

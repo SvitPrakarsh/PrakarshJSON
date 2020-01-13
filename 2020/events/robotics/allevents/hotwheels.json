@@ -1,0 +1,66 @@
+{
+	"eventName": "HOT WHEELS ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Build a wireless remote controlled robot which can traverse on RACETRACK LIKE F1 in traffic to out speed the opponents. "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Anyone with a sense of fun or craziness should and themselves grinning as they gun their engine through a crowded downtown in a race for best time. This race is a simple a minute thrill rides through the streets of the various cities around the world.  Short wheelbase, tight packing, manic motor and lot of engine roar- it's a time to drive hard and fast.  Show if you have what it takes to win in fast placed racing competition. Put yourself into the driver's seat of the world fastest cars to feel the adventure of velocity in urbanity... "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "ROBOT SPECIFICATION",
+			"sectionContent": "The dimension of the robot should not exceed 30 X 25 X 25(cm) (l*b*h) at any point of time. The machine should be controlled by a wireless R/C only.The electric voltage anywhere in the machine should not exceed 24 V (summation of all batteries is + 24 V) at any point of time.Robot weight should not exceed 4 Kg.The machine should have dual frequency remote control circuit of two control circuit, which could be interchanged, before the start of the game to avoid frequency interference with other teams. The case of any interference in the wireless system will not be considered for rematch or results. The machine should not be made from Lego parts or any readymade assembly kits. JUDGING for the same will be strict and participants will be immediately disqualified if any violation of the above is found. Sticker having robot name should be clearly visible on the body of the machine."
+		},
+		{
+			"sectionHeader": "RULES: ",
+			"sectionContent": "Each team maximum 4 participants. Students from different education institute can form a team.Teams should submit their remote before the event starts. Number of persons allowed in the ring: 1person for controlling the r/c machine.A team should bring the extra batteries to avoid the inconvenience.  Machine must have an on-board power supply to any mechanism require in power supply.The machine must use only electrical power as the source of energy for driving the machine. The machine cannot use fuels, compressed gas or chemicals as their source of energy for driving the machine.No robot should cause any damage to the arena. If any robot is found doing so, the team will be directly disqualified.  The machine will be checked by the judges before the participants are allowed to race and the decision regarding the compliance of the machine with the specification shall be solely in the hands of judges.Spirit of healthy competition should be maintained by all teams, the violation of which will lead to immediate disqualification.The organizers reserves all rights to change any or all the rules, as their seem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants. Some of the rules of the event will be told on the spot.The decision of the judges and the organizers will be final. "
+		},
+		{
+			"sectionHeader": "ARENA SPECIFICATION",
+			"sectionContent": " There will be city like track. It will consist of broad lanes, bridges, bumps, intersection of roads, traffic etc. "
+		},
+		{
+			"sectionHeader": "Round 1",
+			"sectionContent": "The robot has to complete the track which will be designed like a network of roads in minimum time.The robot has to start from the start point and reach the specified destination and return back to the start point. o Elimination will be solemnly time based. The top teams from the qualifying rounds will make to the second round.   "
+		},
+		{
+			"sectionHeader": "Round 2 ",
+			"sectionContent": "Two robots have to start from the SPECIFIED start point and reach specified destination. A bridge will be introduced in the track. Robot finishing the track in minimum time will make it to the further round.  "
+		},
+		{
+			"sectionHeader": "Round 3 ",
+			"sectionContent": " This will be an extension of the previous round and there will be more traffic on the track. "
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of Min 2 & Max 4. "
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 10:00 AM onwards LAWN NEAR STATUE  (PAVILLION) \nDate:22/02/2018 \n\n10:00 AM onwards \nLAWN NEAR STATUE  (PAVILLION)"
+		} 	
+	],
+	"contactDetails": [{
+			"name": "Farhan Bhadki",
+			"number": "8200462674"
+		},
+		{
+			"name": "Kavan Shah",
+			"number": "7016234612"
+		},
+		{
+			"name": "Abhishek Contractor",
+			"number": "9898214699"
+		},
+		{
+			"name": "Devashish(Track Advisor) ",
+			"number": "9586766206"
+		}
+	]
+}

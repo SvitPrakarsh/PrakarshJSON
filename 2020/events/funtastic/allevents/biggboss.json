@@ -1,0 +1,54 @@
+{
+	"eventName": "Bigg Boss",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "The boss always watches you "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Virtual Bigg Boss is a interesting game n which you experience the real life scenario of the game show “Bigg Boss”. Rounds in the game are inspired from the game show. It is a total fun based event. There are no special skills required to participate. Enjoy the event and let the fun begins."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1",
+			"sectionContent": "In this round the imagination skills of the contestants are judged. All the participants would be divided into teams and they would be given jigsaw puzzles which they need to solve in limited amount of time. Judging on the pieces they solve, some of the participants would be promoted to the next round."
+		},
+		{
+			"sectionHeader": "Round 2",
+			"sectionContent": " This round is based on physical challenge and points. Contestants would be divided into group of three. One of the them would be enacting any object and the other one would be guessing it. The one that is enacting won’t be allowed to speak. Main role is of the third contestant, until that person is doing the physical task, other two would be allowed to continue their game.  Points will be allotted to teams based on the objects the guesser finds. "
+		},
+		{
+			"sectionHeader": "Round 3",
+			"sectionContent": "This is a debate round. Participants would be divided in groups and then given topics to debate on and the ones that are able to prove their points in an effective way will be selected for the next round."
+		},
+		{
+			"sectionHeader": "Round 4",
+			"sectionContent": "This is an individual round. All the participants would be giving a quiz test and then perform a given task. The ones which does that in minimum time would be the winner."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "On 13th Feb,2019:\n  Round 1: GCR (Girls Common Room) @ 10:45 pm\n  Round 2: GCR (Girls Common Room) @ 1:45 pm \nOn 14th Feb,2019:\n  Round 3: GCR (Girls Common Room) @ 10:30 pm\n  Round 4: GCR (Girls Common Room) @ 12:45 pm"
+		}
+	],
+	"contactDetails": [{
+			"name": "Maitreyi Tandel ",
+			"number": "8140390318 "
+		},
+		{
+			"name": "Kushang Patel ",
+			"number": "7285860089"
+		},
+		{
+			"name":"Nikhil Khanani",
+			"number":"7802017561"
+		}
+	]
+}

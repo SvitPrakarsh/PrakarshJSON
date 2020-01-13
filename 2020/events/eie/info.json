@@ -1,0 +1,36 @@
+{
+"categoryName":"Dexter's Lab",
+  "events":[
+    { 
+      "name": "Wii-City ", 
+      "tagline":"Wireless, Worry-less", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/eie/wii-city.webp", 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/wii-city.json" 
+    },
+    { 
+      "name": "The Hurt-Locker ", 
+      "tagline":"Decode or destroy", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/eie/the-hurt-locker.webp", 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/the-hurt-locker.json" 
+    },
+    { 
+      "name": "LASER-TRIP", 
+      "tagline":"May the light be with you!", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/eie/lazer-trip.webp", 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/laser-trip.json" 
+    },
+    { 
+      "name": "ELECTRO-BOTS ", 
+      "tagline":"Crack it, Burst it", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/eie/electro-bots.webp", 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/electro-bots.json" 
+    },
+	  { 
+      "name": "PCB Portrait", 
+      "tagline":"Collect, Design, Assemble", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/eie/pcb-portrait.webp", 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/eie/allevents/pcb-portrait.json" 
+    }
+    
+  ]
+}

@@ -1,0 +1,51 @@
+{
+	"eventName": "Tech-Sovereign ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Experience the logic gates, circuits and sensors in an amazingly fun way and show us your Skills "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Learn how to make a sensor work for real. As sensors have become an essential components in almost every electronic devices, it is important to understand the working of same in day to day applications. Also master your soldering skills and circuit solving skills. Take full advantage of learning all of this by participating in this event. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Round 1",
+			"sectionContent": "This round is basically a modification of famous game Dumb-charades.One member of the team will be given couple of movies with some technical twist and he/she will have to do gestures so his/her partner can guess it right in minimum time.This is a time based elimination round. The selected team will move to round two. "
+		},
+		{
+			"sectionHeader": "Round 2",
+			"sectionContent": "In this round, one of the team member will be blindfolded while standing on a maze. The other partner will guide the way by answer twisted Gate circuits whose output will show you the right way.Teams to finish this round in minimum time will move to round 3. "
+		},
+		{
+			"sectionHeader": "Round 3",
+			"sectionContent": "This round is a technical treasure hunt.Each team member will be given a clue which will lead to further clues.Teams which complete the cycle of treasure hunt in list time will lead to final round. "
+		},
+		{
+			"sectionHeader": "Round 4",
+
+			"sectionContent": "The selected teams will be taught the concepts of sensor and related to that they will perform a working model of the particular sensor's application which will be a take away kit for each team." 
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Team of 2. "
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \nRound 1: 11:45 AM to 12:15 PM (C-315) \nRound 2: 1:00 PM to 2:15 PM (CONTROL LAB 3RD FLOOR) \nDate: 22/02/2018 \n\nRound 3: 10:30 AM to 12:00 PM (C-315) \nRound 4: 1:15 PM to 2:30 PM (DLC LAB)"
+		}
+	],
+	"contactDetails": [{
+			"name": "Harmish Pandya",
+			"number": "7622017009 "
+		},
+		{
+			"name": "Aayush Patel ",
+			"number": "8320064903 "
+		}
+	]
+}

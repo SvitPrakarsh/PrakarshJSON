@@ -1,0 +1,31 @@
+{
+	"eventName": "WordPress",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A software to create your own website without using single line of code "
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "We all use numerous websites in everyday life. Hence we have a workshop on WordPress which is a software used to create websites."
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": "This is a workshop by Rahul Banker. Participants are required to come with their laptops"
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Location: MECH IIPC HALL\n\nOn 13th Feb,2019:\n  Session : @ 12:00 pm"
+		}
+	],
+	"contactDetails": [
+	
+	{ "name":"Arpan Patel", "number":"7990785708"},
+	{ "name":"Khushali Mehta","number":"9879283327"}
+	]
+}

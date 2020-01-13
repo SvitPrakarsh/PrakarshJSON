@@ -1,0 +1,45 @@
+{
+	"eventName": "FPV DRONE ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "Learning and making a First person View (FPV) drone and getting to know about various multirotors/drones"
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "Here is the opportunity for all the drone lovers who want to learn how to make a drone. All the students will be given explanation about UAV/drones and its components with the help of PPT and videos. They will then be divided in various groups and will be allowed to make a drone with the help of our components, complete support will be provided to all. Students don't need to carry any component for making. Complete assistance will be provided for soldering and assembling of the components. "
+		},
+		{
+			"sectionHeader": "Description of Rounds",
+			"sectionContent": ""
+		},
+		{
+			"sectionHeader": "Session 1 ",
+			"sectionContent": "We will be delivering theoretical session on “All About UAV’s” which will include Basics of UAV, Types of kits available, Components like ESC, Flight Controller, Batteries, Frame, Charger, Motors, PDB, Propellers, Rx, Tx, Camera etc. These all things will be explained with the help of PPT and videos.Knowledge about different types of drones will be given. PID tuning of the drone will be explained.The theoretical session will continue for maximum 2hrs. "
+		},
+
+
+		{
+			"sectionHeader": "Session 2  ",
+			"sectionContent": "All the participants will be assembling the drone. Each team will have a drone and two volunteers for assistance.Soldering will be done by the workshop coordinator itself to prevent damage to the components"
+		},
+
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Individual"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 \n(MCA PROJECTOR ROOM)\n11:30 AM to 1:30 PM  \nDate: 22/02/2018 \n(MCA PROJECTOR ROOM) \n10:30 AM to 1:15 PM"
+		}
+	],
+	"contactDetails": [{
+			"name": "Wilson Hasrajani ",
+			"number": "8490959452 "
+		},
+		{
+			"name": "Premal Amin   ",
+			"number": "7874454050 "
+		}
+	]
+}
