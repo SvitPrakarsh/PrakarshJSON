@@ -3,6 +3,14 @@
   "imageUrl": "",
   "details": [
     {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
       "sectionHeader": "Try Your Luck",
       "sectionContent": "This round will test the skilling ability of the participants with a technical twist. Participants (Group) will be provided with dice. Judging criteria will be based on the sum of number rolled on dice"
     },
@@ -17,6 +25,10 @@
     {
       "sectionHeader": "Knock The Cups",
       "sectionContent": " This round is based on physical, technical and concentration skills. Participants will have a rope tied to their waist connected to wooden pieces at the end. Participants will have to knock the cups by moving their waist. Judging criteria are based on the maximum number of cups knocked. "
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
     }
   ],
   "contactDetails": [

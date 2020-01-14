@@ -3,6 +3,14 @@
   "imageUrl": "",
   "details": [
     {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
       "sectionHeader": "Expert seminar",
       "sectionContent": "Seminar will be conducted.The knowledge on photography and vlogging will be presented."
     },
@@ -17,6 +25,10 @@
     {
       "sectionHeader": "Chal-Chitra",
       "sectionContent": "Participants have to shoot a 3-4 min. of vlog describing and capturing the atmosphere of Prakarsh and give it an eye catchy title also they are required to use some of the special effects which would be specified at the time of event."
+    }
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
     }
   ],
   "contactDetails": [

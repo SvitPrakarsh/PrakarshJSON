@@ -3,25 +3,37 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "Memories",
+      "sectionHeader": "Introduction",
+      "sectionContent": "Perfect place for exploring meme knowledge."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "Gear up, cheer up for your extravagancy of memes."
+    },
+    {
+      "sectionHeader": "Round 1: Memories",
       "sectionContent": "Describe the meme/photo with its famous dialogue."
     },
     {
-      "sectionHeader": "Memes Mania",
+      "sectionHeader": "Round 2: Memes Mania",
       "sectionContent": "Round of expressing your strength and knowledge of memes with some interesting twists."
     },
     {
-      "sectionHeader": "Memefy",
+      "sectionHeader": "Round 3: Memefy",
       "sectionContent": "Make your own memes by exploring different locations of the college using any social media application with some fun. "
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo/Duo"
     }
   ],
   "contactDetails": [
     {
-      "name": "Shrey Agarwal (SY CE)",
+      "name": "Shrey Agarwal",
       "number": "9974597894"
     },
     {
-      "name": "Rohit Pardasani (TY CE)",
+      "name": "Rohit Pardasani",
       "number": "9265360559"
     }
   ]

@@ -1,7 +1,15 @@
-{
+
   "eventName": "Sherlock",
   "imageUrl": "",
   "details": [
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
+    },
     {
       "sectionHeader": "Quizlamics",
       "sectionContent": "Participants will get clues which will lead them to different places, after reaching those places they need to observe some pictorial representation memorize it and answer questionnaires based on that. Quiz performing on “Kahoot”. Also, there will be questions aptitude based."
@@ -13,6 +21,10 @@
     {
       "sectionHeader": "Catch the Murderer? ",
       "sectionContent": "Finally what you came here for - The Murder Mystery. Solve it, youwin."
+    },
+    {
+      "sectionHeader": "",
+      "sectionContent": ""
     }
   ],
   "contactDetails": [
