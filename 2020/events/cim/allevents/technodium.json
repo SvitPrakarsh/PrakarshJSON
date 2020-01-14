@@ -4,23 +4,23 @@
   "details": [
         {
       "sectionHeader": "Introduction",
-      "sectionContent": "This event is based on technical skills, critical thinking as well as knowledge. A combination of fun and knowledge."
+      "sectionContent": "This event is based on technical skills, critical thinking as well as knowledge. It is a combination of fun and knowledge."
     },
     {
       "sectionHeader": "Abstract ",
-      "sectionContent": "Fun based events with basic knowledge of technology. This event will test the basic knowledge of participants . Participants will also gain knowledge about some new algorithms."
+      "sectionContent": "Fun based event testing participant's basic knowledge of technology. Participants will also gain knowledge about some algorithms unknown to them."
     },
     {
       "sectionHeader": "Round 1: Brain Drain",
-      "sectionContent": "This round will test the mental ability of the participants with a technical twist.\nParticipants will be provided questions of three different kinds.\nJudging criteria will be based on correct answers."
+      "sectionContent": "This round will test the mental ability of the participants with a technical twist. Participants will be provided questions of three different kinds. Judging criteria will be based on the number of correct answers."
     },
     {
       "sectionHeader": "Round 2: Checkmate",
-      "sectionContent": "This is also an individual round.\nParticipants will be given n x n grid and they are asked to mark queen in such a way that not a single queen will be able to kill all other queen.\nIf participants successfully solve the queen problem he/she will get another grid after being able to answer simple riddle.\nBased on position of queen participants will scan QR code from which they will get letter to form technical word.\nJudgement will be madeon basis of max words made by participants ."
+      "sectionContent": "In this round, participants will be given a n x n chess board and they will be asked to place queen in such a way that no piece threatens another piece. If participants successfully solve the first problem they will get another grid after being able to answer a simple riddle. Based on the position of queen, participants will have to scan a QR code from which they will get a letter to form a technical word. Judgement will be made on basis of max words made by participants ."
     },
     {
       "sectionHeader": "Round 3: Techgrove",
-      "sectionContent": "\nFour pairs of participants will play this round\nTechnical ludo will be there.\nGoing ahead based on question & answer.\nSelected two will be playing final game."
+      "sectionContent": "Four pairs of participants will play this round. Technical ludo will be there. Going ahead based on question & answer. Selected two will be playing final game."
     },
     {
       "sectionHeader": "Participation",

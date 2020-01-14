@@ -3,16 +3,28 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "Stock Estate",
-      "sectionContent": "Certain base amount is given to each team and stock list, with prices is displayed.\nThey buy stocks write it down and report it on the desk and after recording that in our data their sheet is sign only then the stocks are valid.\nTheir amount of shares and remaining balance is accounted.\nPrice hike or drop of stocks in each round. They sell stocks or buy more and everything is recorded on desk too."
+      "sectionHeader": "Introduction",
+      "sectionContent": "Take your decision wisely and make best use of your assets. Risk it to win it!"
     },
     {
-      "sectionHeader": "Mutual Funds",
-      "sectionContent": "From the remaining amount of each team mutual funds are to be brought by the list which is displayed.\nThey buy mutual funds write it down and report it on the desk and after recording and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid.\nTheir amount of mutual fund and remaining balance is accounted.\nPrice hike or drop of fund in each round. The changes of the funds is recorded on the desk too.\nAt the end of the day they sell back all the mutual funds on the value of the last round and their balance is accounted."
+      "sectionHeader": "Abstract",
+      "sectionContent": "Buying and selling is an important part of Civil Engineer’s business. This event deals with improving the management aspects and also the risk taking factors that a civil engineer has to deal with. It gives them an experience of taking decisions on basis of their knowledge and guts and thus increases their assets. Base amount is allotted to all the teams participating. Stock round and Mutual fund round is executed on the basis of profit /loss done by the teams. The balance is further multiplied and revised balance is announced. World’s maps are shown and auction is done, after the first round the balance is accounted and flash news is displayed, according to it the value increase or decrease and an internal plot selling. At last on basis of valuation of plots winner is declared."
     },
     {
-      "sectionHeader": "World Auction",
-      "sectionContent": "Base price for this round is the remaining balance from day 1*1000.\nWorld map is displayed on basis of their will and business skills they decide what to buy and what not.\nBase amount for each country is told\nCertain amount of countries are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different countries.\nAn internal selling window is then allocated to them.\nAll of this is also to be recorded on the desk.\nFurther round 2 is continued and a surprise is introduced to the participants.\nAfter last round the respective teams.\nBoth of the records are crosschecked.\nOn the basis of the total value of their countries and the remaining balance the team with highest amount of money is declared as winner."
+      "sectionHeader": "Round 1: Stock Estate",
+      "sectionContent": "Certain base amount is given to each team and stock list, with prices is displayed. They buy stocks write it down and report it on the desk and after recording that in our data their sheet is sign only then the stocks are valid. Their amount of shares and remaining balance is accounted. Price hike or drop of stocks in each round. They sell stocks or buy more and everything is recorded on desk too."
+    },
+    {
+      "sectionHeader": "Round 2: Mutual Funds",
+      "sectionContent": "From the remaining amount of each team mutual funds are to be brought by the list which is displayed. They buy mutual funds write it down and report it on the desk and after recording and report it on the desk and after recording that in our data their sheet is signed only then the stocks are valid. Their amount of mutual fund and remaining balance is accounted. Price hike or drop of fund in each round. The changes of the funds is recorded on the desk too. At the end of the day they sell back all the mutual funds on the value of the last round and their balance is accounted."
+    },
+    {
+      "sectionHeader": "Round 3: World Auction",
+      "sectionContent": "Base price for this round is the remaining balance from day 1*1000. World map is displayed on basis of their will and business skills they decide what to buy and what not. Base amount for each country is told. Certain amount of countries are sold in each round and after that a flash news is displayed according to which prices may increase or decrease of different countries. An internal selling window is then allocated to them. All of this is also to be recorded on the desk. Further round 2 is continued and a surprise is introduced to the participants. After last round the respective teams. Both of the records are crosschecked. On the basis of the total value of their countries and the remaining balance the team with highest amount of money is declared as winner."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "2 or 3 participants per team."
     }
   ],
   "contactDetails": [

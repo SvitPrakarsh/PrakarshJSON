@@ -3,26 +3,30 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "",
-      "sectionContent": "Participants have to construct Bascule Bridge which works on Hydraulic mechanism."
+      "sectionHeader": "Introduction",
+      "sectionContent": "Use the power of hydraulics and skill to construct a bridge."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": "model will be shown at the beginning of the event. According to it they have to construct a bascule bridge of specified dimensions."
+      "sectionHeader": "Abstract",
+      "sectionContent": "You have to construct a bascule bridge based on Hydraulic mechanism. Materials like Popsicle sticks, fevicol, pins, syringe, ryles pipe, etc. Will be provided to construct a bridge with Hydraulic mechanism. The dimensions would be given according to that participants have to design the bridge. The bridge should also resist against varying load."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": "Participants have to apply Hydraulic mechanism to the bridge. The judging criteria will be based on:\n\t1) Depending on working of Hydraulic mechanism.\n\t2) As per height of bridge and length of deck.\n\t3) Varying load test."
+      "sectionHeader": "Descripton of Rounds",
+      "sectionContent": "Participants have to construct Bascule Bridge which works on Hydraulic mechanism\nA model will be shown at the beginning of the event. According to it they have to construct a bascule bridge of specified dimensions\nParticipants have to apply Hydraulic mechanism to the bridge. The judging criteria will be based on:\n\tDepending on working of Hydraulic mechanism.\n\tAs per height of bridge and length of deck.\n\tVarying load test."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "3 or 4 participants per team."
     }
   ],
   "contactDetails": [
     {
-      "name": "Drashti Joshi",
-      "number": ""
-    },
-    {
       "name": "Jaimin Prajapati",
       "number": "6354155278"
+    },
+    {
+      "name": "Drashti Joshi",
+      "number": ""
     }
   ]
 }

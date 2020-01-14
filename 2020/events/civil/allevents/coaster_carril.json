@@ -3,26 +3,30 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Introduction",
+      "sectionContent": "You have to show your creativity and skill in making a rollercoaster ride."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Abstract",
+      "sectionContent": "A Roller Coaster is an amusement ride developed for amusement parks and modern theme parks. The word amusement in ‘amusement parks’ reminds us the roller coaster and it’s cherishing rides. The exception is that the cars on a typical roller coaster are not self powered. Instead, a standard full circuit coaster is pulled up with a chain or cable along the lift hill to the first peak of the coaster track. The potential energy accumulated by the rise in the height is transferred to kinetic energy as the cars race down the first downward slope. The kinetic energy is then converted back into potential energy as the train moves up again to the second peak. The hill is necessarily lower, as some mechanical energy is lost due to friction. This mechanism gives it the name of ‘gravity ride’. Millions of people across the world ride rollercoaster to get the thrill of their lives. Find out what takes to make some of the fastest rollercoaster work."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Description of Rounds",
+      "sectionContent": "In this event the teams will be provided materials such as card boards, chart papers, fevicol, cutter, marble, cello tape and using these materials they have to construct a roller coaster having hills, loops, turns etc.. The teams will be shown a model of the roller coaster before starting of the event."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "3 or 4 participants per team."
     }
   ],
   "contactDetails": [
     {
-      "name": "Kirit Prajapati",
-      "number": ""
-    },
-    {
       "name": "Dishant Parekh",
       "number": "9408391412"
+    },
+    {
+      "name": "Kirit Prajapati",
+      "number": ""
     }
   ]
 }
