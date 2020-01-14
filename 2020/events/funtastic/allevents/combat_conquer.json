@@ -3,31 +3,35 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Introduction",
+      "sectionContent": "Perfect place where you play to win and conquer the land. "
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Abstract",
+      "sectionContent": "If you really want to challenge your risk-taking ability and your luck, this event is absolutely for you. "
     },
     {
-      "sectionHeader": "",
+      "sectionHeader": "Round 1",
       "sectionContent": "In this round, the participants have to collect various types of objects listed and have to bring them to the coordinators within the timelimit. The objects list will be given on the spot. "
     },
     {
-      "sectionHeader": "",
+      "sectionHeader": "Round 2",
       "sectionContent": "In this round dares will be given to the teams and they will compete with each other to win and qualify to the next round. Dares will contain some physical tasks and qualification will be on the bases of decided criteria. "
     },
     {
-      "sectionHeader": "",
+      "sectionHeader": "Round 3",
       "sectionContent": "This round is based on team work. A game board will be drawn on the floor and a dice will be provided to them. All the blocks will contain a chit containing tasks. One of the team member will be inside the game board and will be playing the game and other team member will have to perform the tasks. First team to reach the last block will be the winner."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Participation",
+      "sectionContent": "Duo"
     }
   ],
   "contactDetails": [
+    {
+      "name": "Brijesh Prajapati ",
+      "number": "8460882822"
+    },
     {
       "name": "Aarati Chawda",
       "number": ""
