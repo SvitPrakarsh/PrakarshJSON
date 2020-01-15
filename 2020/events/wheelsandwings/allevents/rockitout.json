@@ -21,12 +21,12 @@
   ],
   "contactDetails": [
     {
-      "name": "Shreshtha Somani",
-      "number": "6355292942"
-    },
-    {
       "name": "Kishan Tanna",
       "number": "6358750207"
+    },
+    {
+      "name": "Shreshtha Somani",
+      "number": ""
     }
   ]
 }
