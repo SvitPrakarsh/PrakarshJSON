@@ -55,6 +55,14 @@
       "department": "",
       "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/workshops-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/workshops/info.json"
+    },
+    {
+      "name": "E-Conclave",
+      "tagline": "A new concept, with new direction",
+      "department": "",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/econclave.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/econclave/info.json"
     }
+
   ]
 }
