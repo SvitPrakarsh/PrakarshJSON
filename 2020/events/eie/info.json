@@ -4,37 +4,37 @@
     { 
       "name": "Tesla", 
       "tagline":"Imagination at work", 
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/wii-city.webp", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/tesla.webp", 
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/tesla.json" 
     },
     { 
       "name": "Levitron", 
       "tagline":"“Let the gravity fail", 
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/the-hurt-locker.webp", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/levitron.webp", 
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/levitron.json" 
     },
     { 
       "name": "GVision", 
       "tagline": "Explore the world with a Different Perspective", 
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/lazer-trip.webp", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/gvision.webp", 
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/gvision.json" 
     },
     { 
       "name": "S.H.A.R.K", 
       "tagline":"Smart Home Automation Revolutionary Kit", 
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/electro-bots.webp", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/s.h.a.r.k.webp", 
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/s.h.a.r.k.json" 
     },
 	  { 
       "name": "Robo-Shetra", 
       "tagline":"Let the war begin!", 
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/pcb-portrait.webp", 
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/robo-shetra.json" 
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/robo_shetra.json" 
     },
     { 
       "name": "Rasbian", 
       "tagline":"", 
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/pcb-portrait.webp", 
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/eie/rasbian.webp", 
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/allevents/rasbian.json" 
     }   
   ]

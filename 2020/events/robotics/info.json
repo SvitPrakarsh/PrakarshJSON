@@ -4,13 +4,13 @@
     {
       "name": "Cross Roads	",
       "tagline": "Race for glory",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/robotics/2019/terrain-sail.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/robotics/cross_roads.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/robotics/allevents/cross_roads.json"
     },
     {
       "name": "Robo Soccer",
       "tagline": "Envision the Challenge",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/robotics/2019/foot-bot.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/robotics/robo_soccer.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/robotics/allevents/robo_soccer.json"
     }
   ]
