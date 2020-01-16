@@ -1,29 +1,32 @@
-	{
-	"eventName": "ISRO ",
-	"imageUrl": "",
-	"details": [{
-			"sectionHeader": "Introduction",
-			"sectionContent": "A guest lecture will be conducted by experts from Indian Space Research Organisation(ISRO)"
-		},
-		{
-			"sectionHeader": "Abstract",
-			"sectionContent": "A seminar will be conducted by the scientists researchers from ISRO. Information regarding Aerospace Technologies, Indian Satellites Sytems and about the achievements of India in Aerospace field will be given. This event has been conducted from last 2 years in SVIT for encouraging and inspiring all the participants and motivating them to contribute for our nation! "
-		},
-
-		{
-			"sectionHeader": "Participation",
-			"sectionContent": "Individual"
-		},
-		{
-			"sectionHeader": "Venue & Time",
-			"sectionContent": "Date: 22/02/2018 \nAERO AUDITORIUM(2ND FLOOR) \n10:30 AM to 01:00 PM "
-
-		}
-	],
-	"contactDetails": [{
-			"name": "Nikhil Sanghani ",
-			"number": "8511344443 "
-		}
-
-	]
+{
+  "eventName": "ISRO ",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "A guest lecture will be conducted by the experts of ISRO who will introduce their on-going projects"
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "The seminar is about on-going projects under observation of ISRO. There will be an expert who will also guide audience how to enrol there selves to the path of success in space technology."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo"
+    },
+    {
+      "sectionHeader": "Venue & Time",
+      "sectionContent": "Will be updated soon..."
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Jagrut Brahmbhatt",
+      "number": "8511043615"
+    },
+    {
+      "name": "Ruchita pandya ",
+      "number": ""
+    }
+  ]
 }

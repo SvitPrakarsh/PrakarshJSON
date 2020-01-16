@@ -1,25 +1,32 @@
 {
-	"eventName": "FINANCIAL FITNESS ",
-	"imageUrl": "",
-	"details": [{
-			"sectionHeader": "Introduction",
-			"sectionContent": "A guest lecture based on Financial topics will be conducted"
-		},
-		{
-			"sectionHeader": "Abstract",
-			"sectionContent": "The seminar on FINANCIAL FITNESS would be conducted by a well known chartered accountant. Topics regarding to  finance would be discussed and some financial techniques will be taught by the speaker. Topics like how to manage money, forecasting financial future etc would be covered. "
-		},
-		{
-			"sectionHeader": "Participation",
-			"sectionContent": "Individual"
-		},
-		{
-			"sectionHeader": "Venue & Time",
-			"sectionContent": "Date: 21/02/2018 1:15 PM to 3:30 PM (EC SEMINAR HALL)"
-		}
-	],
-	"contactDetails": [{
-		"name": "Akshat Bhandari ",
-		"number": "9428423484"
-	}]
+  "eventName": "Artist Hub",
+  "imageUrl": "",
+  "details": [
+    {
+      "sectionHeader": "Introduction",
+      "sectionContent": "Stand-up comedians, musicians will be there to entertain you."
+    },
+    {
+      "sectionHeader": "Abstract",
+      "sectionContent": "Artist hub is a firm which provides stage to upcoming artist who want to perform live. Here stand-up comedians, musicians will be there to entertain you. They will also guide you to become good musician and stand-up comedian in your life. "
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Solo"
+    },
+    {
+      "sectionHeader": "Venue & Time",
+      "sectionContent": "Will be updated soon..."
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": "Jagrut Brahmbhatt",
+      "number": "8511043615"
+    },
+    {
+      "name": "Ruchita pandya ",
+      "number": ""
+    }
+  ]
 }
