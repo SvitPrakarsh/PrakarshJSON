@@ -4,56 +4,56 @@
       "name": "Ancillary",
       "tagline": "A Support to Success",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/ancillary-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/ancillary-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/info.json"
     },
     {
       "name": "Cyber-Intrusion",
       "tagline": "A Call for Innovative Minds",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/cim-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/cim-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/cim/info.json"
     },
     {
       "name": "Dexter's Lab",
       "tagline": "Emerge, Incept, Excel..",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/eie-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/eie-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/eie/info.json"
     },
     {
       "name": "Fun-Tastic",
       "tagline": "A Funntastic Journey",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/funtastic-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/funtastic-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/info.json"
     },
     {
       "name": "Robotics",
       "tagline": "We Work Where Humans Can't",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/robotics-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/robotics-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/robotics/info.json"
     },
     {
       "name": "Structonics",
       "tagline": "Building Confidence",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/civil-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/civil-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/info.json"
     },
     {
       "name": "Wheels and Wings",
       "tagline": "We're loud & Proud",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/wheels-and-wings-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/wheels-and-wings-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/info.json"
     },
     {
       "name": "Workshops",
       "tagline": "Imagination at it's peak",
       "department": "",
-      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/categoryIcons/workshops-new.webp",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/categoryIcons/workshops-new.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/workshops/info.json"
     }
   ]

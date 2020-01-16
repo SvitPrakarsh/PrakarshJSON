@@ -1,10 +1,35 @@
-	{
-	"categoryName":"Ancillary",
-  "events":[
-    { "name": "HR SUMMIT ", "tagline":"“Optimize Your Human Equity", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/2019/hr-summit.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/hrsummit.json" },
-    { "name": "MIND POWER", "tagline":"Boost your career and focus on goal", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/2019/brain-power.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/mind-power.json" },
-    { "name": "INDIAN AIRFORCE ", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/2019/indian-air-force.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/indian-airforce.json" },
-    { "name": "EMPLOYMENT MANTRA", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/2019/employment-mantra.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/employment-mantra.json" },
-    { "name": "Vlog-Along", "tagline":"", "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/ancillary/2019/vlog-along.webp", "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/events/ancillary/allevents/vlog-along.json" }
+{
+  "categoryName": "Ancillary",
+  "events": [
+    {
+      "name": "HR SUMMIT ",
+      "tagline": "“Optimize Your Human Equity",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/hr-summit.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/hrsummit.json"
+    },
+    {
+      "name": "MIND POWER",
+      "tagline": "Boost your career and focus on goal",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/brain-power.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/mind-power.json"
+    },
+    {
+      "name": "INDIAN AIRFORCE ",
+      "tagline": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/indian-air-force.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/indian-airforce.json"
+    },
+    {
+      "name": "EMPLOYMENT MANTRA",
+      "tagline": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/employment-mantra.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/employment-mantra.json"
+    },
+    {
+      "name": "Vlog-Along",
+      "tagline": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/vlog-along.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/vlog-along.json"
+    }
   ]
 }

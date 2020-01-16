@@ -4,43 +4,43 @@
     {
       "name": "Memeistan",
       "tagline": "Kabhi Kabhi laghta hai ki Memes hi Duniya Hai",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/pubg.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/pubg.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON//2020/events/funtastic/allevents/memeistan.json"
     },
     {
       "name": "Artiphilia 6.0 ",
       "tagline": "Bring Creativity to life",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/artiphilia.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/artiphilia.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/artiphilia_6.0.json"
     },
     {
       "name": "Bigg Boss ",
       "tagline": "Let your Intelligence have Fun!",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/big-boss.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/big-boss.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/big_boss.json"
     },
     {
       "name": "Mr. and Ms. Prakarsh  ",
       "tagline": "Style is more about being yourself",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/mr-and-mrs-prakarsh.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/mr-and-mrs-prakarsh.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/mr_and_mrs_prakarsh.json"
     },
     {
       "name": "Prakarsh Premier League",
       "tagline": "Game on...",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/ppl.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/ppl.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/prakarsh_premier_league.json"
     },
     {
       "name": "Sherlock ",
       "tagline": "They were the footprints of a gigantic hound!",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/sherlock.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/sherlock.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/sherlock.json"
     },
     {
       "name": "Combat Conquer",
       "tagline": "Conquer the things and feel the power...",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/funtastic/2019/sot.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/2019/sot.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/combat_conquer.json"
     }
   ]

@@ -4,31 +4,31 @@
     {
       "name": "Assemble It",
       "tagline": "Unleash the Horsepower within",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/assemble-it.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/wheelsandwings/2019/assemble-it.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/allevents/assembleit.json"
     },
     {
       "name": "Def-Sec 7.0 ",
       "tagline": "Nabhaha Sparsham Diptum",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/def-sec.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/wheelsandwings/2019/def-sec.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/allevents/defsec7.0.json"
     },
     {
       "name": "Prachaar 10.0 ",
       "tagline": "For the free who knows the difference",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/prachaar.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/wheelsandwings/2019/prachaar.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/allevents/prachar10.0.json"
     },
     {
       "name": "Rock it out ",
       "tagline": "Pace forward to build Maleficent Rocket",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/tech-wizard.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/wheelsandwings/2019/tech-wizard.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/allevents/rockitout.json"
     },
     {
       "name": "3D-X",
       "tagline": "Imagination, now it’s reality",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/events/wheelsandwings/2019/tech-wizard.webp",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/wheelsandwings/2019/tech-wizard.webp",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/wheelsandwings/allevents/3dx.json"
     }
   ]
