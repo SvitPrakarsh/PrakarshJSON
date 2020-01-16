@@ -4,32 +4,32 @@
     {
       "name": "HR Summit ",
       "tagline": "Optimize Your Human Equity",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/hr-summit.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/hrsummit.json"
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/hr_summit.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/hr_summit.json"
     },
     {
-      "name": "MIND POWER",
+      "name": "Artist Hub",
       "tagline": "Boost your career and focus on goal",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/brain-power.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/mind-power.json"
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/artist_hub.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/artist_hub.json"
     },
     {
-      "name": "INDIAN AIRFORCE ",
+      "name": "Indian Airforce ",
       "tagline": "",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/indian-air-force.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/indian-airforce.json"
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/indian_airforce.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/indian_airforce.json"
     },
     {
-      "name": "EMPLOYMENT MANTRA",
+      "name": "ISRO",
       "tagline": "",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/employment-mantra.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/employment-mantra.json"
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/isro.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/isro.json"
     },
     {
-      "name": "Vlog-Along",
+      "name": "NHSRCL",
       "tagline": "",
-      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/2019/vlog-along.webp",
-      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/vlog-along.json"
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/nhsrcl.webp",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/nhsrcl.json"
     }
   ]
 }
