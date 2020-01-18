@@ -1,7 +1,33 @@
 {
   "members": [
-    { "name":"Yuvraj Bhogle", "role":"Web Developer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/yuv.webp" },
-    { "name":"Abhishek Patel", "role":"Web Developer" , "department":"Electrical Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/abhi.webp" },
-    { "name":"Shivam Patel", "role":"Web Developer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/shivam.webp" }
+    { 
+      "name":"Devarsh Panchal", 
+      "role":"Web & Grpahics Head" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/devarsh.webp",
+      "instagramUrl":"https://www.instagram.com/devarsh.007/", 
+      "githubUrl":"https://www.github.io/letscodedev", 
+      "twitterUrl":"https://www.twitter.com/devarshpanchal",
+      "linkedInUrl":"https://www.linkedin.com/in/devarsh-panchal"  
+    },
+    { 
+      "name":"Dwij Patel", 
+      "role":"Web Developer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/dwij.webp",
+      "facebookUrl":"https://m.facebook.com/dwij.bharodiya", 
+      "githubUrl":"https://github.com/ssd39", 
+      "twitterUrl":"https://twitter.com/ddl00690823",
+      "linkedInUrl":"https://www.linkedin.com/in/dwij-patel-806a8b176/"
+    },
+    { 
+      "name":"Harsh Mauny", 
+      "role":"Web Developer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/web/harsh_mauny.webp",
+      "githubUrl":"https://github.com/harshmauny", 
+      "twitterUrl":"https://twitter.com/HMauny_29?s=09" ,
+      "linkedInUrl":"https://www.linkedin.com/in/harsh-mauny-2876b8153"  
+    }
   ]
 }

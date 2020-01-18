@@ -1,9 +1,72 @@
 {
   "members": [
-    { "name":"Parth Patel", "role":"Lead Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parth.webp" },
-	{ "name":"Mrunal Makwana", "role":"Designer" , "department":"Information Technology", "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/mrunal.webp" },
-    { "name":"Harsh Parmar", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/harsh.webp" },
-    { "name":"Hiren Gohil", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/hiren.webp" },
-    { "name":"Parth Bhatagalikar", "role":"Designer" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/parthb.webp" }
+    { 
+      "name":"Dhrumil Kherde", 
+      "role":"Graphic Designer & Video Producer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/dhrumil.webp",
+      "facebookUrl":"https://m.facebook.com/dhrumil.kherde", 
+      "instagramUrl":"https://www.instagram.com/dhrumilkherde_dk/", 
+      "twitterUrl":"https://mobile.twitter.com/DhrumilKherde_d",
+      "linkedInUrl":"https://www.linkedin.com/in/dhrumil-kherde-66517868"
+    },
+    { 
+      "name":"Divyam Parmar", 
+      "role":"Video Producer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/divyam.webp" ,
+      "instagramUrl":"https://www.instagram.com/quarant1n3_2k", 
+      "githubUrl":"https://github.com/Quarnt1n3",
+      "linkedInUrl":"https://www.linkedin.com/in/divyam-parmar-b134b01a0"
+    },
+    { 
+      "name":"Akshat Ranadive", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/akshat.webp" ,
+      "facebookUrl":"https://www.facebook.com/akshat.ranadive?ref=bookmarks", 
+      "instagramUrl":"https://www.instagram.com/akshat_ranadive/", 
+      "githubUrl":"https://github.com/akshat1920", 
+      "twitterUrl":"https://mobile.twitter.com/akshat_ranadive" 
+    },
+    { 
+      "name":"Gaurav Tilokani", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/gaurav.webp" ,
+      "facebookUrl":"https://www.facebook.com/gaurav.tilokani.9", 
+      "instagramUrl":"https://www.instagram.com/gaurav_18_07/", 
+      "githubUrl":"https://github.com/Gaurav180720",
+      "linkedInUrl":"https://www.linkedin.com/in/gaurav-tilokani-410476194"
+    },
+    { 
+      "name":"Harsh Kotwani", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/harsh_kotwani.webp",
+      "instagramUrl":"https://instagram.com/whatharshposts", 
+      "githubUrl":"https://github.com/whatharshcodes", 
+      "twitterUrl":"https://twitter.com/whatharshtweets",
+      "linkedInUrl":"https://linkedin.com/in/harshkotwani"
+    },
+    { 
+      "name":"Kalash Rami", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/kalash.webp" ,
+      "facebookUrl":"https://www.facebook.com/kalash.rami.3?ref=content_filter", 
+      "instagramUrl":"https://www.instagram.com/kalash_rami/", 
+      "githubUrl":"https://github.com/kalashrami2000", 
+      "linkedInUrl":"https://www.linkedin.com/in/kalash-rami-0464321a0/" 
+    },
+    { 
+      "name":"Suraj Shah", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/design/suraj.webp" ,
+      "facebookUrl":"https://www.facebook.com/suraj.shah.9883739", 
+      "githubUrl":"https://github.com/Suraj2001", 
+      "linkedInUrl":"http://linkedin.com/in/suraj-shah-35a285193" 
+    }
   ]
 }

@@ -1,7 +1,33 @@
 {
   "members": [
-    { "name":"Arjunsinh Jadeja", "role":"Lead App Developer", "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/arjun.webp" },
-    { "name":"Raj Matariya", "role":"App Developer", "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/raj.webp" },
-    { "name":"Sandeep Sharma", "role":"App Developer", "department":"Computer Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/app/sandy.webp" }
+    { 
+      "name":"Akshar Patel", 
+      "role":"App Developer", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/app/akshar.webp",
+      "githubUrl":"https://github.com/aksharpatel17", 
+      "twitterUrl":"https://twitter.com/aksharpatel179",
+      "linkedInUrl":"https://www.linkedin.com/in/akshar-patel-8794491a0"
+    },
+    { 
+      "name":"Ayaan Retiwala", 
+      "role":"App Developer", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/app/ayaan.webp",
+      "instagramUrl":"https://www.instagram.com/a.yusuf.r/", 
+      "githubUrl":"https://github.com/LOLwierd", 
+      "twitterUrl":"https://twitter.com/ZephyrOnANimbus",
+      "linkedInUrl":"https://www.linkedin.com/in/ayaan-retiwala-5400bb165/"
+    },
+    { 
+      "name":"Mustanseer Sakerwala", 
+      "role":"App Developer", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/app/mustanseer.webp", 
+      "instagramUrl":"https://www.youtube.com/watch?v=9bZkp7q19f0", 
+      "githubUrl":"https://www.youtube.com/watch?v=WyX0SSr4xwc", 
+      "twitterUrl":"https://www.dailymotion.com/video/x6wff4p" ,
+      "linkedInUrl":"https://www.youtube.com/watch?v=TdytySMKAeo"
+    }
   ]
 }

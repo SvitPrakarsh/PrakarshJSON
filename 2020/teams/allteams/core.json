@@ -1,17 +1,76 @@
 {
   "members": [
-    { "name":"Pruthvi Nagadiya", "role":"Chief Co-ordinator" , "department":"Mechanical Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/pruthvinagadiya.webp" },
-    { "name":"Mihir Verma", "role":" Joint Chief Co-ordinator" , "department":"Computer Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mihirverma.webp" },
-    { "name":"Aliasgar Chasmawala", "role":"Technical Co-ordinator" , "department":"Civil Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aliasgarchasmawala.webp" },
-	{ "name":"Ankit Ved", "role":"Joint Technical Co-ordinator" , "department":"Information Technology", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/ankitved.webp" },
-    { "name":"Patel Zalak", "role":"Admin Co-ordinator" , "department":"I & C Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelzalak.webp" },
-	{ "name":"Patel Avi", "role":"Joint Admin Co-ordinator ", "department":"I & C Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/patelavi.webp" },
-    { "name":"Mithil Patwa", "role":"Sponsorship and fund raising Co-ordinator" , "department":"E & C Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mithilpatwa.webp" },
-    { "name":"Udip Shah", "role":"Joint Sponsorship and fund raising Co-ordinator" , "department":"Civil Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/udipshah.webp" },
-	{ "name":"Kaiwal Shah", "role":"Promotion Co-ordinator" , "department":"Mechanical Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/kaiwalshah.webp" },
-    { "name":"Zeel Shah", "role":"Joint Promotion Co-ordinator" , "department":"E & C Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/zeelshah.webp" },
-	{ "name":"Juhi Shahedadpuri", "role":"Finance Co-ordinator" , "department":"Civil Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/juhishahedadpuri.webp" },
-    { "name":"Mayank Patel", "role":"Joint Finance Co-ordinator" , "department":"E & C Engineering", "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/mayankpatel.webp" }
-
+    { 
+      "name":"Nishrg Prajapati", 
+      "role":"Chief Co-ordinator" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/nishrg.webp" 
+    },
+    { 
+      "name":"Vraj Shah", 
+      "role":" Joint Chief Co-ordinator" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/vraj.webp" 
+    },
+    { 
+      "name":"Jimit Vyas", 
+      "role":"Technical Co-ordinator" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/jimit.webp" 
+    },
+    { 
+      "name":"Ruchir Raval", 
+      "role":"Joint Technical Co-ordinator" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/ruchir.webp" 
+    },
+    { 
+      "name":"Granth Patel", 
+      "role":"Admin Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/granth.webp" 
+    },
+	  { 
+      "name":"Het Patel", 
+      "role":"Joint Admin Co-ordinator ", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/het.webp" 
+    },
+    { 
+      "name":"Manthan Shah", 
+      "role":"Sponsorship and fund raising Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/manthan.webp" 
+    },
+    { 
+      "name":"Utsav Parmar", 
+      "role":"Joint Sponsorship and fund raising Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/utsav.webp" 
+    },
+	  { 
+      "name":"Harsh Bachani", 
+      "role":"Promotion Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/harsh_bachani.webp" 
+    },
+    { 
+      "name":"Shankha Das", 
+      "role":"Joint Promotion Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/shankha.webp" 
+    },
+	  { 
+      "name":"Jay Agrawal", 
+      "role":"Finance Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/jay_agrawal.webp" 
+    },
+    { 
+      "name":"Aditya Lathigara", 
+      "role":"Joint Finance Co-ordinator", 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/teams/core/aditya.webp"
+    }
   ]
 }
