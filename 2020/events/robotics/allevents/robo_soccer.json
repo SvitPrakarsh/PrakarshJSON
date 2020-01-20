@@ -3,26 +3,58 @@
   "imageUrl": "",
   "details": [
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Introduction",
+      "sectionContent": "A platform for participants to showcase their robotics talent and also to bring alive their football spirits."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Abstract",
+      "sectionContent": "To build one manually controlled bots capable of playing soccer on an arena specially designed for robotic soccer match. The events are aimed at testing flipping and hitting of ball and bot control. Use of IC engine is not allowed."
     },
     {
-      "sectionHeader": "",
-      "sectionContent": ""
+      "sectionHeader": "Arena specification",
+      "sectionContent": "1. The soccer field will be 200cm long and 120cm wide. Plastic (table tennis) ball will be used approximately 40mm in diameter.Goal posts will be 40cm wide.\nNOTE: The arena shown in the figure is only a sample version. Actual arena may differ slightly in dimensions from the one shown in figure."
+    },
+    {
+      "sectionHeader": "Rules and specification: Bot Specifications",
+      "sectionContent": "Each team is allowed to have only one bot. Only Wired robot will be allowed. The bot must fit into a cube of (30x25x25)cm at staring . It can expand at any time during the match beyond this size even for hitting the ball. The bots can have on board as well as off board power supply. The maximum potential difference between any two points on the bot should not exceed 24 volts. Grabbing the ball is allowed maximum for 5 sec . So bots should not have any kind of grabbing mechanisms. Grabbing the ball is only allowed for goalkeeper within his own defense area. A robot must not have in its construction anything that is dangerous to arena another robot or humans. For bot the minimum length of wire is 5 m and wire should not touch the arena and one team member can hold the wire so that the wire does not touch the playing arena."
+    },
+    {
+      "sectionHeader": "Rules and specification: Game-Play",
+      "sectionContent": "A coin is tossed and the team which wins the toss decides which goal it will attack in the first half of the match. The other team takes the kick-off to start the match. The team that wins the toss takes the kick-off to start the second half of the match. 5 minutes of setup time will be provided to each team for pre-game setup and testing. Each match will consist of two halves of 2.5 minutes each. Ball will be placed at the centre of the arena at the starting of the match. In case of tie 5 min extra time will be given. The team to score first goal during the extra time will win the match. If no goal is scored during extra time, winner will be decided by penalty shoot outs during which 2 penalty shoots will be given to each team in turn. The better of two penalties will be considered to decide the winner. During Penalty shoots, only one bot (i.e. the striker) will be placed in arena and ball will be placed at the centre of the arena. The team to score a goal in lesser time will be considered winner."
+    },
+    {
+      "sectionHeader": "Round 1: League Round",
+      "sectionContent": "Total entries will be divided into 2parts/half. Matches will take place between 1st half and 2nd half. i.e. 16 Teams vs. 16 Teams. This round will consist of both halves of 2 min 30 sec each. And the break for half time will be of 30 sec. The teams must complete the game in this given particular time only. Half of the team will qualify for the 2nd round."
+    },
+    {
+      "sectionHeader": "Round 2: Elimination Round",
+      "sectionContent": "In this round , there will be 7 balls placed in the centre line of the arena and the team which puts more balls in the goal post i.e. score more goals will qualify for the final round. In this round out of the 16 teams coming to this round, 8 teams will be qualified and the rest 8 will be eliminated."
+    },
+    {
+      "sectionHeader": "Round 3: Semi - Finals.",
+      "sectionContent": "The 8 teams coming to this round will be divided into 2 groups. In this round, there will be different balls comprising different points based on the color which will be specified there and the teams have to score goals. The maximum time for this round will be 6 minutes. 30 seconds of maintenance break will be given.The group with Maximum Points scored will proceed to the GRAND FINALE."
+    },
+    {
+      "sectionHeader": "Round 4: Final Round",
+      "sectionContent": "The 4 teams which reached will play 2 matches and the winners of these both matches will battle for 1st and 2nd position. Other remaining 2teams which lost before will battle it out for the 3rd position. The game pattern for this round will be a surprise."
+    },
+    {
+      "sectionHeader": "Participation",
+      "sectionContent": "Atmost 4 participants per team"
     }
   ],
   "contactDetails": [
     {
-      "name": "",
-      "number": ""
+      "name": "Mauryadeep Zala ",
+      "number": "9408921682"
     },
     {
-      "name": "",
-      "number": ""
+      "name": "Bhagirath Zala",
+      "number": "9664502965"
+    },
+    {
+      "name": "Aniket Singh ",
+      "number": "9099583832"
     }
   ]
 }
