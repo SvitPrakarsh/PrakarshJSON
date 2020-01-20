@@ -1,24 +1,24 @@
 {
   "category": [
-      { 
-        "name": "Design Team", 
-        "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/design.png", 
-        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/design.json" 
-      },
-      { 
-        "name": "Web Development Team", 
-        "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/web.png", 
-        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/web.json" 
-      },
-      { 
-        "name": "APP Development Team",
-        "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/app.png",
-        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/app.json"
-      },
-      { 
-        "name": "Core Committee", 
-        "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/core.png", 
-        "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/core.json" 
-      }
+    {
+      "name": "Core Committee",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/core.png",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/core.json"
+    },
+    {
+      "name": "Design Team",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/design.png",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/design.json"
+    },
+    {
+      "name": "Web Development Team",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/web.png",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/web.json"
+    },
+    {
+      "name": "APP Development Team",
+      "iconUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/categoryIcons/app.png",
+      "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/teams/allteams/app.json"
+    }
   ]
 }
