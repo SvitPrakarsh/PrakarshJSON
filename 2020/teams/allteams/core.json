@@ -4,13 +4,16 @@
       "name":"Nishrg Prajapati", 
       "role":"Chief Co-ordinator" , 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/nishrg.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/nishrg.webp"  
     },
     { 
       "name":"Vraj Shah", 
       "role":" Joint Chief Co-ordinator" , 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/vraj.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/vraj.webp",
+      "instagramUrl":"https://www.instagram.com/p/B7VBvUvFRMB4i__3CW9Deru--XJEIz_nKJgzK00/?igshid=17ctodsffng5j",
+      "facebookUrl":"https://www.facebook.com/vraj.shah.56863",  
+      "linkedInUrl":"http://linkedin.com/in/vraj-shah-375990199" 
     },
     { 
       "name":"Jimit Vyas", 
@@ -40,7 +43,10 @@
       "name":"Manthan Shah", 
       "role":"Sponsorship and fund raising Co-ordinator", 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/manthan.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/manthan.webp",
+      "instagramUrl":"https://instagram.com/___m_a_n_t_h_a_n___?igshid=pcsvmz9n20bv",
+      "facebookUrl":"https://www.facebook.com/manthanagrawal007",  
+      "linkedInUrl":"https://www.linkedin.com/in/manthan-agrawal-53655092"  
     },
     { 
       "name":"Utsav Parmar", 
@@ -52,7 +58,11 @@
       "name":"Harsh Bachani", 
       "role":"Promotion Co-ordinator", 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/harsh_bachani.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/harsh_bachani.webp",
+      "instagramUrl":"https://www.instagram.com/bachani_harsh/",
+      "facebookUrl":"https://www.facebook.com/harsh.bachani.52",  
+      "twitterUrl":"www.twitter.com/@harshbachani2",
+      "linkedInUrl":"http://linkedin.com/in/harsh-bachani-6529a5190"  
     },
     { 
       "name":"Shankha Das", 
