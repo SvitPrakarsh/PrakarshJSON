@@ -29,19 +29,25 @@
       "name":"Ruchir Raval", 
       "role":"Joint Technical Co-ordinator" , 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ruchir.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ruchir.webp",
+      "facebookUrl":"https://www.facebook.com/ruchir.raval.37"
     },
     { 
       "name":"Granth Patel", 
       "role":"Admin Co-ordinator", 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/granth.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/granth.webp",
+      "instagramUrl":"https://www.instagram.com/granth_patel/j",
+      "facebookUrl":"https://www.facebook.com/granth.patel.3",  
+      "linkedInUrl":"https://www.linkedin.com/in/granth-patel-a17b7a160/"
     },
 	  { 
       "name":"Het Patel", 
       "role":"Joint Admin Co-ordinator ", 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/het.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/het.webp",
+      "facebookUrl":"https://www.facebook.com/profile.php?id=100013488060088",  
+      "linkedInUrl":"https://www.linkedin.com/in/het-patel-872393147"
     },
     { 
       "name":"Manthan Shah", 
@@ -81,7 +87,9 @@
       "name":"Jay Agrawal", 
       "role":"Finance Co-ordinator", 
       "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jay.webp" 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jay.webp",
+      "instagramUrl":"https://www.instagram.com/_j_agrawal",
+      "linkedInUrl":"https://www.linkedin.com/in/jay-agrawal-6a2b4b150"  
     },
     { 
       "name":"Aditya Lathigara", 
