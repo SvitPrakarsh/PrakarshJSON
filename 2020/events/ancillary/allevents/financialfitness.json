@@ -1,0 +1,25 @@
+{
+	"eventName": "FINANCIAL FITNESS ",
+	"imageUrl": "",
+	"details": [{
+			"sectionHeader": "Introduction",
+			"sectionContent": "A guest lecture based on Financial topics will be conducted."
+		},
+		{
+			"sectionHeader": "Abstract",
+			"sectionContent": "The seminar on FINANCIAL FITNESS would be conducted by a well known chartered accountant.\nTopics regarding to finance would be discussed and some financial techniques will be taught by the speaker.\nTopics like how to manage money, forecasting financial future etc would be covered."
+		},
+		{
+			"sectionHeader": "Participation",
+			"sectionContent": "Solo"
+		},
+		{
+			"sectionHeader": "Venue & Time",
+			"sectionContent": "Date: 21/02/2018 1:15 PM to 3:30 PM (EC SEMINAR HALL)."
+		}
+	],
+	"contactDetails": [{
+		"name": "Akshat Bhandari ",
+		"number": "9428423484"
+	}]
+}
