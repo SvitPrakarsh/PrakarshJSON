@@ -39,6 +39,15 @@
       "githubUrl":"https://github.com/Gaurav180720",
       "linkedInUrl":"https://www.linkedin.com/in/gaurav-tilokani-410476194"
     },
+     { 
+      "name":"Suraj Shah", 
+      "role":"Graphic Designer" , 
+      "department":"", 
+      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/design/suraj.webp" ,
+      "facebookUrl":"https://www.facebook.com/suraj.shah.9883739", 
+      "githubUrl":"https://github.com/Suraj2001", 
+      "linkedInUrl":"http://linkedin.com/in/suraj-shah-35a285193" 
+    },
     { 
       "name":"Harsh Kotwani", 
       "role":"Graphic Designer" , 
@@ -58,15 +67,6 @@
       "instagramUrl":"https://www.instagram.com/kalash_rami/", 
       "githubUrl":"https://github.com/kalashrami2000", 
       "linkedInUrl":"https://www.linkedin.com/in/kalash-rami-0464321a0/" 
-    },
-    { 
-      "name":"Suraj Shah", 
-      "role":"Graphic Designer" , 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/design/suraj.webp" ,
-      "facebookUrl":"https://www.facebook.com/suraj.shah.9883739", 
-      "githubUrl":"https://github.com/Suraj2001", 
-      "linkedInUrl":"http://linkedin.com/in/suraj-shah-35a285193" 
     }
   ]
 }
