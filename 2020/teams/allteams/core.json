@@ -1,107 +1,122 @@
 {
   "members": [
-    { 
-      "name":"Nishrg Prajapati", 
-      "role":"Chief Co-ordinator" , 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/nishrg.webp",
-      "instagramUrl":"https://instagram.com/nishrgprajapati",
-      "facebookUrl":"https://www.facebook.com/profile.php?id=100009139978813",  
-      "linkedInUrl":"https://www.linkedin.com/in/nishrg-prajapati-4446521a0"  
+    {
+      "name": "Nishrg Prajapati",
+      "role": "Chief Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/nishrg.webp",
+      "instagramUrl": "https://instagram.com/nishrgprajapati",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100009139978813",
+      "linkedInUrl": "https://www.linkedin.com/in/nishrg-prajapati-4446521a0"
     },
-    { 
-      "name":"Vraj Shah", 
-      "role":" Joint Chief Co-ordinator" , 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/vraj.webp",
-      "instagramUrl":"https://www.instagram.com/p/B7VBvUvFRMB4i__3CW9Deru--XJEIz_nKJgzK00/?igshid=17ctodsffng5j",
-      "facebookUrl":"https://www.facebook.com/vraj.shah.56863",  
-      "linkedInUrl":"http://linkedin.com/in/vraj-shah-375990199",
-      "twitterUrl":"https://twitter.com/Vrajjjjj2310" 
+    {
+      "name": "Vraj Shah",
+      "role": " Joint Chief Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/vraj.webp",
+      "instagramUrl": "https://www.instagram.com/p/B7VBvUvFRMB4i__3CW9Deru--XJEIz_nKJgzK00/?igshid=17ctodsffng5j",
+      "facebookUrl": "https://www.facebook.com/vraj.shah.56863",
+      "linkedInUrl": "http://linkedin.com/in/vraj-shah-375990199",
+      "twitterUrl": "https://twitter.com/Vrajjjjj2310"
     },
-    { 
-      "name":"Jimit Vyas", 
-      "role":"Technical Co-ordinator" , 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jimit.webp" 
+    {
+      "name": "Jimit Vyas",
+      "role": "Technical Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jimit.webp",
+      "instagramUrl": "http://Instagram.com/jimit_vyas77",
+      "facebookUrl": "https://www.facebook.com/jimit.vyas.50",
+      "linkedInUrl": "https://www.linkedin.com/in/jimit-vyas-1b042519b"
     },
-    { 
-      "name":"Ruchir Raval", 
-      "role":"Joint Technical Co-ordinator" , 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ruchir.webp",
-      "facebookUrl":"https://www.facebook.com/ruchir.raval.37"
+    {
+      "name": "Ruchir Raval",
+      "role": "Joint Technical Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ruchir.webp",
+      "facebookUrl": "https://www.facebook.com/ruchir.raval.37"
     },
-    { 
-      "name":"Granth Patel", 
-      "role":"Admin Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/granth.webp",
-      "instagramUrl":"https://www.instagram.com/granth_patel/j",
-      "facebookUrl":"https://www.facebook.com/granth.patel.3",  
-      "linkedInUrl":"https://www.linkedin.com/in/granth-patel-a17b7a160/"
+    {
+      "name": "Granth Patel",
+      "role": "Admin Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/granth.webp",
+      "instagramUrl": "https://www.instagram.com/granth_patel/j",
+      "facebookUrl": "https://www.facebook.com/granth.patel.3",
+      "linkedInUrl": "https://www.linkedin.com/in/granth-patel-a17b7a160/"
     },
-	  { 
-      "name":"Het Patel", 
-      "role":"Joint Admin Co-ordinator ", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/het.webp",
-      "facebookUrl":"https://www.facebook.com/profile.php?id=100013488060088",  
-      "linkedInUrl":"https://www.linkedin.com/in/het-patel-872393147"
+    {
+      "name": "Het Patel",
+      "role": "Joint Admin Co-ordinator ",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/het.webp",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100013488060088",
+      "instagramUrl": "https://instagram.com/_het_patel_03?igshid=1t2w4fk4qsas3",
+      "linkedInUrl": "https://www.linkedin.com/in/het-patel-872393147"
     },
-    { 
-      "name":"Manthan Shah", 
-      "role":"Sponsorship and fund raising Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/manthan.webp",
-      "instagramUrl":"https://instagram.com/___m_a_n_t_h_a_n___?igshid=pcsvmz9n20bv",
-      "facebookUrl":"https://www.facebook.com/manthanagrawal007",  
-      "linkedInUrl":"https://www.linkedin.com/in/manthan-agrawal-53655092"  
+    {
+      "name": "Manthan Shah",
+      "role": "Sponsorship and fund raising Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/manthan.webp",
+      "instagramUrl": "https://instagram.com/___m_a_n_t_h_a_n___?igshid=pcsvmz9n20bv",
+      "facebookUrl": "https://www.facebook.com/manthanagrawal007",
+      "linkedInUrl": "https://www.linkedin.com/in/manthan-agrawal-53655092"
     },
-    { 
-      "name":"Utsav Parmar", 
-      "role":"Joint Sponsorship and fund raising Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/utsav.webp",
-      "instagramUrl":"http://Instagram.com/im_utsav_parmar",
-      "facebookUrl":"https://www.facebook.com/utsav.parmar.33449",  
-      "linkedInUrl":"https://www.linkedin.com/in/utsav-parmar-3b56501a0" 
+    {
+      "name": "Utsav Parmar",
+      "role": "Joint Sponsorship and fund raising Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/utsav.webp",
+      "instagramUrl": "http://Instagram.com/im_utsav_parmar",
+      "facebookUrl": "https://www.facebook.com/utsav.parmar.33449",
+      "linkedInUrl": "https://www.linkedin.com/in/utsav-parmar-3b56501a0"
     },
-	  { 
-      "name":"Harsh Bachani", 
-      "role":"Promotion Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/harsh_bachani.webp",
-      "instagramUrl":"https://www.instagram.com/bachani_harsh/",
-      "facebookUrl":"https://www.facebook.com/harsh.bachani.52",  
-      "twitterUrl":"www.twitter.com/@harshbachani2",
-      "linkedInUrl":"http://linkedin.com/in/harsh-bachani-6529a5190"  
+    {
+      "name": "Harsh Bachani",
+      "role": "Promotion Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/harsh_bachani.webp",
+      "instagramUrl": "https://www.instagram.com/bachani_harsh/",
+      "facebookUrl": "https://www.facebook.com/harsh.bachani.52",
+      "twitterUrl": "www.twitter.com/@harshbachani2",
+      "linkedInUrl": "http://linkedin.com/in/harsh-bachani-6529a5190"
     },
-    { 
-      "name":"Shankha Das", 
-      "role":"Joint Promotion Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/sankha.webp" 
+    {
+      "name": "Shankha Das",
+      "role": "Joint Promotion Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/sankha.webp",
+      "instagramUrl": "https://instagram.com/koisankha?igshid=1fjh3ucoxg2l1",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100005184616689",
+      "linkedInUrl": "https://www.linkedin.com/in/sankha-das-001180186",
+      "twitterUrl": "https://twitter.com/burro_poop?s=08"
     },
-	  { 
-      "name":"Jay Agrawal", 
-      "role":"Finance Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jay.webp",
-      "instagramUrl":"https://www.instagram.com/_j_agrawal",
-      "linkedInUrl":"https://www.linkedin.com/in/jay-agrawal-6a2b4b150"  
+    {
+      "name": "Jay Agrawal",
+      "role": "Finance Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/jay.webp",
+      "instagramUrl": "https://www.instagram.com/_j_agrawal",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100002359231882",
+      "linkedInUrl": "https://www.linkedin.com/in/jay-agrawal-6a2b4b150",
+      "twitterUrl": "https://mobile.twitter.com/jayagrawal36"
     },
-    { 
-      "name":"Aditya Lathigara", 
-      "role":"Joint Finance Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/aditya.webp"
+    {
+      "name": "Aditya Lathigara",
+      "role": "Joint Finance Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/aditya.webp",
+      "instagramUrl": "https://www.instagram.com/aditya_0320/",
+      "facebookUrl": "https://m.facebook.com/aditya.lathigara?ref=bookmarks",
+      "twitterUrl": "https://twitter.com/AdityaLathigara?s=09"
     },
-    { 
-      "name":"Ronak Shah", 
-      "role":"Document Co-ordinator", 
-      "department":"", 
-      "imageUrl":"https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ronak.webp"
+    {
+      "name": "Ronak Shah",
+      "role": "Documentation Co-ordinator",
+      "department": "",
+      "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/teams/core/ronak.webp",
+      "instagramUrl": "https://www.instagram.com/ronak_04",
+      "facebookUrl": "https://www.facebook.com/ronak.shah.54"
     }
   ]
 }
