@@ -4,23 +4,23 @@
   "details": [
     {
       "sectionHeader": "Introduction",
-      "sectionContent": "This workshop will teach you how to build your own smartphone controlled robot"
+      "sectionContent": "This workshop will teach you how to build your own self balancing robot."
     },
     {
       "sectionHeader": "Abstract",
-      "sectionContent": "In this workshop participants will be taught how to make a robot, which can be controlled using a smartphone. This will be made possible by using a bluetooth module in the robot to connect to bluetooth of your smartphone."
+      "sectionContent": "In this workshop participants will be taught how to make a robot, which will balance itself."
     },
     {
       "sectionHeader": "Description",
-      "sectionContent": "This workshop involves the creation of a robot which can be controlled by gestures done from your smartphone. It also helps participants to understand the underlying concepts and use of Arduino, BT module and Gyroscope module."
+      "sectionContent": "This workshop involves the creation of a self-balancing robot. It also helps participants to understand the underlying concepts and using custom control board and Gyroscope module."
     },
     {
       "sectionHeader": "Workshop outcome",
-      "sectionContent": "Students will gain practical hands on experience with the following components.\n\tDevelopment board, Bluetooth HC – 05, Gyroscope.\nParticipants will also be made familiar with step by step development of robot and establishment of communication."
+      "sectionContent": "Students will gain practical hands on experience with the following components.\n\u2023\tCustom development board, Gyroscope.\nParticipants will also be made familiar with step by step development of robot and establishment of communication."
     },
     {
       "sectionHeader": "KIT",
-      "sectionContent": "Robot development components\nEmbedded robotics development board\nBatteries\nTools"
+      "sectionContent": "\n\u2023\tRobot development components\n\u2023\tEmbedded robotics development board\n\u2023\tBatteries\n\u2023\tTools"
     },
     {
       "sectionHeader": "Participation",
