@@ -5,30 +5,35 @@
       "name": "HR Summit ",
       "tagline": "Optimize Your Human Equity",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/hr_summit.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/hr_summit.json"
     },
     {
       "name": "Artist Hub",
       "tagline": "",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/artist_hub.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/artist_hub.json"
     },
     {
       "name": "Indian Airforce ",
       "tagline": "",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/indian_airforce.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/indian_airforce.json"
     },
     {
       "name": "ISRO",
       "tagline": "Viscosity of vision",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/isro.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/isro.json"
     },
     {
       "name": "NHSRCL",
       "tagline": "",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/ancillary/nhsrcl.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/ancillary/allevents/nhsrcl.json"
     }
   ]

@@ -5,42 +5,49 @@
       "name": "Memeistan",
       "tagline": "Kabhi Kabhi laghta hai ki Memes hi Duniya Hai",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/memeistan.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON//2020/events/funtastic/allevents/memeistan.json"
     },
     {
       "name": "Artiphilia 6.0 ",
       "tagline": "Bring Creativity to life",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/artiphilia_6.0.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/artiphilia_6.0.json"
     },
     {
       "name": "Bigg Boss",
       "tagline": "Let your Intelligence have Fun!",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/big_boss.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/big_boss.json"
     },
     {
       "name": "Mr. and Ms. Prakarsh",
       "tagline": "Style is more about being yourself",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/mr_and_mrs_prakarsh.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/mr_and_mrs_prakarsh.json"
     },
     {
       "name": "Prakarsh Premier League",
       "tagline": "Game on...",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/prakarsh_premier_league.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/prakarsh_premier_league.json"
     },
     {
       "name": "Sherlock ",
       "tagline": "They were the footprints of a gigantic hound!",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/sherlock.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/sherlock.json"
     },
     {
       "name": "Combat Conquer",
       "tagline": "Conquer the things and feel the power...",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/funtastic/combat_conquer.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/funtastic/allevents/combat_conquer.json"
     }
   ]

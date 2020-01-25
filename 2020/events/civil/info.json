@@ -5,24 +5,28 @@
       "name": "Battle of Bridges 2.0",
       "tagline": "Let water lift your success!",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/structonics/battle_of_bridges_2.0.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/allevents/battle_of_bridges_2.0.json"
     },
     {
       "name": "Build On Stakes",
       "tagline": "Bet it,Plan it",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/structonics/build_on_stakes.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/allevents/build_on_stakes.json"
     },
     {
       "name": "Coaster Carril",
       "tagline": "Loops and falls lead to success",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/structonics/coaster_carril.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/allevents/coaster_carril.json"
     },
     {
       "name": "Virtual Estate",
       "tagline": "Guts don’t lie but market does",
       "imageUrl": "https://svitprakarsh.github.io/PrakarshGraphics/2020/events/structonics/virtual_estate.webp",
+      "darkImageUrl": "",
       "dataUrl": "https://svitprakarsh.github.io/PrakarshJSON/2020/events/civil/allevents/virtual_estate.json"
     }
   ]
