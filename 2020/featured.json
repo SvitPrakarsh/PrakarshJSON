@@ -47,11 +47,11 @@
 
   ],
   "featuredEvents": [
-    {
-      "name":"Lucky Draw",
-      "shortDescription":"Win a mobile phone worth ₹25,000!",
-      "description":""
-    },
+    // {
+    //   "name":"Lucky Draw",
+    //   "shortDescription":"Win a mobile phone worth ₹20,000!",
+    //   "description":""
+    // },
     {
       "name":"#Prakarsh2020 Contest",
       "shortDescription":"Win exciting prizes!",
