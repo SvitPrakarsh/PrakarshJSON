@@ -1,8 +1,7 @@
 {
   "eventName": "Way Beats",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "In this workshop, participants will be taught how to make a Bluetooth speaker."
     },
@@ -13,10 +12,13 @@
     {
       "sectionHeader": "Description",
       "sectionContent": "What will you learn from this workshop:\n\u2023\tHow to design PCB\n\u2023\tTechnical description of a Bluetooth speaker and its components\n\u2023\tHow to do soldering\n\u2023\tTroubleshooting.\nParticipants will be given a Take Away Kit"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Electrical Seminar Hall on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Ankit Sharma",
       "number": "7990106264"
     },

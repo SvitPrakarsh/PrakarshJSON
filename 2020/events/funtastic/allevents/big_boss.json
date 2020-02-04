@@ -1,8 +1,7 @@
 {
   "eventName": "Big Boss",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "This event will test the physical ability and technical knowledge of the participants. Abstract: The event is based on physical ability."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Solo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Girls Common Room on 5th Feb @ 11:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Shail Patel",
       "number": "9601872927"
     },

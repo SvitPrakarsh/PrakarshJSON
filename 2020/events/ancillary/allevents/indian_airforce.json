@@ -1,8 +1,7 @@
 {
   "eventName": "Indian Airforce ",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "A Guest lecture conducted by Ex. Indian Airforce officer."
     },
@@ -16,11 +15,10 @@
     },
     {
       "sectionHeader": "Venue & Time",
-      "sectionContent": "Will be updated soon..."
+      "sectionContent": "IIPC Hall on 6th Feb 2020 @ 1:00 pm"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jagrut Brahmbhatt",
       "number": "8511043615"
     },

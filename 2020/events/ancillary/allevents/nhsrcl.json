@@ -1,8 +1,7 @@
 {
   "eventName": "NHSRCL",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "A Guest lecture conducted by Managing Director of Maharashtra Metro Rail Corp. Ltd. (Chief project manager of Bullet Train Project High Speed Rail)"
     },
@@ -16,11 +15,10 @@
     },
     {
       "sectionHeader": "Venue & Time",
-      "sectionContent": "Will be updated soon..."
+      "sectionContent": "EC Seminar Hall on 5th Feb @ 12:45 pm"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jagrut Brahmbhatt",
       "number": "8511043615"
     },

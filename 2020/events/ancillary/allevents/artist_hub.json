@@ -1,8 +1,7 @@
 {
   "eventName": "Artist Hub",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Stand-up comedians, musicians will be there to entertain you."
     },
@@ -16,11 +15,10 @@
     },
     {
       "sectionHeader": "Venue & Time",
-      "sectionContent": "Will be updated soon..."
+      "sectionContent": "IIPC Hall on 6th Feb @ 2:30 pm"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jagrut Brahmbhatt",
       "number": "8511043615"
     },
