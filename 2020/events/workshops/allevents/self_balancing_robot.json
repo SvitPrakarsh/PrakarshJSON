@@ -1,8 +1,7 @@
 {
   "eventName": "Self Balancing Robot",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "This workshop will teach you how to build your own self balancing robot."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Team of 3 or 4 participants"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Sports Room on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Pavan Patel",
       "number": "8320401795"
     },

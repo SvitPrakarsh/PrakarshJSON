@@ -1,8 +1,7 @@
 {
   "eventName": "Aerophilia 2.0",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Build your own RC plane."
     },
@@ -11,12 +10,15 @@
       "sectionContent": "Participating students will be taught how to make a RC Plane."
     },
     {
-      "sectionHeader": "Description of Rounds"  ,
+      "sectionHeader": "Description of Rounds",
       "sectionContent": "Day 1:\n\u2023\tStyrofoam sheet with the dimensioning and shape of each part will be provided.\n\u2023\tParticipant will have to cut out the parts from Styrofoam and assemble them to form the model.\n\tParticipants will recieve help by the volunteers to do the same.\n\nDay-2:-\n\u2023\tThe model will be facilitated with servo motors, receiver, battery and main engine. Flight test will be conducted for each model."
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Civil Seminar Hall on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Vedant Prajapati",
       "number": "7778841416"
     },

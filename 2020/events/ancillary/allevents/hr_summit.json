@@ -1,8 +1,7 @@
 {
   "eventName": "HR SUMMIT ",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "A guest lecture will be conducted by the experts of the HR from Multi-National Companies"
     },
@@ -16,11 +15,10 @@
     },
     {
       "sectionHeader": "Venue & Time",
-      "sectionContent": "Will be updated soon..."
+      "sectionContent": "Mech IIPC Hall on 5th Feb 2020 @ 1:30 pm"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jagrut Brahmbhatt",
       "number": "8511043615"
     },
