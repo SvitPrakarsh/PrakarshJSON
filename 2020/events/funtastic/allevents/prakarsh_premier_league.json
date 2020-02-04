@@ -1,8 +1,7 @@
 {
   "eventName": "Prakarsh Premier League",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Box Cricket."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "6 participants per team."
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Space between EC and IC on 5th Feb @ 11:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jayesh Lakum",
       "number": "756083535"
     },

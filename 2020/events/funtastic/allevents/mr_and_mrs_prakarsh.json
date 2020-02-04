@@ -1,8 +1,7 @@
 {
   "eventName": "Mr and Mrs Prakarsh",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "The world where tacky becomes trendy."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Solo/Duo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Class 311/312 on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Dharmik Mehta",
       "number": "7043215854"
     },

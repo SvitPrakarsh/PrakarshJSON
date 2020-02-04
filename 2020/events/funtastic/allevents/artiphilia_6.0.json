@@ -1,8 +1,7 @@
 {
   "eventName": "Artiphilia 6.0",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Let your true colors shine."
     },
@@ -29,10 +28,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "4 or 5 participants per team."
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "EC Seminar Hall on 5th Feb @ 11:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Jatin Agrawal",
       "number": "7874136639"
     },
