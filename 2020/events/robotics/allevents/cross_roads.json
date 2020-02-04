@@ -1,8 +1,7 @@
 {
   "eventName": "Cross Roads",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Track of Roars is all about having robots as transporters and explores danger paths. Add in the feel of competition and spice it with your talent to charm the crowd and be the ultimate winner.  "
     },
@@ -35,12 +34,11 @@
       "sectionContent": "Atmost 4 participants per team."
     },
     {
-      "sectionHeader":"Venue and Time",
-      "sectionContent":"Lawn besides Archi Department on 5th Feb @ 10:45 am"
+      "sectionHeader": "Venue and Time",
+      "sectionContent": "Lawn besides Architecture Department on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Preyash Marolia",
       "number": "9687471499"
     },
