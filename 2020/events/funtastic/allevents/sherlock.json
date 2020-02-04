@@ -1,8 +1,7 @@
 {
   "eventName": "Sherlock",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Take Risk with all Your Heart, Sharpen Your Mind with Adventurous Heart;Use Your Strength but don't be Harsh, Risky Legs and Play it Hard."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Duo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Class 303/304 on 5th Feb @ 11:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Dhrumil Panchal",
       "number": "9106697258"
     },

@@ -1,8 +1,7 @@
 {
   "eventName": "Memeistan",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Perfect place for exploring meme knowledge."
     },
@@ -25,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Solo/Duo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Class 307/308 on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Shrey Agrawal",
       "number": "8487861707"
     },
