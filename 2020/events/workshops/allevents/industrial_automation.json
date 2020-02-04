@@ -1,8 +1,7 @@
 {
   "eventName": "Industrial Automation",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "This workshop will be aimed at teaching students the basic tenents of industrial automation"
     },
@@ -17,10 +16,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "Solo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Aero Auditorium on 6th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Kathan Shah",
       "number": "942992944"
     },

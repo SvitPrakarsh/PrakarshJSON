@@ -1,7 +1,7 @@
-{"eventName": "Rise Of Machines 9.0",
+{
+  "eventName": "Rise Of Machines 9.0",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "Making a robo armed lift rover based on steering and lift mechanism."
     },
@@ -24,10 +24,13 @@
     {
       "sectionHeader": "Participation",
       "sectionContent": "3 or 4 participants per team"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Workshop on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Nishant Narvekar",
       "number": "9428765509"
     },
