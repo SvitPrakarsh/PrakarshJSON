@@ -1,8 +1,7 @@
 {
   "eventName": "Flutter",
   "imageUrl": "",
-  "details": [
-    {
+  "details": [{
       "sectionHeader": "Introduction",
       "sectionContent": "This workshop is aimed at teaching how to make useful cross-platform mobile applications via Flutter"
     },
@@ -12,15 +11,18 @@
     },
     {
       "sectionHeader": "Description of rounds",
-      "sectionContent": "Participants are required to come with laptops. They will be taught how to create mobile applications that work on both Android and iOS devices."  
+      "sectionContent": "Participants are required to come with laptops. They will be taught how to create mobile applications that work on both Android and iOS devices."
     },
     {
       "sectionHeader": "Participation",
       "sectionContent": "Solo"
+    },
+    {
+      "sectionHeader": "Venue and time",
+      "sectionContent": "Aero Auditorium on 5th Feb @ 10:45 am"
     }
   ],
-  "contactDetails": [
-    {
+  "contactDetails": [{
       "name": "Kathan Shah",
       "number": "942992944"
     },
